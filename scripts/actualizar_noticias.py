@@ -272,8 +272,19 @@ def main() -> int:
     SALIDA.write_text(texto, encoding="utf-8")
     (ARCHIVO / f"{salida['edicion']}.json").write_text(texto, encoding="utf-8")  # última versión del día
     # Alimenta Radar/Convocatorias del sitio con datos reales (hasta 15, últimas 36 h)
+    # Mismo filtro EXCLUIR + AGRO_RELEVANTE que seleccionar() — sin esto este
+    # bloque queda construido aparte y deja pasar el mismo ruido (confirmado
+    # el 7/11/2026: huelga por vivienda, fusión Davivienda/DAVIbank y un
+    # nombramiento de consejo departamental salieron aquí después de que el
+    # filtro ya se había agregado a seleccionar(), porque esta lista no pasa
+    # por esa función).
     limite = ahora - dt.timedelta(hours=VENTANA_HORAS)
-    conv = [n for n in todas if n["categoria"] == "Crédito y convocatorias" and dt.datetime.fromisoformat(n["fecha"]) >= limite]
+    conv = [
+        n for n in todas
+        if n["categoria"] == "Crédito y convocatorias" and dt.datetime.fromisoformat(n["fecha"]) >= limite
+        and not re.search(EXCLUIR, n["titulo"].lower())
+        and re.search(AGRO_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
+    ]
     for n in conv:
         n["puntaje"] = puntuar(n, ahora)
     conv.sort(key=lambda n: n["puntaje"], reverse=True)
