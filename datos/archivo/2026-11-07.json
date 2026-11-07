@@ -1,12 +1,12 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-07T19:42:53.234894+00:00",
+  "generado": "2026-11-07T19:44:37.784532+00:00",
   "edicion": "2026-11-07",
   "noticias": [
     {
       "categoria": "Crédito y convocatorias",
       "titulo": "¡Entérate! Unimagdalena abre inscripciones para productores agrícolas",
-      "resumen": "",
+      "resumen": "¡Entérate! Unimagdalena abre inscripciones para productores agrícolas",
       "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
       "fuente": "Alerta",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXBxbjRuRUU0eTFQbXZxTjN6ZHVYWUdmTGFoQkVpRzRDVVNJa1AtdmYzQ3B3NDVCb1A0eUtHYWVDMkptbEpDV09hVHJaTHdkRFhGcTlCY2pVbVNhQ2FtcFFCVEZqcTZKQ3puOHVYNEpZRElmT1ZIeDdvLUdsSy1Pc0JCb1BibjhPeklGVE5nQ2s2UjVpdkE1endoTzdGZ25tNTJST0E3UDl5aHNYdGfSAa4BQVVfeXFMUG1wcW40bkVFNHkxUG12cU4zemR1WFlHZkxhaEJFaUc0Q1VTSWtQLXZmM0NwdzQ1Qm9QNHlLR2FlQzJKbWxKQ1dPYVRyWkx3ZERYRnE5QmNqVW1TYUNhbXBRQlRGanE2SkN6bjh1WDRKWURJZk9WSHg3by1HbEstT3NCQm9QYm44T3pJRlROZ0NrNlI1aXZBNXp3aE83RmdubTUyUk9BN1A5eWhzWHRn?oc=5",
@@ -19,22 +19,8 @@
     },
     {
       "categoria": "Mercados y precios",
-      "titulo": "Carros eléctricos e híbridos subirían de precio por medida del Gobierno; hay cifra de cuánto",
-      "resumen": "",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNXzhhc3QxQm85eVVPQ1pqclNpRGdXc1F0Slhqd2JGS0xkQmRtMGJ3QVE4QllHUHJiWFBPUjZKbjc4dnlRQVdrRy1NY3ViUXhmSV9aeXhncF9JUDNWMVEwRDRPSUJQenpIcl9rb2pZS1ExZjRlV3VIdFZrc010SjFRd2ZELVQ5UlZfU0VRTVNUcl9tOFlCbTlZUk5FaTFMS1Q3MURDb21BcUh4RURnekhfQ3JMYVPSAbQBQVVfeXFMTV84YXN0MUJvOXlVT0NaanJTaURnV3NRdEpYandiRktMZEJkbTBid0FROEJZR1ByYlhQT1I2Sm43OHZ5UUFXa0ctTWN1YlF4ZklfWnl4Z3BfSVAzVjFRMEQ0T0lCUHp6SHJfa29qWUtRMWY0ZVd1SHRWa3NNdEoxUXdmRC1UOVJWX1NFUU1TVHJfbThZQm05WVJORWkxTEtUNzFEQ29tQXFIeEVEZ3pIX0NyTGFT?oc=5",
-      "fecha": "2026-11-07T15:07:02+00:00",
-      "puntaje": 11.72,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
       "titulo": "Índice de Precios del Productor en Colombia crece 2,2% en septiembre de 2026 impulsado por minería y sector agropecuario",
-      "resumen": "",
+      "resumen": "Índice de Precios del Productor en Colombia crece 2,2% en septiembre de 2026 impulsado por minería y sector agropecuario",
       "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
       "fuente": "Pulzo",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRE5NU1ZCa1ZGWVBrczhTN01CR2F5UXR6UGFMaVN1S2Z2dGpKZ3hXX3NXNjVqcXdhME5aVFFhNXlIcFdiLS1ES2JsMEt6bW5XbWhLc092MUNNTFpjMnZJRG94bWc1SVFiXzV3Q2ZMNmp6Qmt1TVYtTnZBenA2OVBiOE1palJtbzkyLVgyTWczVnNZdXBtN0VOZERnZFdWdGNmSmpOU2dUdmlUMmpCSE5Pd0pFUjRVMld6R2tPMjNlMWJITTNuMkRR0gHMAUFVX3lxTE0wR0h0Qnd3VzRSY0RXMUxOQ0JtclJvbEtzSjl4MmhnME01VmR5dnNmaWFkN2lhZVlQVDU0S1lRbHJqMEs2S3NqSDRkUDFzWlJvdTVnT2NWa2E4Q3l6UmdvYjNMUG9IVXNmSG1sMG5CamViX3B0TGtUOFVyOFhoYk9Kd191Q096Qm9RVW5UbHRPblV3aXEycHFycmFsMXowbHNiLUVlaUxuem9icU9MbUVxdEJlS2ZjOUZ1YVpEQmlKWjZqejZ4ckpFODRYNw?oc=5",
@@ -46,14 +32,14 @@
       }
     },
     {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "Así quedará conformado el Consejo Departamental de Participación Ciudadana en Bolívar",
-      "resumen": "",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "Alerta",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGFXZDR3ai0xUlEtTFFqd0ZBdzlsQ2NGUUhDT19aWm5VelktLWlCaDdaZzg4R2d6MzFVbzB1SGhmM1ZJTHdQWlNONmhrV3ZiY0tRMHdHZ0hKSDRKWDBZS212a0xDYU4zeUdyOGpVSWF6a3BsVUctOGo1MVlGaS1HbHhObFNPaHVPTG4xUEJpQUMyR1kwYkNYTldIU0JfNXlTZUdxdjdfU1ZmYy1xdkI3V9IBsAFBVV95cUxPRGFXZDR3ai0xUlEtTFFqd0ZBdzlsQ2NGUUhDT19aWm5VelktLWlCaDdaZzg4R2d6MzFVbzB1SGhmM1ZJTHdQWlNONmhrV3ZiY0tRMHdHZ0hKSDRKWDBZS212a0xDYU4zeUdyOGpVSWF6a3BsVUctOGo1MVlGaS1HbHhObFNPaHVPTG4xUEJpQUMyR1kwYkNYTldIU0JfNXlTZUdxdjdfU1ZmYy1xdkI3Vw?oc=5",
-      "fecha": "2026-11-07T04:12:31+00:00",
-      "puntaje": 9.69,
+      "categoria": "Mercados y precios",
+      "titulo": "Café colombiano: la apuesta por llegar a 20 millones de sacos",
+      "resumen": "Café colombiano: la apuesta por llegar a 20 millones de sacos",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Forbes Colombia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNFZqelV3RVBXbVBrdUZIM2VjcVNhQ3RHZ0JlU1FENERDei1qXzNsZmxBYnVnMVhJZkl2TnhKbWluUElSLTZIX0hqcjlwajkwVGJUNHZLSy1OQU5IbGhWYVJ5dFhQa0MxTVZFOUhfMFdMY0tuc09HVmotellOMnpZaEp1ZncwVm90b29mSXg3NldKUjF2THFxN2ctZDNEdTJ1?oc=5",
+      "fecha": "2026-11-07T17:34:10+00:00",
+      "puntaje": 9.4,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -61,13 +47,27 @@
     },
     {
       "categoria": "Agro general",
-      "titulo": "Acoso escolar en Colombia: informe del LEE revela que uno de cada cinco adolescentes es víctima frecuente según datos PISA 2025",
-      "resumen": "",
+      "titulo": "El agro necesita más proyectos, menos peleas",
+      "resumen": "El agro necesita más proyectos, menos peleas",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSURvTFBnS3ZRNll1TTlwQUJHYnMwZGlYNjVkNlNHQklzSEtSTElrWjNBREFGSXpKZ05xR0FUSjNqTTRrdWxzUlZkdTFNZXBRUTBEVkhNT3A5ejNPSFN3Z21leV9rNmNIOFQ3VUpuTnlFbXlyUGtvZjNKWVJpdVlSdXg1eVVRYXZvdXlBQ0RiUUhrRFdNX2xPOTJqM21OXzRNVVNfQ3VYdFhsQ1JFVGI1SG9kM284OW1VNk42MjA2cnpqZ3l6ZUpuZUpn0gHPAUFVX3lxTE5GRVJYQnhtVkJrWHZYYUFvZk80R3ozSnUxRHpmNDBKOTZhaG1FUVZNS2VyYXdybWtjWkFyNUFhMEV4djJPX1NzTGd5ZkZpSmNnaWg3RHhtS1VVT3RFUzdYV1piT2RUc0hMZE91cjNzUnZMaWh5dFpLMHlZbnJKRzVoZGI2eGxDM0l1WGN0TW9aeFk1T1loS3J4WUt2cGlSTXNBWmltNnRDU2pBUC1CSkQtNUwyY3o5bE1VMWYtQW5GaTczeElNeW5fVG54OGpiWQ?oc=5",
-      "fecha": "2026-11-07T18:30:48+00:00",
-      "puntaje": 9.67,
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUJaYXJpNElySUJQV3FEUjNEMEVrbmpZTlFUeGwtU3FTZHdjZE1MaHJoYzNEZldvMHFLWlpWWEpFZFZmSGVoMEQ2eUxEdkRvSEo5Tmg2TUx3YmY4OXViM1J6QUwtMFdMemxJa0x4dnMxSnZjc2hpNm41MDRPZ0pjN1dIY0tIN1hZRFJMRHQ3QUlJb21yZHJKTk1BSG_SAZwBQVVfeXFMTmlCWmFyaTRJcklCUFdxRFIzRDBFa25qWU5RVHhsLVNxU2R3Y2RNTGhyaGMzRGZXbzBxS1paVlhKRWRWZkhlaDBENnlMRHZEb0hKOU5oNk1Md2JmODl1YjNSekFMLTBXTHpsSWtMeHZzMUp2Y3NoaTZuNTA0T2dKYzdXSGNLSDdYWURSTER0N0FJSW9tcmRySk5NQUhv?oc=5",
+      "fecha": "2026-11-07T05:01:23+00:00",
+      "puntaje": 8.91,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "En un 200% aumentó el costo de fertilizantes en el Tolima",
+      "resumen": "En un 200% aumentó el costo de fertilizantes en el Tolima",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Alerta",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEk1WkFSaTltTHotd2x4ZHBxMEg5VmxlUEI3MUV4alFsS0FfUGlvS3NEa05kVk9LMEFMOGlLT1dQLVU0djVnNndZUzhjTlBKRFhGZHZKbWo2X0dJeWdFS0dpZ3VCaWE5RFJmTjJ6U1pPWUh2UTVSRmExeW1EVm90ZFBlMGxOYm5LbDhBcVVEby16c2dDNkNvWVZPdGFWNDDSAZ8BQVVfeXFMTzBJNVpBUmk5bUx6LXdseGRwcTBIOVZsZVBCNzFFeGpRbEtBX1Bpb0tzRGtOZFZPSzBBTDhpS09XUC1VNHY1ZzZ3WVM4Y05QSkRYRmR2Sm1qNl9HSXlnRUtHaWd1QmlhOURSZk4yelNaT1lIdlE1UkZhMXltRFZvdGRQZTBsTmJuS2w4QXFVRG8tenNnQzZDb1lWT3RhVjQw?oc=5",
+      "fecha": "2026-11-07T04:01:24+00:00",
+      "puntaje": 7.63,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
