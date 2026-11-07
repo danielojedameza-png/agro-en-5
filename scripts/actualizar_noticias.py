@@ -61,6 +61,25 @@ FUENTES_PRIORITARIAS = {
 }
 EXCLUIR = r"hor[oó]scopo|f[uú]tbol|far[aá]ndula|loter[ií]a|receta"
 
+# Filtro de admisión (no solo de exclusión): las consultas amplias como
+# "sector agropecuario Colombia" o "precio ganado Colombia" en Google
+# Noticias devuelven ruido real — probado el 7/11/2026: salieron noticias
+# de acoso escolar, precio de carros eléctricos, fusión bancaria
+# Davivienda/DAVIbank y una huelga por vivienda, todas sin relación con
+# el agro. EXCLUIR por sí solo es un juego perdido (hay que prever cada
+# tema ajeno posible); en cambio esto exige que la noticia mencione algo
+# del campo para calificar — se aplica a TODAS las categorías, incluidas
+# las que parecen específicas (p. ej. "Política y normas" con la consulta
+# "decreto sector agropecuario Colombia" también dejó pasar un nombramiento
+# de un consejo departamental sin relación real con el agro).
+AGRO_RELEVANTE = (
+    r"agr[oí]|campes|rural|ganad|cultiv|cosech|siembr|\bfinca\b|predio|agropecuar|"
+    r"\bpesca\b|acuicul|p[eé]cuari|avicult|porcicult|\bcaf[eé]\b|\bcacao\b|pl[aá]tano|"
+    r"\barroz\b|\bma[ií]z\b|\byuca\b|fertilizante|\briego\b|\bideam\b|\bica\b|finagro|"
+    r"banco agrario|\badr\b|minagricultura|\bumata\b|\bsipsa\b|productor(es)?|"
+    r"asociaci[oó]n campesina|cooperativa|hortaliza|tilapia|cachama|avicultor"
+)
+
 # Herramienta de agrodasin.org.co que se sugiere según el tema.
 # Rutas confirmadas contra el repo real (Fase 0, 7/11/2026):
 #   /constitucion-asociacion/ — para quien quiere CREAR una asociación/cooperativa nueva
@@ -145,7 +164,9 @@ def seleccionar(noticias: list[dict], ahora: dt.datetime, cuantas: int = 5) -> l
     limite = ahora - dt.timedelta(hours=VENTANA_HORAS)
     candidatas = [
         n for n in noticias
-        if dt.datetime.fromisoformat(n["fecha"]) >= limite and n["url"] and not re.search(EXCLUIR, n["titulo"].lower())
+        if dt.datetime.fromisoformat(n["fecha"]) >= limite and n["url"]
+        and not re.search(EXCLUIR, n["titulo"].lower())
+        and re.search(AGRO_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
     ]
     for n in candidatas:
         n["puntaje"] = puntuar(n, ahora)
@@ -188,7 +209,11 @@ POR_QUE_BASE = {
 def explicar(elegidas: list[dict]) -> None:
     """Agrega resumen y 'por qué te importa'. Usa la API de Claude si hay clave; si no, textos base."""
     for n in elegidas:
-        n["resumen"] = n["resumen_fuente"][:180]
+        # resumen_fuente queda vacío cuando Google Noticias solo repetía el
+        # título (ver separar_fuente/leer_feed) — sin esto, sin clave de IA,
+        # el boletín mostraba la noticia sin ningún resumen (probado el
+        # 7/11/2026: las 5 noticias de la primera corrida salieron así).
+        n["resumen"] = n["resumen_fuente"][:180] or n["titulo"][:180]
         n["por_que"] = POR_QUE_BASE.get(n["categoria"], "")
     clave = os.getenv("ANTHROPIC_API_KEY")
     if not clave:
