@@ -1,7 +1,7 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-07T23:37:20.977934+00:00",
-  "edicion": "2026-11-07",
+  "generado": "2026-11-08T05:52:45.143044+00:00",
+  "edicion": "2026-11-08",
   "noticias": [
     {
       "categoria": "Mercados y precios",
@@ -11,9 +11,23 @@
       "fuente": "Noticias RCN",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRHB2bTAtVXVuX1BFbkdGV1V4MFBMa2Y3UmdFTVR5dVZzN3BzYjc5RlVfZGVuOFgwY0ZSZlIta0s5dTI0cjhPNWh4bThkdVg2dDI1NHUwREx5bGR1SU9OMWhEQ0IwWjRPVllDNVVHWEU4UHZUWXFvTm5ZczVvbE5QTmdrQXNxakhhU2tVMl8wMVpVSm90QzRfdkZhV1ZoSFo1UWdtUTY5aFN0MmFxaHJwMFozbU1icFZWSHkxYUlFNl9PNWpic1JzVEhoNFpvNU5xSjY2UNIB1AFBVV95cUxQLXpPak0weUp1UXJRWWMwMVJNSW5mMVQtS1p4Y040cnA0OUV2Wk92ZUtsUXJYSUY3dU4tb2RxczRzbk0zczVWVlMtZEx6Z3hFTVhiYUdYcVJQTTQ2b2RCdjQwSlVlYl8tQmtQN2k3OWUtckhfT2haNlBGRFJ3aHdMbnZuc0Z6TE44c1htS0FZR3FQcjdmMW03cmpraW5WWHhadmZlUWRVYndzcjRmWjJJVWZWZnNsbHIyWGh2aXRwcFlzQ1ZVNmdlRW9HVVJyTUtWcXlMUA?oc=5",
       "fecha": "2026-11-07T19:35:12+00:00",
-      "puntaje": 11.88,
+      "puntaje": 10.14,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "El café vale más: construyamos ese valor juntos",
+      "resumen": "El café vale más: construyamos ese valor juntos",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "La Patria",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEpTTHY4cXF2ZUNHUWFBdkZJdWhXeFY0TU5OdUJ5T1E4dFdYOGhrMno1amxUZVp2NlRSaENRZjZNNFdYcGtSZnozcWhBT3B0Q280MFU3dzUwVm8zWWFzNksxR3lmcTFKY0xUSG1yRUxGWlFKQjlhUW5pQTJwbnd4emw4OEFrUXU3MlJqWWE2M0lydnVnRGxTQ2VLemRiMHJYNmk0VHNLNF95NF80?oc=5",
+      "fecha": "2026-11-08T05:00:00+00:00",
+      "puntaje": 9.76,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -25,21 +39,7 @@
       "fuente": "Alerta",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXBxbjRuRUU0eTFQbXZxTjN6ZHVYWUdmTGFoQkVpRzRDVVNJa1AtdmYzQ3B3NDVCb1A0eUtHYWVDMkptbEpDV09hVHJaTHdkRFhGcTlCY2pVbVNhQ2FtcFFCVEZqcTZKQ3puOHVYNEpZRElmT1ZIeDdvLUdsSy1Pc0JCb1BibjhPeklGVE5nQ2s2UjVpdkE1endoTzdGZ25tNTJST0E3UDl5aHNYdGfSAa4BQVVfeXFMUG1wcW40bkVFNHkxUG12cU4zemR1WFlHZkxhaEJFaUc0Q1VTSWtQLXZmM0NwdzQ1Qm9QNHlLR2FlQzJKbWxKQ1dPYVRyWkx3ZERYRnE5QmNqVW1TYUNhbXBRQlRGanE2SkN6bjh1WDRKWURJZk9WSHg3by1HbEstT3NCQm9QYm44T3pJRlROZ0NrNlI1aXZBNXp3aE83RmdubTUyUk9BN1A5eWhzWHRn?oc=5",
       "fecha": "2026-11-07T03:34:03+00:00",
-      "puntaje": 11.43,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Dólar frena exportaciones de ganado y carne, pero las de derivados lácteos resisten",
-      "resumen": "Dólar frena exportaciones de ganado y carne, pero las de derivados lácteos resisten",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "CONtexto Ganadero",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaGlpbW5qOUJGM0l6QkVVOXVnajFtQ0pNZUxMajhVbkZoSTg1NXQ5V09SZEh0c3daYWNvaThKVWw2NUZvSHJmc1diRG5rYXZKVmVKa28tTnNDb0lfampjOFZKd2VKb0hYTW1MVDRRZEdUOHpZU2ZQM2E0ejVNaC1EY3RTUUtQeURRekFnbGNwTWFoRXVmakJnRDZqX0RSbEd3VVhvX1JLQW1mRUNLQUxFR1ZsU1oxVndmSGJCWDhySnhldw?oc=5",
-      "fecha": "2026-11-07T19:30:06+00:00",
-      "puntaje": 10.86,
+      "puntaje": 9.69,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -53,7 +53,7 @@
       "fuente": "Pulzo",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRE5NU1ZCa1ZGWVBrczhTN01CR2F5UXR6UGFMaVN1S2Z2dGpKZ3hXX3NXNjVqcXdhME5aVFFhNXlIcFdiLS1ES2JsMEt6bW5XbWhLc092MUNNTFpjMnZJRG94bWc1SVFiXzV3Q2ZMNmp6Qmt1TVYtTnZBenA2OVBiOE1palJtbzkyLVgyTWczVnNZdXBtN0VOZERnZFdWdGNmSmpOU2dUdmlUMmpCSE5Pd0pFUjRVMld6R2tPMjNlMWJITTNuMkRR0gHMAUFVX3lxTE0wR0h0Qnd3VzRSY0RXMUxOQ0JtclJvbEtzSjl4MmhnME01VmR5dnNmaWFkN2lhZVlQVDU0S1lRbHJqMEs2S3NqSDRkUDFzWlJvdTVnT2NWa2E4Q3l6UmdvYjNMUG9IVXNmSG1sMG5CamViX3B0TGtUOFVyOFhoYk9Kd191Q096Qm9RVW5UbHRPblV3aXEycHFycmFsMXowbHNiLUVlaUxuem9icU9MbUVxdEJlS2ZjOUZ1YVpEQmlKWjZqejZ4ckpFODRYNw?oc=5",
       "fecha": "2026-11-07T11:50:37+00:00",
-      "puntaje": 9.73,
+      "puntaje": 7.99,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -61,13 +61,13 @@
     },
     {
       "categoria": "Agro general",
-      "titulo": "El agro necesita más proyectos, menos peleas",
-      "resumen": "El agro necesita más proyectos, menos peleas",
+      "titulo": "Así se capacitan los campesinos de Manizales para ofrecer alimentos de mejor calidad",
+      "resumen": "Así se capacitan los campesinos de Manizales para ofrecer alimentos de mejor calidad",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUJaYXJpNElySUJQV3FEUjNEMEVrbmpZTlFUeGwtU3FTZHdjZE1MaHJoYzNEZldvMHFLWlpWWEpFZFZmSGVoMEQ2eUxEdkRvSEo5Tmg2TUx3YmY4OXViM1J6QUwtMFdMemxJa0x4dnMxSnZjc2hpNm41MDRPZ0pjN1dIY0tIN1hZRFJMRHQ3QUlJb21yZHJKTk1BSG_SAZwBQVVfeXFMTmlCWmFyaTRJcklCUFdxRFIzRDBFa25qWU5RVHhsLVNxU2R3Y2RNTGhyaGMzRGZXbzBxS1paVlhKRWRWZkhlaDBENnlMRHZEb0hKOU5oNk1Md2JmODl1YjNSekFMLTBXTHpsSWtMeHZzMUp2Y3NoaTZuNTA0T2dKYzdXSGNLSDdYWURSTER0N0FJSW9tcmRySk5NQUhv?oc=5",
-      "fecha": "2026-11-07T05:01:23+00:00",
-      "puntaje": 7.83,
+      "fuente": "La Patria",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV1FpaFE5aTRURjBpWWxEbS1nZjFveElyaFBxMFdSNzVXbEVqWFlnaGszUkkzOTFpNVFLMVU2dWttbjFfZUJWbEVjWWZ0LXN1OFdPZ1dhbHVwZzJxZ2hVWnNmRzRfV2ZwcG9SdWhQd1UzRllPMkdxVmJ6Ny1NWHFNdDBoSEIwM1VvcjdmOEJIWmoyQWxLblFmWGN2c0lLVFNEVHJ6ZnUySktseWNXakI1R0t2YTNwUGp5R09V?oc=5",
+      "fecha": "2026-11-07T19:41:10+00:00",
+      "puntaje": 7.17,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
