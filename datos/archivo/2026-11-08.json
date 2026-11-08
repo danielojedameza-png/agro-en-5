@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-08T13:14:39.647152+00:00",
+  "generado": "2026-11-08T16:43:37.508452+00:00",
   "edicion": "2026-11-08",
   "noticias": [
     {
@@ -10,8 +10,22 @@
       "por_que": "Puede cambiar requisitos, apoyos o reglas que aplican a tu actividad.",
       "fuente": "Ministerio de Agricultura, Pesca y Alimentación",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOeVFlS1lxZFlnU216MTdUTml5WjNxR2RuREZvTG5YLTU3empSSEtWcFRIU3JvdUh0N1gwVHBKVmxaMm8xRFYwSXVtQTdDaVFJRUpSWVpwaHlma0FyMXBEQUFjX3lsNmZMZHR2YXR2WHNZaU5QNVoycVBiNWRNa1JhMGhncVdDU1Z3UVk5LU1HUnVSX05TR3Z0ejYwZDdNR2lQM0hlazRnTlhBMDBNdlBIRGhoU01OVUVIOU43NnFKRUM3WVVSS1lONlNkTHY4RzBtWXlwNHlwLXg4bnliUllHZlVFMjR2YmItTXBxZXlYdlRSZG5MLVBKMXNPdzlvRFpUZFg4SXk0SkdCX3hrN0NDWkIzczNYR0tvOG96SFdJaG9rSWpiMkpuYTVaVWFiOTg5WFlsVGNvTXItRVdOM2xFblEwUzA4N2tZRENnZkU0aw?oc=5",
-      "fecha": "2026-11-08T12:51:21+00:00",
-      "puntaje": 14.89,
+      "fecha": "2026-11-08T15:52:14+00:00",
+      "puntaje": 14.76,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "La caficultura colombiana al borde del abismo: menos café, precios bajos y amenaza de impuestos",
+      "resumen": "La caficultura colombiana al borde del abismo: menos café, precios bajos y amenaza de impuestos",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Ecos del Combeima",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ05OVXYtcG8yc1ZiWE9PYnhBcnZjWnR4M05IQ09QZldiNUcxNzNPSERUSUFLTU8tMnlDbXdILW90THVGTVRlYkE5UGNuaVZpZkNKS2o2WGo2MWlqY0lWcjlJN3ZKcnQ0VkRQLWpxR3RyOXNjRG1XRU9QX3NrNVAxT3BmamdQRHZHbXBoNS1OVmViNUNtMWlCTWJXb0ZsM0RkX2x5Q3dCemtsSkEwR25KR0JKY09BbzFOYWVScktNR0JBQQ?oc=5",
+      "fecha": "2026-11-08T13:17:46+00:00",
+      "puntaje": 12.05,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,7 +39,7 @@
       "fuente": "Alerta",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ndUVvVGpZMWROVXJBVklEdXM3dkFmazJXMVJiX2RMRFlYR1Vva01pMFFNNUE0ekpoTklfLTBjVE5HRFRXbXdrUzR0T09hTHd6S0gyeDJVYTdKVmFYa21yY1JFaGdVRmdodnQzb25Ub2Q4NUhyb2ZHNG5DY9IBe0FVX3lxTE1ndUVvVGpZMWROVXJBVklEdXM3dkFmazJXMVJiX2RMRFlYR1Vva01pMFFNNUE0ekpoTklfLTBjVE5HRFRXbXdrUzR0T09hTHd6S0gyeDJVYTdKVmFYa21yY1JFaGdVRmdodnQzb25Ub2Q4NUhyb2ZHNG5DYw?oc=5",
       "fecha": "2026-11-08T09:47:08+00:00",
-      "puntaje": 12.04,
+      "puntaje": 11.07,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -33,27 +47,13 @@
     },
     {
       "categoria": "Mercados y precios",
-      "titulo": "Fedegán alertó pérdidas de $47.000 millones en ganadería por los embates del Fenómeno del Niño",
-      "resumen": "Fedegán alertó pérdidas de $47.000 millones en ganadería por los embates del Fenómeno del Niño",
+      "titulo": "Reportaje: El café en Colombia históricamente ya tiene suficientes impuestos",
+      "resumen": "Reportaje: El café en Colombia históricamente ya tiene suficientes impuestos",
       "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Noticias RCN",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRHB2bTAtVXVuX1BFbkdGV1V4MFBMa2Y3UmdFTVR5dVZzN3BzYjc5RlVfZGVuOFgwY0ZSZlIta0s5dTI0cjhPNWh4bThkdVg2dDI1NHUwREx5bGR1SU9OMWhEQ0IwWjRPVllDNVVHWEU4UHZUWXFvTm5ZczVvbE5QTmdrQXNxakhhU2tVMl8wMVpVSm90QzRfdkZhV1ZoSFo1UWdtUTY5aFN0MmFxaHJwMFozbU1icFZWSHkxYUlFNl9PNWpic1JzVEhoNFpvNU5xSjY2UNIB1AFBVV95cUxQLXpPak0weUp1UXJRWWMwMVJNSW5mMVQtS1p4Y040cnA0OUV2Wk92ZUtsUXJYSUY3dU4tb2RxczRzbk0zczVWVlMtZEx6Z3hFTVhiYUdYcVJQTTQ2b2RCdjQwSlVlYl8tQmtQN2k3OWUtckhfT2haNlBGRFJ3aHdMbnZuc0Z6TE44c1htS0FZR3FQcjdmMW03cmpraW5WWHhadmZlUWRVYndzcjRmWjJJVWZWZnNsbHIyWGh2aXRwcFlzQ1ZVNmdlRW9HVVJyTUtWcXlMUA?oc=5",
-      "fecha": "2026-11-07T19:35:12+00:00",
-      "puntaje": 8.1,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "El café vale más: construyamos ese valor juntos",
-      "resumen": "El café vale más: construyamos ese valor juntos",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "La Patria",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc3NxWDBNakRmMU9NR0gycU1waTQwdlNPUDVoSVV0NUVhU2JlOTVGeUNCQjI5ZWNadWt6RDdLTGs2VVp0TmpCay1QTUVocFhWOGZMdTNkV1dwcUVGNU5QM3gwZnZ4d1BueG1oV1BtLXdGS05QaEdfWXNVczQ0blhvWmpzcXUtN0x5YnVucU0yclZoeS1hRWpqRVJLd3V0V28wa0lzRlE5X09jQQ?oc=5",
-      "fecha": "2026-11-08T05:00:00+00:00",
-      "puntaje": 7.71,
+      "fuente": "El Espectador",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3JveFJ4LXlEUXZ5MHpTZ0tUeGtHQkZyaUIxeGJVOTRnSVBUZFNDOUdaejVqTlZJX09PaVJxVXhRZWFpRUJxc0h6QW1PbV9SUFNqUTA4TTZ3alAyUmE0ZWU5NDRRYzYwVk5ZdUpMZENJY0lRSDlZTVhuUl96SG5uSExpM0dfRUI0R3FJTklVblpzZ05GTzhLa3dxeWFHNFgtcElJZmtlN3dEMWFaMXRwbVpYdW3SAcgBQVVfeXFMT094ZTQweHJLTzJuN2ExYWRHUk5BdHdUR1gydGNmbF9nR0FWcE9RbkgxZU05cjJsb0tmcFJMeFF4YU40eXZrc2g5Rzlvbmt4aFRJcVFqdVFxajBNUThzYnlkZWcxQ1lVWUpobHg5UVAtOUJiRmtza2dlcG9NVUR5akdCLVdQRW1nM1ZUaGpCQ3hLME5LM2c1Tjk0ei0ydHdHNHgwSlVucE9jUnZnUXBMRzhtWDFBTXlhbU80NWxtT0J2MmlhQi1pOUg?oc=5",
+      "fecha": "2026-11-08T15:00:00+00:00",
+      "puntaje": 9.52,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -61,13 +61,13 @@
     },
     {
       "categoria": "Crédito y convocatorias",
-      "titulo": "¡Entérate! Unimagdalena abre inscripciones para productores agrícolas",
-      "resumen": "¡Entérate! Unimagdalena abre inscripciones para productores agrícolas",
+      "titulo": "Agroindustria un camino a la transformación",
+      "resumen": "Agroindustria un camino a la transformación",
       "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "Alerta",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXBxbjRuRUU0eTFQbXZxTjN6ZHVYWUdmTGFoQkVpRzRDVVNJa1AtdmYzQ3B3NDVCb1A0eUtHYWVDMkptbEpDV09hVHJaTHdkRFhGcTlCY2pVbVNhQ2FtcFFCVEZqcTZKQ3puOHVYNEpZRElmT1ZIeDdvLUdsSy1Pc0JCb1BibjhPeklGVE5nQ2s2UjVpdkE1endoTzdGZ25tNTJST0E3UDl5aHNYdGfSAa4BQVVfeXFMUG1wcW40bkVFNHkxUG12cU4zemR1WFlHZkxhaEJFaUc0Q1VTSWtQLXZmM0NwdzQ1Qm9QNHlLR2FlQzJKbWxKQ1dPYVRyWkx3ZERYRnE5QmNqVW1TYUNhbXBRQlRGanE2SkN6bjh1WDRKWURJZk9WSHg3by1HbEstT3NCQm9QYm44T3pJRlROZ0NrNlI1aXZBNXp3aE83RmdubTUyUk9BN1A5eWhzWHRn?oc=5",
-      "fecha": "2026-11-07T03:34:03+00:00",
-      "puntaje": 7.65,
+      "fuente": "Ecos del Combeima",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUl2dTV4TU9pcms4dkV4Z1FuUlMxdkRjSU9hamt0ZVhNSnRPVlRuM2E4Slhwc1p2QVgtbEdfNHRaRFhxd1d3dDNwNkJ6TVpoRGNJcUU1bS1uNHNyU0dieG5UT0lzNTFlcTNCVDlBaDhNY1RQTjZFWjItdV9ZNklPOEltVV9sY3A3MkIxQXNWVjZoVko2ckc0Rw?oc=5",
+      "fecha": "2026-11-08T13:17:25+00:00",
+      "puntaje": 9.05,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
