@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-09T11:22:24.115583+00:00",
+  "generado": "2026-11-09T20:50:29.948004+00:00",
   "edicion": "2026-11-09",
   "noticias": [
     {
@@ -10,8 +10,8 @@
       "por_que": "Puede cambiar requisitos, apoyos o reglas que aplican a tu actividad.",
       "fuente": "Ministerio de Agricultura, Pesca y Alimentación",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOeVFlS1lxZFlnU216MTdUTml5WjNxR2RuREZvTG5YLTU3empSSEtWcFRIU3JvdUh0N1gwVHBKVmxaMm8xRFYwSXVtQTdDaVFJRUpSWVpwaHlma0FyMXBEQUFjX3lsNmZMZHR2YXR2WHNZaU5QNVoycVBiNWRNa1JhMGhncVdDU1Z3UVk5LU1HUnVSX05TR3Z0ejYwZDdNR2lQM0hlazRnTlhBMDBNdlBIRGhoU01OVUVIOU43NnFKRUM3WVVSS1lONlNkTHY4RzBtWXlwNHlwLXg4bnliUllHZlVFMjR2YmItTXBxZXlYdlRSZG5MLVBKMXNPdzlvRFpUZFg4SXk0SkdCX3hrN0NDWkIzczNYR0tvOG96SFdJaG9rSWpiMkpuYTVaVWFiOTg5WFlsVGNvTXItRVdOM2xFblEwUzA4N2tZRENnZkU0aw?oc=5",
-      "fecha": "2026-11-09T11:05:27+00:00",
-      "puntaje": 14.92,
+      "fecha": "2026-11-09T20:13:22+00:00",
+      "puntaje": 14.83,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -24,10 +24,24 @@
       "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
       "fuente": "CONtexto Ganadero",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFY5OHRfS0cyenZvR0JVTWF4Vml2a1JWbVNScml3eFpXV2VOR2ZXUlpfOGRqb0Q4MVQtUHlFTmxObUtqQ2ZTSllSSXFiZXRTZ0NmSVlKLU9McUpWR2sxclRsYUx1eVg0ek9CeW4wWTlJTm9sUkJjVVBfcVRpN1VtaHJ3ZjBNZi1sVTFNQkFfV01sWWhqdHBUZE91dWp4aXUwcmFPdm9XQU5VTmRnZTJMWjk3WVE?oc=5",
-      "fecha": "2026-11-09T07:14:35+00:00",
-      "puntaje": 14.85,
+      "fecha": "2026-11-09T07:49:34+00:00",
+      "puntaje": 12.38,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Fenómeno de El Niño: el desafío de proteger la producción agrícola en Colombia",
+      "resumen": "Fenómeno de El Niño: el desafío de proteger la producción agrícola en Colombia",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Diario del Cauca",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd3VNejBWTl9aZWZTZUF2ZC00QV9GSVppVThhQ0lPUlhVMHFkVDBSaG9NbmREOHAwei1KUTE3cUNGTEpZV1RjSENDZF9LaWkwaXFTOS0zZ0g3X3VxOW81ZmJWdWlwaTg1Rmh0dFZLZWtoUUhnaUR1WnZRWGswREdQb1F3ZjRyUm5wazdqVGgzcDcwZ3A0TUFybG5rbDU2QmM4UG0zdXg1TDNOYXE4WVo0b1BtVi10M3lXMTBXTA?oc=5",
+      "fecha": "2026-11-09T14:31:51+00:00",
+      "puntaje": 11.25,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -39,7 +53,7 @@
       "fuente": "Gobernación del Huila",
       "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOUVc3STlPaHZkd1h5WE5ubG9xQUdLRi12Um5oMW9DYWNMMG11SE50ODktTm5XYm1hcHV6WWlCQm5kNE5YVnBvMEZOV2FOU1dIU1R0V2J1eHJqanljV2RyblJmNmlrVDlDMFFYSTVENDZ1SnplaS1HRjZhQnFwcVFnMW9GeDZQZks1cDBiOUJmNVRPSGlid0ZJd2xJVWpHYmhFYUQ1ekV1S1ZhSWdHODJpRGt2M1FQMVpoNGM0WjZCem5UVjB2WnQwd0ZDbGc0VGNIdGNqVVExSk9HVHB4akhQSVlLaDFvaVFuYmZ6VWRvY1dYR1ZrdWRsdHVQWUFROS1yeDd1TkpCWkt2QlM4TFJ3Mk9xRHVjNDJlREcxYU1hdFRzdHJ6OTlpc09zcw?oc=5",
       "fecha": "2026-11-08T20:24:00+00:00",
-      "puntaje": 13.84,
+      "puntaje": 11.21,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -47,27 +61,13 @@
     },
     {
       "categoria": "Mercados y precios",
-      "titulo": "Café colombiano exporta 11,7 por ciento menos: las dificultades que enfrenta el sector, desde las reglas de comercio hasta el clima",
-      "resumen": "Café colombiano exporta 11,7 por ciento menos: las dificultades que enfrenta el sector, desde las reglas de comercio hasta el clima",
+      "titulo": "Precio del Cacao Colombia 09/11: Rebote por Presión Bajista",
+      "resumen": "Precio del Cacao Colombia 09/11: Rebote por Presión Bajista",
       "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQTUp3RG9JOS1qdDNmWnl5VWl5M1FSeW93RUdBX0N3ZkZEMlZ0YjI0QkZIam5WOFkyeXh5TThJZUozX0lnQTUxVzJMWEw1TFpWRmxoaXQ2S0oybkY0WmQ2QzBMVFh0emVFNGotSWRuazlSaXpzSk5FVzNzU2FBWndKODFHXzRKclFPNE9aNmlPcWs3dUpfUkVNVlBVSmhOVEFmQXVTblR5c1RFcmk1cmNueVdySDAtbEVYSGpLaTlhRnNGV2NHQlZ0M3czSnBJd1pWRGo5SEdseHhKaW40N3EtcEJBcGpseWVWeHh6N3kxNEx5aEp1YzlFU21sd2VncDh0eVpOanFQTW45REcx0gGSAkFVX3lxTE1ZOUhpa1JWUnlidTZHYVJDQzh6SXBoakt6WHNqclBQLVd3TUgtQVdRcWxERnBybGYtYi1SRUZ4UENqdHAyWjREOWt2ZlI1dzBSU1NmUGlUTVA1YXI2Ni1pS0VfQ1g5RFM5SW1KcWlweEhuUUZrRUdOWTI4ZGtMN1VVX0tfZkRtalBmZ01uTDV0ejhoUFBYZXlJMUNBSlRvZUsteGZjQ3htU21PQmNoWnhUZnJqcWktZTBRTDdjUlpYOEpvcVF1MnBfMXpWRENfRFVLVlhBcnJ3UWtyRDNwWTdVUVFmaW03UmxoNE9LdXFDZGNCSTl5VzhfQjljTXZDWHpWZFRMQURUN1ZaQTlOU3draHc?oc=5",
-      "fecha": "2026-11-09T10:10:00+00:00",
-      "puntaje": 13.66,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "La reforma golpea fuertemente al campesino: SAC sobre tributaria del ‘Tigre’",
-      "resumen": "La reforma golpea fuertemente al campesino: SAC sobre tributaria del ‘Tigre’",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "La Nación.com.co",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd3JpQnVXNUplSTM1eWl0dkxfVkNkZjBFeTBIcDlfdFJEYlRadDVtRGhWX1Uwcy1rMzJZMWZaemVUWE5WZ2NEOGoyTnZBMnZrdngyenpweWxlcjF6dmVicWdnR3RlVDhrN0NYTlNYUWFidHJvci1QaHlwUG5BUW9HTjBERzk2R2xtX2RjUnJkTkM0Q3JmZlRCbVdtaFpRa294NkFKQQ?oc=5",
-      "fecha": "2026-11-09T06:57:00+00:00",
-      "puntaje": 8.77,
+      "fuente": "Daily Forex",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHF3d1BTTXR0MWpSMmFKR2UyTUU4cXNvZHRUM3EySHp3TW5jZ2RzVzZDcnFNU3V3QmxNRXJiWGVZdl95dGxHQW8wbGJ5enZSdVItalVsVExIRXNwTzFUTkQ5M001SUVPZEc0aV9DZ1JTckJORWF1T0dOeDdhc2NBZC1LUE1ZalpjaTJCcXBqSkhXeE9VZnQwaXQwMUZrMFZxRkdQSll0NS1fWDI5ekMwZkxtZHVORjdSNGRycjNOOWFCbXNEeUljV1hOM1FxT2c2YWZtMEM3dnU?oc=5",
+      "fecha": "2026-11-09T13:44:40+00:00",
+      "puntaje": 11.03,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
