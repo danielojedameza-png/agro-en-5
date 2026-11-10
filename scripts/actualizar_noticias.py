@@ -256,7 +256,16 @@ def leer_territorio() -> list[dict]:
 def puntuar(n: dict, ahora: dt.datetime) -> float:
     texto = f"{n['titulo']} {n['resumen_fuente']}".lower()
     horas = (ahora - dt.datetime.fromisoformat(n["fecha"])).total_seconds() / 3600
-    puntos = max(0.0, 10 - horas / 3.6)  # 10 puntos si es de esta hora, 0 a las 36 h
+    # La caída de puntaje por antigüedad llega a 0 justo al borde de la
+    # ventana de frescura de cada fuente — para Territorio (7 días) eso
+    # significa dividir entre 16.8, no entre 3.6 (pensado para noticias que
+    # se releen cada hora). Sin esto, cualquier oportunidad de Territorio de
+    # más de 1.5 días ya puntuaba 0 y nunca competía de verdad por un lugar
+    # entre las 5 — probado el 10/11/2026: las 5 de review-2026-11-07.json
+    # entraron a la selección (ver VENTANA_HORAS_TERRITORIO) pero ninguna
+    # ganó, todas con puntaje de antigüedad en 0.
+    divisor = VENTANA_HORAS_TERRITORIO / 10 if n["categoria"] == "Territorio" else VENTANA_HORAS / 10
+    puntos = max(0.0, 10 - horas / divisor)
     puntos += sum(p for patron, p in PESOS.items() if re.search(patron, texto))
     if re.search(REGION, texto):
         puntos += 4
