@@ -47,6 +47,7 @@ Settings > Secrets and variables > Actions:
 | `BREVO_LISTA_ID` | Secret | ID de la lista |
 | `BREVO_REMITENTE` | Secret | `boletin@agrodasin.org.co` (dominio autenticado) |
 | `ANTHROPIC_API_KEY` | Secret | Opcional. Sin ella usa textos base |
+| `TERRITORIO_TOKEN` | Secret | Opcional. Token fine-grained de GitHub, **solo lectura, permiso "Contents" y solo sobre el repo privado `territorio-agrodasin-backup`**. Sin él, se omite esa fuente y sigue solo con Google Noticias |
 | `URL_WEB` | Variable | `https://agrodasin.org.co/agro-en-5` o el subdominio que uses |
 
 ### 4. Netlify
@@ -71,6 +72,7 @@ Settings > Secrets and variables > Actions:
 - **Qué pesa más**: `PESOS` (palabras clave), `REGION` (bono Caribe +4) y `FUENTES_PRIORITARIAS`.
 - **Fuentes directas**: activa `FEEDS_DIRECTOS` solo después de verificar que la URL entrega RSS.
 - **Diversidad**: `MAX_POR_CATEGORIA = 2`.
+- **Territorio como fuente**: `leer_territorio()` trae `newsAndOpportunities.updated` del respaldo privado `territorio-agrodasin-backup` (requiere `TERRITORIO_TOKEN`). Ese repo se actualiza a mano — Daniel sube ahí la exportación de ChatGPT Sites cada vez que actualiza Territorio, no hay automatización de ese lado.
 
 ## Reglas que no se deben romper
 - Solo título, fuente, enlace y resumen propio. Nunca copiar párrafos del medio.

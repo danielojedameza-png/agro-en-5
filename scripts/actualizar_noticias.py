@@ -21,6 +21,14 @@ RAIZ = Path(__file__).resolve().parent.parent
 SALIDA = RAIZ / "datos" / "noticias.json"
 ARCHIVO = RAIZ / "datos" / "archivo"
 VENTANA_HORAS = 36
+# Territorio (ver leer_territorio) no se actualiza cada hora como Google
+# Noticias — Daniel lo exporta a mano de vez en cuando. 36h lo descartaría
+# casi siempre (probado el 10/11/2026: el único review-*.json disponible
+# era del 7/11, y con VENTANA_HORAS quedó fuera por "viejo" en la primera
+# corrida real con el token ya configurado). Una semana es razonable: sigue
+# siendo candidata hasta la próxima exportación de Daniel o hasta que
+# caduque sola.
+VENTANA_HORAS_TERRITORIO = 24 * 7
 MAX_POR_CATEGORIA = 2
 UA = {"User-Agent": "AgroEn5/1.0 (boletin agro AGRODASIN)"}
 
@@ -168,10 +176,96 @@ def leer_feed(url: str, categoria: str) -> list[dict]:
     return salida
 
 
+REPO_TERRITORIO = "danielojedameza-png/territorio-agrodasin-backup"
+
+
+def leer_territorio() -> list[dict]:
+    """Suma como candidatas las oportunidades que Territorio ya identificó.
+
+    Territorio (territorio.agrodasin.org.co) vive en ChatGPT Sites, sin API
+    pública — Daniel exporta y sube a mano un respaldo a este repo PRIVADO
+    (territorio-agrodasin-backup) cada vez que lo actualiza, nunca cada hora.
+    Lee el history/review-*.json más reciente que haya ahí vía la API de
+    GitHub (requiere TERRITORIO_TOKEN, un token de solo lectura sobre ESE
+    repo) y convierte cada línea de newsAndOpportunities.updated en una
+    noticia candidata más, con categoria="Territorio" (ver la excepción en
+    seleccionar(): ese texto ya es curaduría editorial de Territorio, no
+    necesita repetir el filtro agro+Colombia de las fuentes de Google
+    Noticias, y queda fuera de convocatorias.json a propósito porque el
+    texto no distingue de forma confiable si es o no una convocatoria real).
+
+    Best-effort total: sin el secreto, con el repo vacío, o si la API
+    falla, no hay candidatas de Territorio y la corrida sigue con las de
+    Google Noticias — igual que leer_feed() con una fuente caída.
+    """
+    token = os.getenv("TERRITORIO_TOKEN")
+    if not token:
+        return []
+    cabeceras = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        **UA,
+    }
+    try:
+        r = requests.get(
+            f"https://api.github.com/repos/{REPO_TERRITORIO}/contents/history",
+            headers=cabeceras, timeout=20,
+        )
+        r.raise_for_status()
+        archivos = sorted(
+            (a["name"] for a in r.json() if a["name"].startswith("review-") and a["name"].endswith(".json")),
+            reverse=True,  # YYYY-MM-DD ordena cronológicamente como texto
+        )
+        if not archivos:
+            print("[aviso] Territorio: no hay ningún review-*.json en el respaldo", file=sys.stderr)
+            return []
+        r2 = requests.get(
+            f"https://api.github.com/repos/{REPO_TERRITORIO}/contents/history/{archivos[0]}",
+            headers=cabeceras, timeout=20,
+        )
+        r2.raise_for_status()
+        import base64
+        revision = json.loads(base64.b64decode(r2.json()["content"]).decode("utf-8"))
+    except Exception as e:  # nunca frenar la corrida por Territorio
+        print(f"[aviso] Territorio no disponible, sigo sin sus noticias: {e}", file=sys.stderr)
+        return []
+
+    fecha = revision.get("reviewedAt")
+    try:
+        dt.datetime.fromisoformat(fecha)
+    except (TypeError, ValueError):
+        fecha = dt.datetime.now(dt.timezone.utc).isoformat()
+
+    salida = []
+    for texto in revision.get("newsAndOpportunities", {}).get("updated", []):
+        entidad, _, resto = texto.partition(": ")
+        if not resto:
+            entidad, resto = "Territorio", texto
+        salida.append({
+            "categoria": "Territorio",
+            "titulo": resto.strip(),
+            "resumen_fuente": "",
+            "fuente": entidad.strip(),
+            "url": "https://territorio.agrodasin.org.co",
+            "fecha": fecha,
+        })
+    print(f"Territorio: {len(salida)} oportunidades de {archivos[0]} (revisión del {fecha})", file=sys.stderr)
+    return salida
+
+
 def puntuar(n: dict, ahora: dt.datetime) -> float:
     texto = f"{n['titulo']} {n['resumen_fuente']}".lower()
     horas = (ahora - dt.datetime.fromisoformat(n["fecha"])).total_seconds() / 3600
-    puntos = max(0.0, 10 - horas / 3.6)  # 10 puntos si es de esta hora, 0 a las 36 h
+    # La caída de puntaje por antigüedad llega a 0 justo al borde de la
+    # ventana de frescura de cada fuente — para Territorio (7 días) eso
+    # significa dividir entre 16.8, no entre 3.6 (pensado para noticias que
+    # se releen cada hora). Sin esto, cualquier oportunidad de Territorio de
+    # más de 1.5 días ya puntuaba 0 y nunca competía de verdad por un lugar
+    # entre las 5 — probado el 10/11/2026: las 5 de review-2026-11-07.json
+    # entraron a la selección (ver VENTANA_HORAS_TERRITORIO) pero ninguna
+    # ganó, todas con puntaje de antigüedad en 0.
+    divisor = VENTANA_HORAS_TERRITORIO / 10 if n["categoria"] == "Territorio" else VENTANA_HORAS / 10
+    puntos = max(0.0, 10 - horas / divisor)
     puntos += sum(p for patron, p in PESOS.items() if re.search(patron, texto))
     if re.search(REGION, texto):
         puntos += 4
@@ -186,9 +280,12 @@ def parecidas(a: str, b: str) -> bool:
 
 def seleccionar(noticias: list[dict], ahora: dt.datetime, cuantas: int = 5) -> list[dict]:
     limite = ahora - dt.timedelta(hours=VENTANA_HORAS)
+    limite_territorio = ahora - dt.timedelta(hours=VENTANA_HORAS_TERRITORIO)
     candidatas = [
         n for n in noticias
-        if dt.datetime.fromisoformat(n["fecha"]) >= limite and n["url"]
+        if dt.datetime.fromisoformat(n["fecha"]) >= (
+            limite_territorio if n["categoria"] == "Territorio" else limite
+        ) and n["url"]
         and not re.search(EXCLUIR, n["titulo"].lower())
         and (
             # Territorio ya es una curaduría editorial de oportunidades
@@ -282,6 +379,7 @@ def main() -> int:
             todas += leer_feed(google_news(q), categoria)
     for url, categoria in FEEDS_DIRECTOS:
         todas += leer_feed(url, categoria)
+    todas += leer_territorio()
     print(f"Leídas {len(todas)} entradas")
 
     elegidas = seleccionar(todas, ahora)
