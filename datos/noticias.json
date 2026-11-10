@@ -1,17 +1,59 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-07T19:45:34.006008+00:00",
-  "edicion": "2026-11-07",
+  "generado": "2026-11-10T19:39:37.470274+00:00",
+  "edicion": "2026-11-10",
   "noticias": [
     {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "¡Entérate! Unimagdalena abre inscripciones para productores agrícolas",
-      "resumen": "¡Entérate! Unimagdalena abre inscripciones para productores agrícolas",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "categoria": "Clima",
+      "titulo": "¡Las lluvias en Bolívar no han cesado! IDEAM advierte que van hasta finales de noviembre",
+      "resumen": "¡Las lluvias en Bolívar no han cesado! IDEAM advierte que van hasta finales de noviembre",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
       "fuente": "Alerta",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXBxbjRuRUU0eTFQbXZxTjN6ZHVYWUdmTGFoQkVpRzRDVVNJa1AtdmYzQ3B3NDVCb1A0eUtHYWVDMkptbEpDV09hVHJaTHdkRFhGcTlCY2pVbVNhQ2FtcFFCVEZqcTZKQ3puOHVYNEpZRElmT1ZIeDdvLUdsSy1Pc0JCb1BibjhPeklGVE5nQ2s2UjVpdkE1endoTzdGZ25tNTJST0E3UDl5aHNYdGfSAa4BQVVfeXFMUG1wcW40bkVFNHkxUG12cU4zemR1WFlHZkxhaEJFaUc0Q1VTSWtQLXZmM0NwdzQ1Qm9QNHlLR2FlQzJKbWxKQ1dPYVRyWkx3ZERYRnE5QmNqVW1TYUNhbXBRQlRGanE2SkN6bjh1WDRKWURJZk9WSHg3by1HbEstT3NCQm9QYm44T3pJRlROZ0NrNlI1aXZBNXp3aE83RmdubTUyUk9BN1A5eWhzWHRn?oc=5",
-      "fecha": "2026-11-07T03:34:03+00:00",
-      "puntaje": 12.5,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNNRXZwUDJ2aGxuWnZUM1BEZmFLcV9JanNFVVA4b1EycVJobVpSUUZSOUpRcXd2UW9NY01aSm1ieGdPeXEzMnBjZlVEclljLUN4WVNUZlZQMHVNam1lb2Z1LWJkdDdaa3B3MmNtUHNueldCbXppMVVMeWVzUDhMWVNvVlRtWDF5dlEtWDAzd0dTcmxmeVZOVGVsZ2kwNTVkVERhY1ZTZ2lHWFhaM1k00gGvAUFVX3lxTE51c01FdnBQMnZobG5adlQzUERmYUtxX0lqc0VVUDhvUTJxUmhtWlJRRlI5SlFxd3ZRb01jTVpKbWJ4Z095cTMycGNmVURyWWMtQ3hZU1RmVlAwdU1qbWVvZnUtYmR0N1prcHcyY21Qc256V0JtemkxVUx5ZXNQOExZU29WVG1YMXl2US1YMDN3R1NybGZ5Vk5UZWxnaTA1NWRURGFjVlNnaUdYWFozWTQ?oc=5",
+      "fecha": "2026-11-10T12:18:41+00:00",
+      "puntaje": 13.96,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Antioquia tiene 8 municipios en alerta por deslizamientos: Ideam advierte lluvias del 10 al 13 de noviembre | El Colombiano",
+      "resumen": "Antioquia tiene 8 municipios en alerta por deslizamientos: Ideam advierte lluvias del 10 al 13 de noviembre | El Colombiano",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQdIBwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQQ?oc=5",
+      "fecha": "2026-11-10T15:10:55+00:00",
+      "puntaje": 13.76,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Sanidad",
+      "titulo": "En 13 días, plan de Fedegán e ICA logra que 5,4 millones de bovinos tengan escudo contra la aftosa",
+      "resumen": "En 13 días, plan de Fedegán e ICA logra que 5,4 millones de bovinos tengan escudo contra la aftosa",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "CONtexto Ganadero",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT3gxa2lYdFREaXJyUkV6ekFsRXZoMTFYcjFzVHJZSkh4Q2FnZU5BT0h4clRuc0dZeDM3ZmZHVUh6OVFZenlWN3dyeXNBem8ybjZuanJsclBWSmN4eFZhZWFORW93UWwwMFE3bG1Sc25fMDdHTlVxYWE0RU93NEtmM2Z1U2ZnQUtBbGNudDlNV0pvX0MxVjlJckF6LUFzejJvVzhhSnlwRU5DSXNMY0hXdEpCd09mcWtoUkNqdEswRzJFNU5ZV1JKQnk2TlBkazJuU29JWTlMa2k1MUYzY3FTbHJSWmJlZw?oc=5",
+      "fecha": "2026-11-10T15:18:59+00:00",
+      "puntaje": 12.79,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Pesca y acuicultura",
+      "titulo": "ARMADA NACIONAL INCAUTÓ 375 KILOGRAMOS DE PESCA ILEGAL EN EL PACÍFICO SUR - Noticias De Buenaventura, Colombia Y El Mundo",
+      "resumen": "ARMADA NACIONAL INCAUTÓ 375 KILOGRAMOS DE PESCA ILEGAL EN EL PACÍFICO SUR - Noticias De Buenaventura, Colombia Y El Mundo",
+      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
+      "fuente": "Noticias De Buenaventura, Colombia Y El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWJGNl9WS3BYcUtKeVFQNTZDYnM4R0s2cHU4RWk2M2k4M0tHNXdsVG5YVE44T2dRLXhkc1Z1LVdCWWEwbTVSNHdmekVIeGpGV1dIMnlid2Q3cm9KdVAzRElQZmFlVXRHZ0hINGJ2blpfMUhrTzl0MEt3Y0EydG9tWjBGSjB5cnIwdVJpaTNpZjdCR2lGY2R1TDdRU0VoTzR1c1RCM2haM2o3UQ?oc=5",
+      "fecha": "2026-11-10T18:34:12+00:00",
+      "puntaje": 11.7,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -19,55 +61,13 @@
     },
     {
       "categoria": "Mercados y precios",
-      "titulo": "Índice de Precios del Productor en Colombia crece 2,2% en septiembre de 2026 impulsado por minería y sector agropecuario",
-      "resumen": "Índice de Precios del Productor en Colombia crece 2,2% en septiembre de 2026 impulsado por minería y sector agropecuario",
+      "titulo": "Café en Colombia Hoy 10/11: Brasil Presiona los Precios",
+      "resumen": "Café en Colombia Hoy 10/11: Brasil Presiona los Precios",
       "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Pulzo",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRE5NU1ZCa1ZGWVBrczhTN01CR2F5UXR6UGFMaVN1S2Z2dGpKZ3hXX3NXNjVqcXdhME5aVFFhNXlIcFdiLS1ES2JsMEt6bW5XbWhLc092MUNNTFpjMnZJRG94bWc1SVFiXzV3Q2ZMNmp6Qmt1TVYtTnZBenA2OVBiOE1palJtbzkyLVgyTWczVnNZdXBtN0VOZERnZFdWdGNmSmpOU2dUdmlUMmpCSE5Pd0pFUjRVMld6R2tPMjNlMWJITTNuMkRR0gHMAUFVX3lxTE0wR0h0Qnd3VzRSY0RXMUxOQ0JtclJvbEtzSjl4MmhnME01VmR5dnNmaWFkN2lhZVlQVDU0S1lRbHJqMEs2S3NqSDRkUDFzWlJvdTVnT2NWa2E4Q3l6UmdvYjNMUG9IVXNmSG1sMG5CamViX3B0TGtUOFVyOFhoYk9Kd191Q096Qm9RVW5UbHRPblV3aXEycHFycmFsMXowbHNiLUVlaUxuem9icU9MbUVxdEJlS2ZjOUZ1YVpEQmlKWjZqejZ4ckpFODRYNw?oc=5",
-      "fecha": "2026-11-07T11:50:37+00:00",
-      "puntaje": 10.8,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Café colombiano: la apuesta por llegar a 20 millones de sacos",
-      "resumen": "Café colombiano: la apuesta por llegar a 20 millones de sacos",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Forbes Colombia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNFZqelV3RVBXbVBrdUZIM2VjcVNhQ3RHZ0JlU1FENERDei1qXzNsZmxBYnVnMVhJZkl2TnhKbWluUElSLTZIX0hqcjlwajkwVGJUNHZLSy1OQU5IbGhWYVJ5dFhQa0MxTVZFOUhfMFdMY0tuc09HVmotellOMnpZaEp1ZncwVm90b29mSXg3NldKUjF2THFxN2ctZDNEdTJ1?oc=5",
-      "fecha": "2026-11-07T17:34:10+00:00",
-      "puntaje": 9.39,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "El agro necesita más proyectos, menos peleas",
-      "resumen": "El agro necesita más proyectos, menos peleas",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUJaYXJpNElySUJQV3FEUjNEMEVrbmpZTlFUeGwtU3FTZHdjZE1MaHJoYzNEZldvMHFLWlpWWEpFZFZmSGVoMEQ2eUxEdkRvSEo5Tmg2TUx3YmY4OXViM1J6QUwtMFdMemxJa0x4dnMxSnZjc2hpNm41MDRPZ0pjN1dIY0tIN1hZRFJMRHQ3QUlJb21yZHJKTk1BSG_SAZwBQVVfeXFMTmlCWmFyaTRJcklCUFdxRFIzRDBFa25qWU5RVHhsLVNxU2R3Y2RNTGhyaGMzRGZXbzBxS1paVlhKRWRWZkhlaDBENnlMRHZEb0hKOU5oNk1Md2JmODl1YjNSekFMLTBXTHpsSWtMeHZzMUp2Y3NoaTZuNTA0T2dKYzdXSGNLSDdYWURSTER0N0FJSW9tcmRySk5NQUhv?oc=5",
-      "fecha": "2026-11-07T05:01:23+00:00",
-      "puntaje": 8.91,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "En un 200% aumentó el costo de fertilizantes en el Tolima",
-      "resumen": "En un 200% aumentó el costo de fertilizantes en el Tolima",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Alerta",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEk1WkFSaTltTHotd2x4ZHBxMEg5VmxlUEI3MUV4alFsS0FfUGlvS3NEa05kVk9LMEFMOGlLT1dQLVU0djVnNndZUzhjTlBKRFhGZHZKbWo2X0dJeWdFS0dpZ3VCaWE5RFJmTjJ6U1pPWUh2UTVSRmExeW1EVm90ZFBlMGxOYm5LbDhBcVVEby16c2dDNkNvWVZPdGFWNDDSAZ8BQVVfeXFMTzBJNVpBUmk5bUx6LXdseGRwcTBIOVZsZVBCNzFFeGpRbEtBX1Bpb0tzRGtOZFZPSzBBTDhpS09XUC1VNHY1ZzZ3WVM4Y05QSkRYRmR2Sm1qNl9HSXlnRUtHaWd1QmlhOURSZk4yelNaT1lIdlE1UkZhMXltRFZvdGRQZTBsTmJuS2w4QXFVRG8tenNnQzZDb1lWT3RhVjQw?oc=5",
-      "fecha": "2026-11-07T04:01:24+00:00",
-      "puntaje": 7.63,
+      "fuente": "Daily Forex",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONEtpWkprYkItQ3d5WFl2Vm9CVFB5ODNYU3pNRzJ1RmlCSHZxLXVkUjhNVkxpRnkzS2pBTEV5SXhtV3FTRUZEcGtfX3VDVmNRNkNzRF9EQUtlUlZGVFBISHdOdVhVMGZnMldJNHFDX1lXeGlTVTMwa1d0RVlCYTdpZFVEbXNYZGR1S1h1OVlQUFZLaXQ1elBhaW9pZTBVLXdxR0tGaXo1OENneEx4RWNSR2tqTTQyc0V0Z21XeDNYQkhNdzVJa3RNRjQtT0lMNlV6bmx3YVhJZzZqUVZiMmJDMkZvWjNvS00?oc=5",
+      "fecha": "2026-11-10T13:46:40+00:00",
+      "puntaje": 11.37,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
