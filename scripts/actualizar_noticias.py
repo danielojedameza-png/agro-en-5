@@ -80,6 +80,28 @@ AGRO_RELEVANTE = (
     r"asociaci[oó]n campesina|cooperativa|hortaliza|tilapia|cachama|avicultor"
 )
 
+# Filtro de admisión igual que AGRO_RELEVANTE, pero para país: "gl=CO" en
+# google_news() solo sesga los resultados de Google Noticias hacia Colombia,
+# no los limita — una consulta como "precio café" puede devolver una nota
+# sobre Brasil o Vietnam que de pura casualidad usa alguna palabra del agro.
+# Exigir una marca explícita de Colombia (el país, una ciudad/departamento,
+# o una entidad colombiana conocida) en el título o el extracto es lo único
+# que de verdad lo garantiza. Pedido por Daniel el 10/11/2026: "Agro en 5"
+# debe ser 100% Colombia, cero noticia internacional.
+COLOMBIA_RELEVANTE = (
+    r"colombia|colombian[oa]|bogot[aá]|medell[ií]n|\bcali\b|barranquilla|cartagena|"
+    r"santa marta|bucaramanga|pereira|manizales|ibagu[eé]|neiva|villavicencio|"
+    r"monter[ií]a|valledupar|sincelejo|popay[aá]n|\bpasto\b|c[uú]cuta|"
+    r"antioquia|boyac[aá]|caldas|caquet[aá]|casanare|\bcauca\b|\bcesar\b|choc[oó]|"
+    r"c[oó]rdoba|cundinamarca|guajira|\bhuila\b|magdalena|\bmeta\b|nari[nñ]o|"
+    r"norte de santander|putumayo|quind[ií]o|risaralda|santander|\bsucre\b|tolima|"
+    r"valle del cauca|arauca|amazonas|guain[ií]a|guaviare|vaup[eé]s|vichada|"
+    r"san andr[eé]s|bol[ií]var|mompox|momposina|la mojana|magangu|"
+    r"\bica\b|\bideam\b|\bdane\b|\bsipsa\b|minagricultura|\bfinagro\b|"
+    r"banco agrario|\badr\b|\bumata\b|\baunap\b|\bupra\b|fedegan|fedearroz|"
+    r"federaci[oó]n.{0,15}cafeteros|\bfnc\b|agencia nacional de tierras"
+)
+
 # Herramienta de agrodasin.org.co que se sugiere según el tema.
 # Rutas confirmadas contra el repo real (Fase 0, 7/11/2026):
 #   /constitucion-asociacion/ — para quien quiere CREAR una asociación/cooperativa nueva
@@ -167,6 +189,7 @@ def seleccionar(noticias: list[dict], ahora: dt.datetime, cuantas: int = 5) -> l
         if dt.datetime.fromisoformat(n["fecha"]) >= limite and n["url"]
         and not re.search(EXCLUIR, n["titulo"].lower())
         and re.search(AGRO_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
+        and re.search(COLOMBIA_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
     ]
     for n in candidatas:
         n["puntaje"] = puntuar(n, ahora)
@@ -284,6 +307,7 @@ def main() -> int:
         if n["categoria"] == "Crédito y convocatorias" and dt.datetime.fromisoformat(n["fecha"]) >= limite
         and not re.search(EXCLUIR, n["titulo"].lower())
         and re.search(AGRO_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
+        and re.search(COLOMBIA_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
     ]
     for n in conv:
         n["puntaje"] = puntuar(n, ahora)
