@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-10T13:24:56.098976+00:00",
+  "generado": "2026-11-10T17:57:10.674144+00:00",
   "edicion": "2026-11-10",
   "noticias": [
     {
@@ -11,7 +11,21 @@
       "fuente": "Alerta",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNNRXZwUDJ2aGxuWnZUM1BEZmFLcV9JanNFVVA4b1EycVJobVpSUUZSOUpRcXd2UW9NY01aSm1ieGdPeXEzMnBjZlVEclljLUN4WVNUZlZQMHVNam1lb2Z1LWJkdDdaa3B3MmNtUHNueldCbXppMVVMeWVzUDhMWVNvVlRtWDF5dlEtWDAzd0dTcmxmeVZOVGVsZ2kwNTVkVERhY1ZTZ2lHWFhaM1k00gGvAUFVX3lxTE51c01FdnBQMnZobG5adlQzUERmYUtxX0lqc0VVUDhvUTJxUmhtWlJRRlI5SlFxd3ZRb01jTVpKbWJ4Z095cTMycGNmVURyWWMtQ3hZU1RmVlAwdU1qbWVvZnUtYmR0N1prcHcyY21Qc256V0JtemkxVUx5ZXNQOExZU29WVG1YMXl2US1YMDN3R1NybGZ5Vk5UZWxnaTA1NWRURGFjVlNnaUdYWFozWTQ?oc=5",
       "fecha": "2026-11-10T12:18:41+00:00",
-      "puntaje": 15.69,
+      "puntaje": 14.43,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Antioquia tiene 8 municipios en alerta por deslizamientos: Ideam advierte lluvias del 10 al 13 de noviembre | El Colombiano",
+      "resumen": "Antioquia tiene 8 municipios en alerta por deslizamientos: Ideam advierte lluvias del 10 al 13 de noviembre | El Colombiano",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQdIBwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQQ?oc=5",
+      "fecha": "2026-11-10T15:10:55+00:00",
+      "puntaje": 14.23,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,7 +39,21 @@
       "fuente": "Ministerio de Agricultura, Pesca y Alimentación",
       "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOeVFlS1lxZFlnU216MTdUTml5WjNxR2RuREZvTG5YLTU3empSSEtWcFRIU3JvdUh0N1gwVHBKVmxaMm8xRFYwSXVtQTdDaVFJRUpSWVpwaHlma0FyMXBEQUFjX3lsNmZMZHR2YXR2WHNZaU5QNVoycVBiNWRNa1JhMGhncVdDU1Z3UVk5LU1HUnVSX05TR3Z0ejYwZDdNR2lQM0hlazRnTlhBMDBNdlBIRGhoU01OVUVIOU43NnFKRUM3WVVSS1lONlNkTHY4RzBtWXlwNHlwLXg4bnliUllHZlVFMjR2YmItTXBxZXlYdlRSZG5MLVBKMXNPdzlvRFpUZFg4SXk0SkdCX3hrN0NDWkIzczNYR0tvOG96SFdJaG9rSWpiMkpuYTVaVWFiOTg5WFlsVGNvTXItRVdOM2xFblEwUzA4N2tZRENnZkU0aw?oc=5",
       "fecha": "2026-11-10T12:23:33+00:00",
-      "puntaje": 14.72,
+      "puntaje": 13.46,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Sanidad",
+      "titulo": "En 13 días, plan de Fedegán e ICA logra que 5,4 millones de bovinos tengan escudo contra la aftosa",
+      "resumen": "En 13 días, plan de Fedegán e ICA logra que 5,4 millones de bovinos tengan escudo contra la aftosa",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "CONtexto Ganadero",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT3gxa2lYdFREaXJyUkV6ekFsRXZoMTFYcjFzVHJZSkh4Q2FnZU5BT0h4clRuc0dZeDM3ZmZHVUh6OVFZenlWN3dyeXNBem8ybjZuanJsclBWSmN4eFZhZWFORW93UWwwMFE3bG1Sc25fMDdHTlVxYWE0RU93NEtmM2Z1U2ZnQUtBbGNudDlNV0pvX0MxVjlJckF6LUFzejJvVzhhSnlwRU5DSXNMY0hXdEpCd09mcWtoUkNqdEswRzJFNU5ZV1JKQnk2TlBkazJuU29JWTlMa2k1MUYzY3FTbHJSWmJlZw?oc=5",
+      "fecha": "2026-11-10T15:18:59+00:00",
+      "puntaje": 13.27,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,35 +67,7 @@
       "fuente": "CONtexto Ganadero",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVJicUpuYldJeGNPdlEzYnhjeTRlRzM2LXA5MU5kRWRsMGh2SEc4M1RXc0VOZmdPRUp5am8xaHJkM3hseE1TdGpPQU9GblVHQXI5TkVWVUFTVDVMOHdLa2tKa21HZ0s0QllXdEMtaEl2UUJtX3p6a2RVdF9mcHNsUlhnRFJtN2pHUzloWncyWFNjblU0T2EzS21JWlZmXzBSeFFEcFJLSHc3UkU4MDVsd3pjQ3I4RnpBeFR3Skh4cjBnRDNDdU9ZaWVTN1UyNnJMZHpHUlZR?oc=5",
       "fecha": "2026-11-10T07:56:13+00:00",
-      "puntaje": 14.48,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "La CE activa una alianza de fertilizantes con agricultores, productores y Estados miembros para asegurar el suministro",
-      "resumen": "La CE activa una alianza de fertilizantes con agricultores, productores y Estados miembros para asegurar el suministro",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "eComercio Agrario",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORENOMjBHcFZ1eDJCaGo0Ymk2S1EzUEtQd1lVcUJnX2JfalZCQy02aTlrREZfWGRfVGxUWW5HaTd0b0dWT1lQaFdESmloMlZRdVExY2daeGtlV1EzVmhNbW9rMVFfdU9RZ0NjWFBrUm9xeTdrRFB5ZW8wMGc0NHVkLXo0WE5xYUR3RGk2WGFWZVVid2NjZDB2T0UyVXVxOEc1SEctLVdIbHp3cTVrNGdPYXpvMVB3YVoycHgxbDBZb2djVEg1OVJ0U0hPZkhEckJqYlE2cE50OWI3MmFvQmFFaQ?oc=5",
-      "fecha": "2026-11-10T08:55:17+00:00",
-      "puntaje": 10.75,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Misión Crecer (II): el IVA que golpeará a toda la ganadería colombiana",
-      "resumen": "Misión Crecer (II): el IVA que golpeará a toda la ganadería colombiana",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "CONtexto Ganadero",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUJOZGdWYlZZMFh2eEY3RnFMR3UydzlYbDBfZFpDd2piekItOVJvUkZaTVFoOXBIVmRpT1dLemtndHNRM3JYeWRaSG8yeExuNW04UndsQ1pfeDNReW5XeV9LWTV2NVJkajJTU0taV3p4UGNPV1ZIZEJmZUtsUC1CWEl2em1ENC11MHZzMXhVYkw0VS1DNzNEWUp1RldtUVItYzFkaWo4Q0RBcFVkWEExcTBoa2Q?oc=5",
-      "fecha": "2026-11-10T07:56:13+00:00",
-      "puntaje": 10.48,
+      "puntaje": 13.22,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
