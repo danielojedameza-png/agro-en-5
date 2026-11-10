@@ -168,6 +168,82 @@ def leer_feed(url: str, categoria: str) -> list[dict]:
     return salida
 
 
+REPO_TERRITORIO = "danielojedameza-png/territorio-agrodasin-backup"
+
+
+def leer_territorio() -> list[dict]:
+    """Suma como candidatas las oportunidades que Territorio ya identificó.
+
+    Territorio (territorio.agrodasin.org.co) vive en ChatGPT Sites, sin API
+    pública — Daniel exporta y sube a mano un respaldo a este repo PRIVADO
+    (territorio-agrodasin-backup) cada vez que lo actualiza, nunca cada hora.
+    Lee el history/review-*.json más reciente que haya ahí vía la API de
+    GitHub (requiere TERRITORIO_TOKEN, un token de solo lectura sobre ESE
+    repo) y convierte cada línea de newsAndOpportunities.updated en una
+    noticia candidata más, con categoria="Territorio" (ver la excepción en
+    seleccionar(): ese texto ya es curaduría editorial de Territorio, no
+    necesita repetir el filtro agro+Colombia de las fuentes de Google
+    Noticias, y queda fuera de convocatorias.json a propósito porque el
+    texto no distingue de forma confiable si es o no una convocatoria real).
+
+    Best-effort total: sin el secreto, con el repo vacío, o si la API
+    falla, no hay candidatas de Territorio y la corrida sigue con las de
+    Google Noticias — igual que leer_feed() con una fuente caída.
+    """
+    token = os.getenv("TERRITORIO_TOKEN")
+    if not token:
+        return []
+    cabeceras = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+        **UA,
+    }
+    try:
+        r = requests.get(
+            f"https://api.github.com/repos/{REPO_TERRITORIO}/contents/history",
+            headers=cabeceras, timeout=20,
+        )
+        r.raise_for_status()
+        archivos = sorted(
+            (a["name"] for a in r.json() if a["name"].startswith("review-") and a["name"].endswith(".json")),
+            reverse=True,  # YYYY-MM-DD ordena cronológicamente como texto
+        )
+        if not archivos:
+            print("[aviso] Territorio: no hay ningún review-*.json en el respaldo", file=sys.stderr)
+            return []
+        r2 = requests.get(
+            f"https://api.github.com/repos/{REPO_TERRITORIO}/contents/history/{archivos[0]}",
+            headers=cabeceras, timeout=20,
+        )
+        r2.raise_for_status()
+        import base64
+        revision = json.loads(base64.b64decode(r2.json()["content"]).decode("utf-8"))
+    except Exception as e:  # nunca frenar la corrida por Territorio
+        print(f"[aviso] Territorio no disponible, sigo sin sus noticias: {e}", file=sys.stderr)
+        return []
+
+    fecha = revision.get("reviewedAt")
+    try:
+        dt.datetime.fromisoformat(fecha)
+    except (TypeError, ValueError):
+        fecha = dt.datetime.now(dt.timezone.utc).isoformat()
+
+    salida = []
+    for texto in revision.get("newsAndOpportunities", {}).get("updated", []):
+        entidad, _, resto = texto.partition(": ")
+        if not resto:
+            entidad, resto = "Territorio", texto
+        salida.append({
+            "categoria": "Territorio",
+            "titulo": resto.strip(),
+            "resumen_fuente": "",
+            "fuente": entidad.strip(),
+            "url": "https://territorio.agrodasin.org.co",
+            "fecha": fecha,
+        })
+    return salida
+
+
 def puntuar(n: dict, ahora: dt.datetime) -> float:
     texto = f"{n['titulo']} {n['resumen_fuente']}".lower()
     horas = (ahora - dt.datetime.fromisoformat(n["fecha"])).total_seconds() / 3600
@@ -282,6 +358,7 @@ def main() -> int:
             todas += leer_feed(google_news(q), categoria)
     for url, categoria in FEEDS_DIRECTOS:
         todas += leer_feed(url, categoria)
+    todas += leer_territorio()
     print(f"Leídas {len(todas)} entradas")
 
     elegidas = seleccionar(todas, ahora)

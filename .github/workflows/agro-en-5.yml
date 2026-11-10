@@ -32,6 +32,7 @@ jobs:
       - name: Seleccionar las 5 noticias
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TERRITORIO_TOKEN: ${{ secrets.TERRITORIO_TOKEN }}
         run: python scripts/actualizar_noticias.py
 
       - name: Guardar cambios
