@@ -99,7 +99,9 @@ COLOMBIA_RELEVANTE = (
     r"san andr[eé]s|bol[ií]var|mompox|momposina|la mojana|magangu|"
     r"\bica\b|\bideam\b|\bdane\b|\bsipsa\b|minagricultura|\bfinagro\b|"
     r"banco agrario|\badr\b|\bumata\b|\baunap\b|\bupra\b|fedegan|fedearroz|"
-    r"federaci[oó]n.{0,15}cafeteros|\bfnc\b|agencia nacional de tierras"
+    r"federaci[oó]n.{0,15}cafeteros|\bfnc\b|agencia nacional de tierras|\bant\b|"
+    r"minambiente|fondo emprender|\bsena\b|\bsecop\b|colombia compra eficiente|"
+    r"apc-colombia"
 )
 
 # Herramienta de agrodasin.org.co que se sugiere según el tema.
@@ -188,8 +190,18 @@ def seleccionar(noticias: list[dict], ahora: dt.datetime, cuantas: int = 5) -> l
         n for n in noticias
         if dt.datetime.fromisoformat(n["fecha"]) >= limite and n["url"]
         and not re.search(EXCLUIR, n["titulo"].lower())
-        and re.search(AGRO_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
-        and re.search(COLOMBIA_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
+        and (
+            # Territorio ya es una curaduría editorial de oportunidades
+            # rurales/agro colombianas (ver leer_territorio) — una frase suelta
+            # de su resumen (p. ej. sobre AUNAP o Fondo Emprender) puede no
+            # traer ninguna palabra de AGRO_RELEVANTE aunque sí sea relevante,
+            # así que esos ítems no repiten el filtro agro+Colombia.
+            n["categoria"] == "Territorio"
+            or (
+                re.search(AGRO_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
+                and re.search(COLOMBIA_RELEVANTE, f"{n['titulo']} {n['resumen_fuente']}".lower())
+            )
+        )
     ]
     for n in candidatas:
         n["puntaje"] = puntuar(n, ahora)
