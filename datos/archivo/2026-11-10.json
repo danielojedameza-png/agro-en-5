@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-10T19:43:57.127934+00:00",
+  "generado": "2026-11-10T17:57:10.674144+00:00",
   "edicion": "2026-11-10",
   "noticias": [
     {
@@ -11,7 +11,7 @@
       "fuente": "Alerta",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNNRXZwUDJ2aGxuWnZUM1BEZmFLcV9JanNFVVA4b1EycVJobVpSUUZSOUpRcXd2UW9NY01aSm1ieGdPeXEzMnBjZlVEclljLUN4WVNUZlZQMHVNam1lb2Z1LWJkdDdaa3B3MmNtUHNueldCbXppMVVMeWVzUDhMWVNvVlRtWDF5dlEtWDAzd0dTcmxmeVZOVGVsZ2kwNTVkVERhY1ZTZ2lHWFhaM1k00gGvAUFVX3lxTE51c01FdnBQMnZobG5adlQzUERmYUtxX0lqc0VVUDhvUTJxUmhtWlJRRlI5SlFxd3ZRb01jTVpKbWJ4Z095cTMycGNmVURyWWMtQ3hZU1RmVlAwdU1qbWVvZnUtYmR0N1prcHcyY21Qc256V0JtemkxVUx5ZXNQOExZU29WVG1YMXl2US1YMDN3R1NybGZ5Vk5UZWxnaTA1NWRURGFjVlNnaUdYWFozWTQ?oc=5",
       "fecha": "2026-11-10T12:18:41+00:00",
-      "puntaje": 13.94,
+      "puntaje": 14.43,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,9 +25,23 @@
       "fuente": "El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQdIBwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQQ?oc=5",
       "fecha": "2026-11-10T15:10:55+00:00",
-      "puntaje": 13.74,
+      "puntaje": 14.23,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Política y normas",
+      "titulo": "El Ministerio de Agricultura, Pesca y Alimentación establece la retirada del 12 % del aceite de oliva en la campaña 2026/2027 - Ministerio de Agricultura, Pesca y Alimentación",
+      "resumen": "El Ministerio de Agricultura, Pesca y Alimentación establece la retirada del 12 % del aceite de oliva en la campaña 2026/2027 - Ministerio de Agricultura, Pesca y Alimentación",
+      "por_que": "Puede cambiar requisitos, apoyos o reglas que aplican a tu actividad.",
+      "fuente": "Ministerio de Agricultura, Pesca y Alimentación",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOeVFlS1lxZFlnU216MTdUTml5WjNxR2RuREZvTG5YLTU3empSSEtWcFRIU3JvdUh0N1gwVHBKVmxaMm8xRFYwSXVtQTdDaVFJRUpSWVpwaHlma0FyMXBEQUFjX3lsNmZMZHR2YXR2WHNZaU5QNVoycVBiNWRNa1JhMGhncVdDU1Z3UVk5LU1HUnVSX05TR3Z0ejYwZDdNR2lQM0hlazRnTlhBMDBNdlBIRGhoU01OVUVIOU43NnFKRUM3WVVSS1lONlNkTHY4RzBtWXlwNHlwLXg4bnliUllHZlVFMjR2YmItTXBxZXlYdlRSZG5MLVBKMXNPdzlvRFpUZFg4SXk0SkdCX3hrN0NDWkIzczNYR0tvOG96SFdJaG9rSWpiMkpuYTVaVWFiOTg5WFlsVGNvTXItRVdOM2xFblEwUzA4N2tZRENnZkU0aw?oc=5",
+      "fecha": "2026-11-10T12:23:33+00:00",
+      "puntaje": 13.46,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -39,35 +53,21 @@
       "fuente": "CONtexto Ganadero",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT3gxa2lYdFREaXJyUkV6ekFsRXZoMTFYcjFzVHJZSkh4Q2FnZU5BT0h4clRuc0dZeDM3ZmZHVUh6OVFZenlWN3dyeXNBem8ybjZuanJsclBWSmN4eFZhZWFORW93UWwwMFE3bG1Sc25fMDdHTlVxYWE0RU93NEtmM2Z1U2ZnQUtBbGNudDlNV0pvX0MxVjlJckF6LUFzejJvVzhhSnlwRU5DSXNMY0hXdEpCd09mcWtoUkNqdEswRzJFNU5ZV1JKQnk2TlBkazJuU29JWTlMa2k1MUYzY3FTbHJSWmJlZw?oc=5",
       "fecha": "2026-11-10T15:18:59+00:00",
-      "puntaje": 12.77,
+      "puntaje": 13.27,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
-      "categoria": "Territorio",
-      "titulo": "añadida la noticia del 6 de noviembre sobre sostenibilidad, productividad, innovación y competitividad cafetera; no se presenta como convocatoria.",
-      "resumen": "añadida la noticia del 6 de noviembre sobre sostenibilidad, productividad, innovación y competitividad cafetera; no se presenta como convocatoria.",
-      "por_que": "",
-      "fuente": "MinAgricultura",
-      "url": "https://territorio.agrodasin.org.co",
-      "fecha": "2026-11-07T09:13:00-05:00",
-      "puntaje": 12.39,
-      "herramienta": {
-        "texto": "Haz el diagnóstico gratuito de tu proyecto",
-        "url": "https://www.agrodasin.org.co/diagnostico/"
-      }
-    },
-    {
-      "categoria": "Pesca y acuicultura",
-      "titulo": "ARMADA NACIONAL INCAUTÓ 375 KILOGRAMOS DE PESCA ILEGAL EN EL PACÍFICO SUR - Noticias De Buenaventura, Colombia Y El Mundo",
-      "resumen": "ARMADA NACIONAL INCAUTÓ 375 KILOGRAMOS DE PESCA ILEGAL EN EL PACÍFICO SUR - Noticias De Buenaventura, Colombia Y El Mundo",
-      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
-      "fuente": "Noticias De Buenaventura, Colombia Y El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWJGNl9WS3BYcUtKeVFQNTZDYnM4R0s2cHU4RWk2M2k4M0tHNXdsVG5YVE44T2dRLXhkc1Z1LVdCWWEwbTVSNHdmekVIeGpGV1dIMnlid2Q3cm9KdVAzRElQZmFlVXRHZ0hINGJ2blpfMUhrTzl0MEt3Y0EydG9tWjBGSjB5cnIwdVJpaTNpZjdCR2lGY2R1TDdRU0VoTzR1c1RCM2haM2o3UQ?oc=5",
-      "fecha": "2026-11-10T18:34:12+00:00",
-      "puntaje": 11.68,
+      "categoria": "Mercados y precios",
+      "titulo": "Ganadería sostenible: estas son las propuestas de Fedegán para el PND 2026–2030 en el Caribe",
+      "resumen": "Ganadería sostenible: estas son las propuestas de Fedegán para el PND 2026–2030 en el Caribe",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "CONtexto Ganadero",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLVJicUpuYldJeGNPdlEzYnhjeTRlRzM2LXA5MU5kRWRsMGh2SEc4M1RXc0VOZmdPRUp5am8xaHJkM3hseE1TdGpPQU9GblVHQXI5TkVWVUFTVDVMOHdLa2tKa21HZ0s0QllXdEMtaEl2UUJtX3p6a2RVdF9mcHNsUlhnRFJtN2pHUzloWncyWFNjblU0T2EzS21JWlZmXzBSeFFEcFJLSHc3UkU4MDVsd3pjQ3I4RnpBeFR3Skh4cjBnRDNDdU9ZaWVTN1UyNnJMZHpHUlZR?oc=5",
+      "fecha": "2026-11-10T07:56:13+00:00",
+      "puntaje": 13.22,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
