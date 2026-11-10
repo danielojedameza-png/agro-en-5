@@ -21,6 +21,14 @@ RAIZ = Path(__file__).resolve().parent.parent
 SALIDA = RAIZ / "datos" / "noticias.json"
 ARCHIVO = RAIZ / "datos" / "archivo"
 VENTANA_HORAS = 36
+# Territorio (ver leer_territorio) no se actualiza cada hora como Google
+# Noticias — Daniel lo exporta a mano de vez en cuando. 36h lo descartaría
+# casi siempre (probado el 10/11/2026: el único review-*.json disponible
+# era del 7/11, y con VENTANA_HORAS quedó fuera por "viejo" en la primera
+# corrida real con el token ya configurado). Una semana es razonable: sigue
+# siendo candidata hasta la próxima exportación de Daniel o hasta que
+# caduque sola.
+VENTANA_HORAS_TERRITORIO = 24 * 7
 MAX_POR_CATEGORIA = 2
 UA = {"User-Agent": "AgroEn5/1.0 (boletin agro AGRODASIN)"}
 
@@ -241,6 +249,7 @@ def leer_territorio() -> list[dict]:
             "url": "https://territorio.agrodasin.org.co",
             "fecha": fecha,
         })
+    print(f"Territorio: {len(salida)} oportunidades de {archivos[0]} (revisión del {fecha})", file=sys.stderr)
     return salida
 
 
@@ -262,9 +271,12 @@ def parecidas(a: str, b: str) -> bool:
 
 def seleccionar(noticias: list[dict], ahora: dt.datetime, cuantas: int = 5) -> list[dict]:
     limite = ahora - dt.timedelta(hours=VENTANA_HORAS)
+    limite_territorio = ahora - dt.timedelta(hours=VENTANA_HORAS_TERRITORIO)
     candidatas = [
         n for n in noticias
-        if dt.datetime.fromisoformat(n["fecha"]) >= limite and n["url"]
+        if dt.datetime.fromisoformat(n["fecha"]) >= (
+            limite_territorio if n["categoria"] == "Territorio" else limite
+        ) and n["url"]
         and not re.search(EXCLUIR, n["titulo"].lower())
         and (
             # Territorio ya es una curaduría editorial de oportunidades
