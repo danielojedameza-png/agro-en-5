@@ -1,7 +1,7 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-11T01:12:53.466451+00:00",
-  "edicion": "2026-11-10",
+  "generado": "2026-11-11T09:16:27.893202+00:00",
+  "edicion": "2026-11-11",
   "noticias": [
     {
       "categoria": "Agro general",
@@ -9,39 +9,11 @@
       "resumen": "El ICA fortalece el acceso a la información sobre el mercado de insumos agrícolas en Colombia - Instituto Colombiano Agropecuario",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
       "fuente": "Instituto Colombiano Agropecuario - ICA",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFEzWm9HVlJ6SWQ2SmVSMlVHV1ZZQkJGTE1yM1QtancwU3R2NFNxQVRQUnZlZGdoVDBnclBLSzJaUUtuUktFczJBQ0ZYa2ZqMkYxRFp6S3ZTeXdZMk5fZjJSanFGaTU1WHJDWEJ3U2VlSHJpVEtlQU83X0pBZmZZQ1o1TS1UQzQ?oc=5",
-      "fecha": "2026-11-10T20:26:23+00:00",
-      "puntaje": 15.67,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlhtUlh0TUlvYUpVNjgyZWp4dEtnRHB2UlpCV0ZqTmFGclFyc3ZSX2h2dUhhTzRQNTI3OHdMc01PeEhnZ1M2bzJyLW10dkdPaUlNcTV6VnJxeEd2OTQtd1pvOHlkX3RYMVRjallxcHJMZkItbHBval9RNmxPbDllYzgwVHFyN21J?oc=5",
+      "fecha": "2026-11-10T20:27:01+00:00",
+      "puntaje": 13.44,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "¡Las lluvias en Bolívar no han cesado! IDEAM advierte que van hasta finales de noviembre",
-      "resumen": "¡Las lluvias en Bolívar no han cesado! IDEAM advierte que van hasta finales de noviembre",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "Alerta",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNNRXZwUDJ2aGxuWnZUM1BEZmFLcV9JanNFVVA4b1EycVJobVpSUUZSOUpRcXd2UW9NY01aSm1ieGdPeXEzMnBjZlVEclljLUN4WVNUZlZQMHVNam1lb2Z1LWJkdDdaa3B3MmNtUHNueldCbXppMVVMeWVzUDhMWVNvVlRtWDF5dlEtWDAzd0dTcmxmeVZOVGVsZ2kwNTVkVERhY1ZTZ2lHWFhaM1k00gGvAUFVX3lxTE51c01FdnBQMnZobG5adlQzUERmYUtxX0lqc0VVUDhvUTJxUmhtWlJRRlI5SlFxd3ZRb01jTVpKbWJ4Z095cTMycGNmVURyWWMtQ3hZU1RmVlAwdU1qbWVvZnUtYmR0N1prcHcyY21Qc256V0JtemkxVUx5ZXNQOExZU29WVG1YMXl2US1YMDN3R1NybGZ5Vk5UZWxnaTA1NWRURGFjVlNnaUdYWFozWTQ?oc=5",
-      "fecha": "2026-11-10T12:18:41+00:00",
-      "puntaje": 12.42,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "Antioquia tiene 8 municipios en alerta por deslizamientos: Ideam advierte lluvias del 10 al 13 de noviembre",
-      "resumen": "Antioquia tiene 8 municipios en alerta por deslizamientos: Ideam advierte lluvias del 10 al 13 de noviembre",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOThoeGo4LXRsU3pVLTBmWXVoU2U2VGVwR3gyRXZ3a0RrQ1ZlUC1RQmdFMG13U3FreG8xZGhxbDVwX3dZLWxMeGNWMTNWdmhud1lidF8waGJuRnMxN2czUlN4QVhOcHQ2TlFmQjB1dGlNc1JCWWIzQnZxWllMQ0xZLTdHWGRYdE5QakhfWkZJMnZqZHpwN1REYzBKcjdvX3BqRGxLd1JrV3g3NFFPeF90M2ZDM1RET3Bqdk5IQw?oc=5",
-      "fecha": "2026-11-10T14:56:41+00:00",
-      "puntaje": 12.15,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -53,10 +25,38 @@
       "fuente": "MinAgricultura",
       "url": "https://territorio.agrodasin.org.co",
       "fecha": "2026-11-07T09:13:00-05:00",
-      "puntaje": 12.06,
+      "puntaje": 11.58,
       "herramienta": {
         "texto": "Haz el diagnóstico gratuito de tu proyecto",
         "url": "https://www.agrodasin.org.co/diagnostico/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "¡Las lluvias en Bolívar no han cesado! IDEAM advierte que van hasta finales de noviembre",
+      "resumen": "¡Las lluvias en Bolívar no han cesado! IDEAM advierte que van hasta finales de noviembre",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Alerta",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNNRXZwUDJ2aGxuWnZUM1BEZmFLcV9JanNFVVA4b1EycVJobVpSUUZSOUpRcXd2UW9NY01aSm1ieGdPeXEzMnBjZlVEclljLUN4WVNUZlZQMHVNam1lb2Z1LWJkdDdaa3B3MmNtUHNueldCbXppMVVMeWVzUDhMWVNvVlRtWDF5dlEtWDAzd0dTcmxmeVZOVGVsZ2kwNTVkVERhY1ZTZ2lHWFhaM1k00gGvAUFVX3lxTE51c01FdnBQMnZobG5adlQzUERmYUtxX0lqc0VVUDhvUTJxUmhtWlJRRlI5SlFxd3ZRb01jTVpKbWJ4Z095cTMycGNmVURyWWMtQ3hZU1RmVlAwdU1qbWVvZnUtYmR0N1prcHcyY21Qc256V0JtemkxVUx5ZXNQOExZU29WVG1YMXl2US1YMDN3R1NybGZ5Vk5UZWxnaTA1NWRURGFjVlNnaUdYWFozWTQ?oc=5",
+      "fecha": "2026-11-10T12:18:41+00:00",
+      "puntaje": 10.18,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Antioquia tiene 8 municipios en alerta por deslizamientos: Ideam advierte lluvias del 10 al 13 de noviembre | El Colombiano",
+      "resumen": "Antioquia tiene 8 municipios en alerta por deslizamientos: Ideam advierte lluvias del 10 al 13 de noviembre | El Colombiano",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQdIBwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQQ?oc=5",
+      "fecha": "2026-11-10T15:10:55+00:00",
+      "puntaje": 9.97,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
@@ -67,7 +67,7 @@
       "fuente": "CONtexto Ganadero",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa1lGMzhBTFBaZHJuSTk1czhpUUxlNW53ZnBTLVlFYnhTZGx6MWhyOGlkTGFYTVZUejFEbXBoT2hkMWVZM1RzR2VZVmRDZUxVME1CZ3ZvYjg0VWZyNjhRcFppSUcxbmR2eU1NT0Y2ZnFwenl4aERmZ1lCVGFyNXE4OTQ2UlBVaUxGdUg3ZUlydGw2cHE5V1NGcmNhLVdzNzRhRFJoZ1E5dW8tcXc3bG1EZ3NpWmI4V0dWeTk2MVhKVk1vc2VwajhmTWdfWVN6cW1pVXpLTVVCYVRLNDVlUVAxeGx3?oc=5",
       "fecha": "2026-11-10T23:57:01+00:00",
-      "puntaje": 11.65,
+      "puntaje": 9.41,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
