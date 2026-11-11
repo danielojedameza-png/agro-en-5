@@ -1,19 +1,33 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-11T09:16:27.893202+00:00",
+  "generado": "2026-11-11T17:51:24.244881+00:00",
   "edicion": "2026-11-11",
   "noticias": [
     {
-      "categoria": "Agro general",
-      "titulo": "El ICA fortalece el acceso a la información sobre el mercado de insumos agrícolas en Colombia - Instituto Colombiano Agropecuario",
-      "resumen": "El ICA fortalece el acceso a la información sobre el mercado de insumos agrícolas en Colombia - Instituto Colombiano Agropecuario",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Instituto Colombiano Agropecuario - ICA",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlhtUlh0TUlvYUpVNjgyZWp4dEtnRHB2UlpCV0ZqTmFGclFyc3ZSX2h2dUhhTzRQNTI3OHdMc01PeEhnZ1M2bzJyLW10dkdPaUlNcTV6VnJxeEd2OTQtd1pvOHlkX3RYMVRjallxcHJMZkItbHBval9RNmxPbDllYzgwVHFyN21J?oc=5",
-      "fecha": "2026-11-10T20:27:01+00:00",
-      "puntaje": 13.44,
+      "categoria": "Clima",
+      "titulo": "Ideam pronostica temperaturas superiores a los 32 grados en el Caribe",
+      "resumen": "Ideam pronostica temperaturas superiores a los 32 grados en el Caribe",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1RfbUNEemhZNTFoSjdzNHZ2bEViVXF3VldvdWp3NEVLeVd6eWR1NFFHLUp5S0VTNGp4V0JnSkprQ1VINVJwMkNSS2FUMVVzdVNjTWFUSDhDNHFxamVMVDR3TEdyM3ZVNUF3TWZ3M3dYM081RW5VWkU0RWRqVlFNamFGYS11UFpfcjk0Y3hwMTBSYnlKNFRkclB4NnV5a245bmR1cFl3b9IBuwFBVV95cUxQQnFxWDNrZEdUNTJjZkFqdno0Vk92cTY3eW9sNXZ4ZFM0WFZRN3F4VlZVbWUzOUVBYjlIaE91ZzBWT3EzNXhuOEFPRG5xeGRhVjBYZG9ZUUxiWDF5ZWRwMll0RkxVVGdpX0FXdkhfVWdQakZmYTl2V2tvTlQtdlBkWEFCSG5lVEpzdy1nd3VMVEVkRC12SUtnb01GWS1Pa3JCd3RCWnZQd0JUb1A4ckliZGh1RDU4RWhmb1Q4?oc=5",
+      "fecha": "2026-11-11T11:29:50+00:00",
+      "puntaje": 12.23,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "El Niño acelera la lucha de campesinos contra un arbusto incendiario en Colombia",
+      "resumen": "El Niño acelera la lucha de campesinos contra un arbusto incendiario en Colombia",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "France 24",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcHBhTjhVY3pRc2QwZWtwbl9xblZLOVFjWjU4N0dkWGp0NVBxcmR3WU1hcFdSc3ZDaEhKR0NWaWFuLS1xcFVBU1RLSEZwTmdIeVlXaGRORjV1UGMxYl9MZDZObjZhelJLSUU0VUxmZXpHdmZ5LXZQMWYyODFNemJoeDI3bEdOOTRyWl9DQ0JWSVB6TEkwMHhhY3ltWU9panlyakxYZUxNdFBCOTdpV2FndmFVNW12Z2x1YXBjV2ZHMlVXd1lWWHhJTFZ2enFObnpNTWRYUA?oc=5",
+      "fecha": "2026-11-11T12:16:01+00:00",
+      "puntaje": 11.45,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -25,23 +39,23 @@
       "fuente": "MinAgricultura",
       "url": "https://territorio.agrodasin.org.co",
       "fecha": "2026-11-07T09:13:00-05:00",
-      "puntaje": 11.58,
+      "puntaje": 11.07,
       "herramienta": {
         "texto": "Haz el diagnóstico gratuito de tu proyecto",
         "url": "https://www.agrodasin.org.co/diagnostico/"
       }
     },
     {
-      "categoria": "Clima",
-      "titulo": "¡Las lluvias en Bolívar no han cesado! IDEAM advierte que van hasta finales de noviembre",
-      "resumen": "¡Las lluvias en Bolívar no han cesado! IDEAM advierte que van hasta finales de noviembre",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "Alerta",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNNRXZwUDJ2aGxuWnZUM1BEZmFLcV9JanNFVVA4b1EycVJobVpSUUZSOUpRcXd2UW9NY01aSm1ieGdPeXEzMnBjZlVEclljLUN4WVNUZlZQMHVNam1lb2Z1LWJkdDdaa3B3MmNtUHNueldCbXppMVVMeWVzUDhMWVNvVlRtWDF5dlEtWDAzd0dTcmxmeVZOVGVsZ2kwNTVkVERhY1ZTZ2lHWFhaM1k00gGvAUFVX3lxTE51c01FdnBQMnZobG5adlQzUERmYUtxX0lqc0VVUDhvUTJxUmhtWlJRRlI5SlFxd3ZRb01jTVpKbWJ4Z095cTMycGNmVURyWWMtQ3hZU1RmVlAwdU1qbWVvZnUtYmR0N1prcHcyY21Qc256V0JtemkxVUx5ZXNQOExZU29WVG1YMXl2US1YMDN3R1NybGZ5Vk5UZWxnaTA1NWRURGFjVlNnaUdYWFozWTQ?oc=5",
-      "fecha": "2026-11-10T12:18:41+00:00",
-      "puntaje": 10.18,
+      "categoria": "Agro general",
+      "titulo": "El ICA fortalece el acceso a la información sobre el mercado de insumos agrícolas en Colombia - Instituto Colombiano Agropecuario",
+      "resumen": "El ICA fortalece el acceso a la información sobre el mercado de insumos agrícolas en Colombia - Instituto Colombiano Agropecuario",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Instituto Colombiano Agropecuario - ICA",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSlhtUlh0TUlvYUpVNjgyZWp4dEtnRHB2UlpCV0ZqTmFGclFyc3ZSX2h2dUhhTzRQNTI3OHdMc01PeEhnZ1M2bzJyLW10dkdPaUlNcTV6VnJxeEd2OTQtd1pvOHlkX3RYMVRjallxcHJMZkItbHBval9RNmxPbDllYzgwVHFyN21J?oc=5",
+      "fecha": "2026-11-10T20:27:01+00:00",
+      "puntaje": 11.05,
       "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -53,23 +67,9 @@
       "fuente": "El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQdIBwgFBVV95cUxOczM0cEdicEJaVk1mcVlGQzl0YmZuTlhIUkZMQ1kxMlpmOTFNSTVHM3RUSXc3V2hjTXRWWFBXdnotdjNWYWhobk1tLUpRYWtwZEZFTWdRNHRpUTVzS28xVnNDWFdNbzBFZU5hUXdyMDBkWFBpbEdVcGpvd2xzLTFaYkJ3VV9uYk54bC1Eczlyb2JkOHIzbXhOakYwX2YwR1ZxWWVlajRncXE4TTJtVGw5bTFLdVBjamlfVXVXUmxQVTgyQQ?oc=5",
       "fecha": "2026-11-10T15:10:55+00:00",
-      "puntaje": 9.97,
+      "puntaje": 7.59,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Dos vacas paridas y mucho futuro: Ceagrodex y ‘Una Vaca por la Paz’ impulsan a dos familias de Neiva",
-      "resumen": "Dos vacas paridas y mucho futuro: Ceagrodex y ‘Una Vaca por la Paz’ impulsan a dos familias de Neiva",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "CONtexto Ganadero",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNa1lGMzhBTFBaZHJuSTk1czhpUUxlNW53ZnBTLVlFYnhTZGx6MWhyOGlkTGFYTVZUejFEbXBoT2hkMWVZM1RzR2VZVmRDZUxVME1CZ3ZvYjg0VWZyNjhRcFppSUcxbmR2eU1NT0Y2ZnFwenl4aERmZ1lCVGFyNXE4OTQ2UlBVaUxGdUg3ZUlydGw2cHE5V1NGcmNhLVdzNzRhRFJoZ1E5dW8tcXc3bG1EZ3NpWmI4V0dWeTk2MVhKVk1vc2VwajhmTWdfWVN6cW1pVXpLTVVCYVRLNDVlUVAxeGx3?oc=5",
-      "fecha": "2026-11-10T23:57:01+00:00",
-      "puntaje": 9.41,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     }
