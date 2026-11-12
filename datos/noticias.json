@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-12T08:13:22.179268+00:00",
+  "generado": "2026-11-12T17:31:22.316546+00:00",
   "edicion": "2026-11-12",
   "noticias": [
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "Fedearroz lanza una alerta por el IVA a los insumos agropecuarios: estos serían los riesgos para el campo",
+      "resumen": "Fedearroz lanza una alerta por el IVA a los insumos agropecuarios: estos serían los riesgos para el campo",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "Portafolio.co",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHNUWVB4VWJ3YVFxV2x2SGtGTmdqYU5oQWN1NWlDYXRyR2RUUnJHMElMdnh4dTZnNGxSUW5SUnFXMFV6UE1sdUlpX3dkQ3h1TEFXLWdGNngyTl9tcmlKMjU1Yll2MWZCUXp4ZDhNa3JnSXJyeUZOa2doS245Q1o1YVY1bHg4Mlp6V3VIZmNTLWRvWDlMZnZxdVQ1anlPV2ZKNjdMZl9Sa2g0UFdkcFdSZGlrbXM1M0xfSlAxd2pZdHBRcFBlQVdjZjI1OHdzanYwNzZWX2RUejNtUDZwUDh3UWZoU1l3WmdObUtv0gHrAUFVX3lxTE1sc1RZUHhVYndhUXFXbHZIa0ZOZ2phTmhBY3U1aUNhdHJHZFRSckcwSUx2eHh1Nmc0bFJRblJScVcwVXpQTWx1SWlfd2RDeHVMQVctZ0Y2eDJOX21yaUoyNTViWXYxZkJRenhkOE1rcmdJcnJ5Rk5rZ2hLbjlDWjVhVjVseDgyWnpXdUhmY1MtZG9YOUxmdnF1VDVqeU9XZko2N0xmX1JraDRQV2RwV1JkaWttczUzTF9KUDF3all0cFFwUGVBV2NmMjU4d3NqdjA3NlZfZFR6M21QNnBQOHdRZmhTWXdaZ05tS28?oc=5",
+      "fecha": "2026-11-12T13:39:12+00:00",
+      "puntaje": 15.93,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Clima",
       "titulo": "El Ideam se le adelanta al río: esta alerta es clave para ganaderos aislados en Bolívar y Magdalena",
@@ -11,7 +25,21 @@
       "fuente": "CONtexto Ganadero",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNjBuamY1bFh2SGdYdlJOSU9JZDdJVkNOdzVaXzZtWlotY3B2QVdoRGxtQ0tQeFZTZVViQ3B4akItQTcteHhjUFdCaEtWVWNJb0doY2hZd0YydVVNYlBoYUZya19pTTJpa2Q2QzlUdHF5ZmVZWTRBaGJCVGJwU0dkWmRUM2dKdjBOUXZnVk1EVDdQRnBueDJxZURkQm9xeXhyRHZWbjdoX1N6cFFEVXAyLW5VbjZNSEJROXJOVVkybzdfTkpPOEZ2cFl6ZThJS1pGb1RrOGhDTmpJYmo4VmJn?oc=5",
       "fecha": "2026-11-11T23:56:25+00:00",
-      "puntaje": 16.7,
+      "puntaje": 14.12,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "IDEAM mantiene 137 alertas hidrológicas en Colombia",
+      "resumen": "IDEAM mantiene 137 alertas hidrológicas en Colombia",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Diario del Cauca",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSW9jUUtaa1dQanBkd1JvcXdOSHNqNEQ0bWg2V21KeU05LXFWZktIX0V4bU90Nzg0UXh6NmNCbHE4RlMtWjhQU2R3Tk0yOG1Nb1RPOE5uaTNPdXpES0ljU2hGYzlLWFA1bVhFcDJDUXZNNC13NU1SbzdUWFZ6RkZodGZxVlozcXVaVEZfazRjZzNEZmw0UmZrLW5n?oc=5",
+      "fecha": "2026-11-12T13:35:40+00:00",
+      "puntaje": 11.91,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -19,27 +47,13 @@
     },
     {
       "categoria": "Agro general",
-      "titulo": "El ICA fortalece el relevo generacional en San Andrés con la estrategia \"Jóvenes Semilla\" - Instituto Colombiano Agropecuario",
-      "resumen": "El ICA fortalece el relevo generacional en San Andrés con la estrategia \"Jóvenes Semilla\" - Instituto Colombiano Agropecuario",
+      "titulo": "Fedearroz rechaza IVA a insumos agropecuarios",
+      "resumen": "Fedearroz rechaza IVA a insumos agropecuarios",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Instituto Colombiano Agropecuario - ICA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUszM1dwaE9ONHBqZURsdWFTeVN6cnZUUUFzT1BWLVdpd1N5WF9YMlJSdVNBXzdPX2NvZzBEdko3ZFBzclBhVDZzN2hZXzJwR0JUQW41NldQLUhrRnFPajl5S0U4Z2IwczB0RndSdVByLS0zQ181Y19LTEF3cDAwYndoQjBuTF9vVVE?oc=5",
-      "fecha": "2026-11-11T19:41:43+00:00",
-      "puntaje": 11.52,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Fertilizantes verdes: ¿el comienzo de la soberanía agrícola de Colombia?",
-      "resumen": "Fertilizantes verdes: ¿el comienzo de la soberanía agrícola de Colombia?",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "pagina10.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVlWV19RaFYwQzM2NjkwUmEyZGlscXN1eFk1LVRZaVluNWRWSUZVNXNCTDdxeFVLSWhIVGItdVlNb2trS21FR1UwY0MtX19IS3JoWERMTFp2dG1CUk92R3ZROXlYbEY4VDR4dUZRN1poS3VQc2w3YUhpblBncXpwUUdGeWZQU2s0Uk5BMVJ6LXZZYThsT1gzQWdHSQ?oc=5",
-      "fecha": "2026-11-12T03:45:20+00:00",
-      "puntaje": 10.76,
+      "fuente": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1NlajB5dk1PVTY5RDhTLUpmaUxFZHo3bDNNMzVSck9JTy1xTlZBSnNCNFFYV1hlcXhKa3hWLUcycVlzbGxiR1RwLXFwZk44eWIyeDlhVUthOS14dE0wS3BxTUZybEF5UzZOZlBsVFIyQzI5WmowekxNaW01OGQxZUJCcXdaZDDSAZsBQVVfeXFMT0J2ZTd4WEJqNE9pYlRsUmNJTHAybmxocmVIZDZQR0RYeTlidGxZRDByR3hCUGxZaThjZlJ0QXFhOEg4WTNJWUx1MkY2bjZPVElFR2N1TW1FcFNhTnIyMlJDTjB0b0xVU2REQ3Z6dUVuS2lCOTVITDRyanJUUHhYR2RTdGZjZzFQdm0xWmEtOVloU01NTWtkZGVjNVk?oc=5",
+      "fecha": "2026-11-12T13:14:54+00:00",
+      "puntaje": 10.81,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -53,24 +67,10 @@
       "fuente": "MinAgricultura",
       "url": "https://territorio.agrodasin.org.co",
       "fecha": "2026-11-07T09:13:00-05:00",
-      "puntaje": 10.21,
+      "puntaje": 9.66,
       "herramienta": {
         "texto": "Haz el diagnóstico gratuito de tu proyecto",
         "url": "https://www.agrodasin.org.co/diagnostico/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Hoy no se pierda una clase magistral: Colombia y Argentina muestran qué están haciendo en ganadería sostenible",
-      "resumen": "Hoy no se pierda una clase magistral: Colombia y Argentina muestran qué están haciendo en ganadería sostenible",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "CONtexto Ganadero",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPU01YdmVBT2w3NG5hb0JPYmpvVGtFeG5saXdQbFA4ZzFHWWcyeGVucUtsMmFERk1FLVRGZVVwZ2FpOWx4SEVfaVE1c3VhNXhyc1VmUlR1OWw5ZTdXSmluWjhoN0xLQXJvVWg3bDZUYzR3QXUxdjljSTFTN1BPT1YtZlJScGJCZFh5WFFpa3QyZHUwdC1lbjIxU0JreU1tcUNQOFIxOEdNVVcwSjUtSmxmSV9mdl9PSTBfbUFqeTJwbGVzNXU0NExlZjNlemdCLWVQZDlwemJVNzhOX1hxVGp0ZVlHT2xrTlEwTVl6VnpibFQtWFlUcVRpVEltZnBaZw?oc=5",
-      "fecha": "2026-11-11T23:55:54+00:00",
-      "puntaje": 9.7,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     }
   ]
