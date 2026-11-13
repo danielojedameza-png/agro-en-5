@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-13T15:19:05.754841+00:00",
+  "generado": "2026-11-13T17:51:35.538463+00:00",
   "edicion": "2026-11-13",
   "noticias": [
+    {
+      "categoria": "Clima",
+      "titulo": "¿Riesgo en las reservas de agua del Caribe? Ideam advierte sobre posible sequía",
+      "resumen": "¿Riesgo en las reservas de agua del Caribe? Ideam advierte sobre posible sequía",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Minuto60",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMkFVdXVNVndtZFY4aGZDbk85V3d6aEdjbUZKWUVMNmxhd2psUEEyRjU0OUhnNmRBTGNwYjNGVVNXNmh5RmYzdnM4bENWYldlN2xHUlpnRHhNX3pkNVIwOHBxemZyOGZDdnJNNDl4RmtHNkZNXzY5dnpLRnI4QW14aTRPaDYtanJoeHNabzRRdE0?oc=5",
+      "fecha": "2026-11-13T16:56:50+00:00",
+      "puntaje": 15.75,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Agro general",
       "titulo": "Colombia busca fortalecer su sistema de trazabilidad agropecuaria con el apoyo y la experiencia de Corea del Sur - Instituto Colombiano Agropecuario",
@@ -11,7 +25,7 @@
       "fuente": "Instituto Colombiano Agropecuario - ICA",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR01zUXVWOG82aE5oZWxPTWdEOEhKeHpIakk0cW5WclZNMmFJN3piLWM3RTVDLVhfTHpKRnktc2dTdnBNRUVHWnNZRVMwUlBGcTNPOHVTNnFnT0x4ejNvVU9Zam1vV0NqdnhiMnptMXVhQUEtYkRmSFBuc1d4bDEwTFRVQQ?oc=5",
       "fecha": "2026-11-13T13:18:56+00:00",
-      "puntaje": 12.44,
+      "puntaje": 11.74,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,9 +39,23 @@
       "fuente": "https://www.alerta.com.co/",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0JZSFFWVFlwbFRGUjNvaFVHZ0xRSnhWNzJtZ0hROFBGdTQxbFlpSVphaUtRR29nTEE5ZHJ4U0lFVVdEblZMWW1JNXpCclJUNHFENzNGNDFzM0dHbFQ0VHVjTGEwbEVCd2Y1NzJ2UEF3ajhhYXdFd3hkNVltazR3dWFsdkxKVlJFQzFGejdsczdseFlIelFPczZuai05MEdnc1VPaWthZjJKdlY2cWlkcldB?oc=5",
       "fecha": "2026-11-13T13:02:00+00:00",
-      "puntaje": 12.37,
+      "puntaje": 11.66,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Ganaderos del centro del Huila también están con Lafaurie: auditoría sí, juicios anticipados no",
+      "resumen": "Ganaderos del centro del Huila también están con Lafaurie: auditoría sí, juicios anticipados no",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "CONtexto Ganadero",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRUN3NVA4NTR0Qm9RSjI0blVsM1BKYU4wVGxrT1A0VkJJb3dabzAxMC1pQVN5WUxzVnE5U24wM3c3ZzBBWGoxelhXMTd2LW9NbUxtc0x1U0hVdExSOEozbHZteWdnZnFUSm1FTTFsMnNzYU41bWV5Z3hzX3FxWDZNb05JU2VnRF9uN2ZmUTR5UUExZkxSWU1ZendIbzR3eWlmLUhGUkFGSHczWG1DYlUyc2xaR3EtSVB1MTFXWDBsR2Z1YUV5RVhKNWRHUGhYU1QyZTFWRg?oc=5",
+      "fecha": "2026-11-13T15:52:09+00:00",
+      "puntaje": 11.45,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -39,35 +67,7 @@
       "fuente": "Portafolio.co",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekIxZDJpcnJnRW5NNmpxR0ZjNWRFUW0xczVEOGU2N1ZmUEx1LXhLRGNKUkdTU1NCTEFFM1U2czRYX3ZVOE9ZdkV0Wkh2elNRdzg1Rjc5WmtCOUNod0hHU0ltLWRrOGdzMGI1a3VBZUpYcGwxTm1FRFppaUNOSjBEY1FoY2hON0xMVVdYMFh4dzdIVkxpc3U2ek9xaHQwN1VhS21aN3RWcEVsYU00bGxYMXJBWkxialFxY3F2VlE5UndTUjE4cVJKM1JRSkgtRlJzMVE3WGozMGMxOXU5dHlnSVROSU5fV2prdEtscjZ30gHuAUFVX3lxTE56QjFkMmlycmdFbk02anFHRmM1ZEVRbTFzNUQ4ZTY3VmZQTHUteEtEY0pSR1NTU0JMQUUzVTZzNFhfdlU4T1l2RXRaSHZ6U1F3ODVGNzlaa0I5Q2h3SEdTSW0tZGs4Z3MwYjVrdUFlSlhwbDFObUVEWmlpQ05KMERjUWhjaE43TExVV1gwWHh3N0hWTGlzdTZ6T3FodDA3VWFLbVo3dFZwRWxhTTRsbFgxckFaTGJqUXFjcXZWUTlSd1NSMThxUkozUlFKSC1GUnMxUTdYajMwYzE5dTl0eWdJVE5JTl9Xamt0S2xyNnc?oc=5",
       "fecha": "2026-11-13T13:58:30+00:00",
-      "puntaje": 11.63,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "Fedearroz lanza una alerta por el IVA a los insumos agropecuarios: estos serían los riesgos para el campo",
-      "resumen": "Fedearroz lanza una alerta por el IVA a los insumos agropecuarios: estos serían los riesgos para el campo",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHNUWVB4VWJ3YVFxV2x2SGtGTmdqYU5oQWN1NWlDYXRyR2RUUnJHMElMdnh4dTZnNGxSUW5SUnFXMFV6UE1sdUlpX3dkQ3h1TEFXLWdGNngyTl9tcmlKMjU1Yll2MWZCUXp4ZDhNa3JnSXJyeUZOa2doS245Q1o1YVY1bHg4Mlp6V3VIZmNTLWRvWDlMZnZxdVQ1anlPV2ZKNjdMZl9Sa2g0UFdkcFdSZGlrbXM1M0xfSlAxd2pZdHBRcFBlQVdjZjI1OHdzanYwNzZWX2RUejNtUDZwUDh3UWZoU1l3WmdObUtv0gHrAUFVX3lxTE1sc1RZUHhVYndhUXFXbHZIa0ZOZ2phTmhBY3U1aUNhdHJHZFRSckcwSUx2eHh1Nmc0bFJRblJScVcwVXpQTWx1SWlfd2RDeHVMQVctZ0Y2eDJOX21yaUoyNTViWXYxZkJRenhkOE1rcmdJcnJ5Rk5rZ2hLbjlDWjVhVjVseDgyWnpXdUhmY1MtZG9YOUxmdnF1VDVqeU9XZko2N0xmX1JraDRQV2RwV1JkaWttczUzTF9KUDF3all0cFFwUGVBV2NmMjU4d3NqdjA3NlZfZFR6M21QNnBQOHdRZmhTWXdaZ05tS28?oc=5",
-      "fecha": "2026-11-12T13:39:12+00:00",
-      "puntaje": 9.87,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "La Unión Europea compró 23,6 % menos café verde colombiano en nueve meses: el de Vietnam subió 26 % y",
-      "resumen": "La Unión Europea compró 23,6 % menos café verde colombiano en nueve meses: el de Vietnam subió 26 % y",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Más Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gam5SQTNjRnFBWUlKSTlTR3duS04xUV8yVk5TV1RISmFyZkM4SDFfN2NTbktnVHllWmQzTC0wQzdkWG1xSGt5Q1VyNjhpT1RIZ0JObklFU2tGX2g2V01hLVNtcXbSAWRBVV95cUxORmpuUkEzY0ZxQVlJSkk5U0d3bktOMVFfMlZOU1dUSEphcmZDOEgxXzdjU25LZ1R5ZVpkM0wtMEM3ZFhtcUhreUNVcjY4aU9USGdCTm5JRVNrRl9oNldNYS1TbXF2?oc=5",
-      "fecha": "2026-11-13T12:32:39+00:00",
-      "puntaje": 9.23,
+      "puntaje": 10.92,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
