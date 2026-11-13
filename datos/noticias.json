@@ -1,19 +1,47 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-13T06:30:34.558130+00:00",
+  "generado": "2026-11-13T15:19:05.754841+00:00",
   "edicion": "2026-11-13",
   "noticias": [
     {
+      "categoria": "Agro general",
+      "titulo": "Colombia busca fortalecer su sistema de trazabilidad agropecuaria con el apoyo y la experiencia de Corea del Sur - Instituto Colombiano Agropecuario",
+      "resumen": "Colombia busca fortalecer su sistema de trazabilidad agropecuaria con el apoyo y la experiencia de Corea del Sur - Instituto Colombiano Agropecuario",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Instituto Colombiano Agropecuario - ICA",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR01zUXVWOG82aE5oZWxPTWdEOEhKeHpIakk0cW5WclZNMmFJN3piLWM3RTVDLVhfTHpKRnktc2dTdnBNRUVHWnNZRVMwUlBGcTNPOHVTNnFnT0x4ejNvVU9Zam1vV0NqdnhiMnptMXVhQUEtYkRmSFBuc1d4bDEwTFRVQQ?oc=5",
+      "fecha": "2026-11-13T13:18:56+00:00",
+      "puntaje": 12.44,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
       "categoria": "Clima",
-      "titulo": "Ideam advierte que diciembre y enero serán los meses más críticos por el fenómeno de El Niño en Colombia -",
-      "resumen": "Ideam advierte que diciembre y enero serán los meses más críticos por el fenómeno de El Niño en Colombia -",
+      "titulo": "Diciembre y enero serán los meses más críticos por el fenómeno de ‘El Niño’ en Colombia, advierte el Ideam",
+      "resumen": "Diciembre y enero serán los meses más críticos por el fenómeno de ‘El Niño’ en Colombia, advierte el Ideam",
       "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "Emisora Atlántico 1070 AM",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb3hUZHlVbHJRenBEY0E3cWRIejl0UzZBMWxoMk5lUmlrbGNpQUw2bmNYVXlZT2wwbnBtNV9ZaFRUUG5wQmpINVpPMTlUaWRKYVlqSzBxUkRNS2hRYnBEVE5RSnVuVHZjdl9xcV9EQjNqa1N6d2xFVTJrRlNyejhGN3FtQjVzMDJ3b0JFbjl6N1BETUVGZHU5U3R3YW1tcWc2S2pfVWtqRjlVUFRkZHJEN3RFM09ZN3ZuWklPcDNHdEVNTjN1T0hRRmZjQ2dwSHZ0OWQ0aENlY0R3cnpPMnUyMEwyZTctOHlPZmfSAeoBQVVfeXFMUG94VGR5VWxyUXpwRGNBN3FkSHo5dFM2QTFsaDJOZVJpa2xjaUFMNm5jWFV5WU9sMG5wbTVfWWhUVFBucEJqSDVaTzE5VGlkSmFZakswcVJETUtoUWJwRFROUUp1blR2Y3ZfcXFfREIzamtTendsRVUya0ZTcno4RjdxbUI1czAyd29CRW45ejdQRE1FRmR1OVN0d2FtbXFnNktqX1VrakY5VVBUZGRyRDd0RTNPWTd2blpJT3AzR3RFTU4zdU9IUUZmY0NncEh2dDlkNGhDZWNEd3J6TzJ1MjBMMmU3LTh5T2Zn?oc=5",
-      "fecha": "2026-11-13T04:38:19+00:00",
-      "puntaje": 12.48,
+      "fuente": "https://www.alerta.com.co/",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0JZSFFWVFlwbFRGUjNvaFVHZ0xRSnhWNzJtZ0hROFBGdTQxbFlpSVphaUtRR29nTEE5ZHJ4U0lFVVdEblZMWW1JNXpCclJUNHFENzNGNDFzM0dHbFQ0VHVjTGEwbEVCd2Y1NzJ2UEF3ajhhYXdFd3hkNVltazR3dWFsdkxKVlJFQzFGejdsczdseFlIelFPczZuai05MEdnc1VPaWthZjJKdlY2cWlkcldB?oc=5",
+      "fecha": "2026-11-13T13:02:00+00:00",
+      "puntaje": 12.37,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "Los 10 desafíos que ponen a prueba al agro colombiano en los primeros 100 días de Abelardo de la Espriella",
+      "resumen": "Los 10 desafíos que ponen a prueba al agro colombiano en los primeros 100 días de Abelardo de la Espriella",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Portafolio.co",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOekIxZDJpcnJnRW5NNmpxR0ZjNWRFUW0xczVEOGU2N1ZmUEx1LXhLRGNKUkdTU1NCTEFFM1U2czRYX3ZVOE9ZdkV0Wkh2elNRdzg1Rjc5WmtCOUNod0hHU0ltLWRrOGdzMGI1a3VBZUpYcGwxTm1FRFppaUNOSjBEY1FoY2hON0xMVVdYMFh4dzdIVkxpc3U2ek9xaHQwN1VhS21aN3RWcEVsYU00bGxYMXJBWkxialFxY3F2VlE5UndTUjE4cVJKM1JRSkgtRlJzMVE3WGozMGMxOXU5dHlnSVROSU5fV2prdEtscjZ30gHuAUFVX3lxTE56QjFkMmlycmdFbk02anFHRmM1ZEVRbTFzNUQ4ZTY3VmZQTHUteEtEY0pSR1NTU0JMQUUzVTZzNFhfdlU4T1l2RXRaSHZ6U1F3ODVGNzlaa0I5Q2h3SEdTSW0tZGs4Z3MwYjVrdUFlSlhwbDFObUVEWmlpQ05KMERjUWhjaE43TExVV1gwWHh3N0hWTGlzdTZ6T3FodDA3VWFLbVo3dFZwRWxhTTRsbFgxckFaTGJqUXFjcXZWUTlSd1NSMThxUkozUlFKSC1GUnMxUTdYajMwYzE5dTl0eWdJVE5JTl9Xamt0S2xyNnc?oc=5",
+      "fecha": "2026-11-13T13:58:30+00:00",
+      "puntaje": 11.63,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -25,52 +53,24 @@
       "fuente": "Portafolio.co",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbHNUWVB4VWJ3YVFxV2x2SGtGTmdqYU5oQWN1NWlDYXRyR2RUUnJHMElMdnh4dTZnNGxSUW5SUnFXMFV6UE1sdUlpX3dkQ3h1TEFXLWdGNngyTl9tcmlKMjU1Yll2MWZCUXp4ZDhNa3JnSXJyeUZOa2doS245Q1o1YVY1bHg4Mlp6V3VIZmNTLWRvWDlMZnZxdVQ1anlPV2ZKNjdMZl9Sa2g0UFdkcFdSZGlrbXM1M0xfSlAxd2pZdHBRcFBlQVdjZjI1OHdzanYwNzZWX2RUejNtUDZwUDh3UWZoU1l3WmdObUtv0gHrAUFVX3lxTE1sc1RZUHhVYndhUXFXbHZIa0ZOZ2phTmhBY3U1aUNhdHJHZFRSckcwSUx2eHh1Nmc0bFJRblJScVcwVXpQTWx1SWlfd2RDeHVMQVctZ0Y2eDJOX21yaUoyNTViWXYxZkJRenhkOE1rcmdJcnJ5Rk5rZ2hLbjlDWjVhVjVseDgyWnpXdUhmY1MtZG9YOUxmdnF1VDVqeU9XZko2N0xmX1JraDRQV2RwV1JkaWttczUzTF9KUDF3all0cFFwUGVBV2NmMjU4d3NqdjA3NlZfZFR6M21QNnBQOHdRZmhTWXdaZ05tS28?oc=5",
       "fecha": "2026-11-12T13:39:12+00:00",
-      "puntaje": 12.32,
+      "puntaje": 9.87,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
-      "categoria": "Agro general",
-      "titulo": "INFIHUILA reunió a conferencistas de México y Colombia para hablar de crédito agropecuario",
-      "resumen": "INFIHUILA reunió a conferencistas de México y Colombia para hablar de crédito agropecuario",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "La Última – La Ultima Noticias",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQUxiXzVPOW93ZjNYaHFXdVU2UGkxeGwyX3JscVdqZVJsSEpRTXlmZGtsWGVYamZKR000MHBaeVBKanpFc1o3TnlDY1NRWWhxQkMxREhDRHZUS3VVWjFMeTc3NWt1V2ZWb3JUMV8walg4eVFyb2VwSkxraHZuNVhoOEplZ1BzRlc5VnFzWGd3a2M5Y2Q0UTliX2luem1mQWVQRFlOVGtHcXZVYTM0OW1WQXR2OEh2QUpzV29fZjdWWk1XaGJR?oc=5",
-      "fecha": "2026-11-12T23:16:21+00:00",
-      "puntaje": 10.99,
-      "herramienta": {
-        "texto": "Haz el diagnóstico gratuito de tu proyecto",
-        "url": "https://www.agrodasin.org.co/diagnostico/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "El Ideam se le adelanta al río: esta alerta es clave para ganaderos aislados en Bolívar y Magdalena",
-      "resumen": "El Ideam se le adelanta al río: esta alerta es clave para ganaderos aislados en Bolívar y Magdalena",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "CONtexto Ganadero",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNjBuamY1bFh2SGdYdlJOSU9JZDdJVkNOdzVaXzZtWlotY3B2QVdoRGxtQ0tQeFZTZVViQ3B4akItQTcteHhjUFdCaEtWVWNJb0doY2hZd0YydVVNYlBoYUZya19pTTJpa2Q2QzlUdHF5ZmVZWTRBaGJCVGJwU0dkWmRUM2dKdjBOUXZnVk1EVDdQRnBueDJxZURkQm9xeXhyRHZWbjdoX1N6cFFEVXAyLW5VbjZNSEJROXJOVVkybzdfTkpPOEZ2cFl6ZThJS1pGb1RrOGhDTmpJYmo4VmJn?oc=5",
-      "fecha": "2026-11-11T23:56:25+00:00",
-      "puntaje": 10.51,
+      "categoria": "Mercados y precios",
+      "titulo": "La Unión Europea compró 23,6 % menos café verde colombiano en nueve meses: el de Vietnam subió 26 % y",
+      "resumen": "La Unión Europea compró 23,6 % menos café verde colombiano en nueve meses: el de Vietnam subió 26 % y",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Más Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gam5SQTNjRnFBWUlKSTlTR3duS04xUV8yVk5TV1RISmFyZkM4SDFfN2NTbktnVHllWmQzTC0wQzdkWG1xSGt5Q1VyNjhpT1RIZ0JObklFU2tGX2g2V01hLVNtcXbSAWRBVV95cUxORmpuUkEzY0ZxQVlJSkk5U0d3bktOMVFfMlZOU1dUSEphcmZDOEgxXzdjU25LZ1R5ZVpkM0wtMEM3ZFhtcUhreUNVcjY4aU9USGdCTm5JRVNrRl9oNldNYS1TbXF2?oc=5",
+      "fecha": "2026-11-13T12:32:39+00:00",
+      "puntaje": 9.23,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Territorio",
-      "titulo": "añadida la noticia del 6 de noviembre sobre sostenibilidad, productividad, innovación y competitividad cafetera; no se presenta como convocatoria.",
-      "resumen": "añadida la noticia del 6 de noviembre sobre sostenibilidad, productividad, innovación y competitividad cafetera; no se presenta como convocatoria.",
-      "por_que": "",
-      "fuente": "MinAgricultura",
-      "url": "https://territorio.agrodasin.org.co",
-      "fecha": "2026-11-07T09:13:00-05:00",
-      "puntaje": 8.89,
-      "herramienta": {
-        "texto": "Haz el diagnóstico gratuito de tu proyecto",
-        "url": "https://www.agrodasin.org.co/diagnostico/"
       }
     }
   ]
