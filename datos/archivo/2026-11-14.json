@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-14T21:24:19.003786+00:00",
+  "generado": "2026-11-15T01:49:18.703400+00:00",
   "edicion": "2026-11-14",
   "noticias": [
     {
@@ -11,7 +11,7 @@
       "fuente": "Diario La Libertad",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRTUyUzVkUEFXbmhDaHZqQTYtVS03NjUyV01nX3dpRU5IWXlraV9MUWlFa3ZUUi1QSnlydDFGTm5hNkY3a0NORnZzT3VQQ0RZV0JrbEcxRUxkOUNpYThlMmdrbXV2QWUzWGZjbEZHZkh2Mm4ybmotY2lMaVQtbTIxVzJlZGRKZHNNRlFJeHhrUnlHWFdTcTZlVDFqbGJaUDJ1QkdSa1k3RDgxRk9HSjdVVDRHZU1ISk0yUmd3bEc0a0tDMGhrUEpnZ0VtaEtGMnRlTWVoYmV3NUhoTFBG?oc=5",
       "fecha": "2026-11-14T19:41:40+00:00",
-      "puntaje": 15.52,
+      "puntaje": 14.3,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,7 +25,21 @@
       "fuente": "El Colombiano",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOclVRNjh6cG9uR1hyZjRvV3RoQ1JDWEVaS1F1MTA4UTg3c1BZVVhLdENsRTRpdGpGZFk0Z0xUNXA4dFJxSng4RkFGendBbVpGd0V6aDdtejdab1hzaElqLS1XZUVvTElTNEZ3M19oeVdZY01KLXJxNUxDSDhNYWJzOWwxUXNpSS1ZeDkyZFI4aGJhOFB0dF9HZHdVbDFQQmJXV19INUhmNEdPY2dITWNFdjFzbVlwYzg20gG-AUFVX3lxTE1LNVVtU0hXNUoyYnpiNTFOU0ZFRUZtaUFDcTRNS3Z5LThOZ3FoQ2lqRVg5cE9HMk1SV1prQXREZWh0YWRzRjduTDUwUllTS0ZveDBjeG9SaVhZYXdHMjlCVUJQd0RLQzgwNE9ZN0ZoSUtreTBHWmFZb1U5b05mUDdxa3J3cnVqV2RuRkFPQWlmdUZ2Z3FuNVZEb05UYmxrOFY5RUJZZFMzV0d4NnhaWkRDU3drV3F6T2dQSFV2aHc?oc=5",
       "fecha": "2026-11-14T19:19:34+00:00",
-      "puntaje": 12.42,
+      "puntaje": 11.2,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Ed Westwick, de Gossip Girl, llegó a Colombia con ‘Afnan’ y destacó su gusto por el café",
+      "resumen": "Ed Westwick, de Gossip Girl, llegó a Colombia con ‘Afnan’ y destacó su gusto por el café",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjUyNl9od1llMVJTQ0IwXy1yVWhMdUU3WkVaZERpYjlNellJYnFnSVh4dHpRLVVnQm5UWjd1bGZlSXFuOVVEdXl0WXVabFJXTGQzRHc0aVV6UENpSUFQMWV1UGZQM19TdlNBRGh5RGVXeEg2UEczcThvR0dGdUozMkFYczRzekZlUkNnaHJ0Mnc0ZVVaM241N3U0cHBkUTBqSk9GcHBUN0lmNzM0TkNWZkpodTJvUlFFa0p1M09HR0pEZ9IBwgFBVV95cUxNMm1FWFRicVZqWmVUaTE3ZWtVeExOYngwU3FGLUhGdTdCRm5FV2NEUjBkSm1lOXJTeUVKOGRXTUZJNmVBOXluVTFQM0hGWUE4NUFKWC1rVXZwMGVrVE1UTk1TMUcxeXR1U3hGQm5CMktaTUVyT1ViWklVWm5fZjM3Nnc1ZUhVdWRDUTBQeGN1U1NXcFRYeV9oamhmWU9jcVh0Ri1qM01SSlh4b0RsREtOQ1ZhRFJieFRmbzdZak45ZkZUZw?oc=5",
+      "fecha": "2026-11-14T18:51:30+00:00",
+      "puntaje": 11.07,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,23 +53,9 @@
       "fuente": "UDG TV",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckN2UEdpV0VNeUp2WDJ4RFd1YnpmallrQUJIZUFzUU9OeWdzalpLb2VVVnFuQVRibGdhUjIzY1RPSFBQNkRyU2FFaXdZblByMFNpZVNCYUd6bnJMRTJHUVlmNmg4WHhzOXpnT2tZSGRKU0VpbTY4NHd2alNjRmhnbXRRdEtwZVZuRVl5bTRoRjRjZw?oc=5",
       "fecha": "2026-11-14T14:00:00+00:00",
-      "puntaje": 10.94,
+      "puntaje": 9.72,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "“Expresamos nuestro respaldo a la gestión de José Félix Lafaurie Rivera”: ganaderos de Bolívar",
-      "resumen": "“Expresamos nuestro respaldo a la gestión de José Félix Lafaurie Rivera”: ganaderos de Bolívar",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "CONtexto Ganadero",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ3NHQlpndEY2bjdRTGdZR0hITHEzeE9HVnl0QklZdC1kZzN3ejhDcGl4Qm16X3pNenZRWERUUWlJVl8yMTkyd2VpSl9TSXUxUGVfNVNRUlZXdmlObmtXWTVoc3Y5RXhVWkhmQU9zUjlSVGVQUkdhVzJaYWhlMUJtcHM2V205ZTZsWjlkblVLeVhzRUs2SkdoamU3SXM2ZXN4YzlWQWxBWWFTbTlxOGJrREk1U1FZUUNlVThqODYtRmFMaDU1M3lOaDAtTlJRelhadXE1bE5qblpyQQ?oc=5",
-      "fecha": "2026-11-13T23:53:43+00:00",
-      "puntaje": 10.02,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -67,7 +67,7 @@
       "fuente": "Neiva Estéreo",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6Sm1GUEdOVllYYnJMOFpGM1BXMmstempPWGRqeU5MLWZWQVZOUUo1allOd0tJeC1IZDIybnFKb0dkUU9LSWVjcUxkS20tMzVZR2I3Zl9yZXBSOFdTbmk3LS12U2g3Y3dOZkluTUtYa2p3N1dvcmpIVg?oc=5",
       "fecha": "2026-11-14T19:39:07+00:00",
-      "puntaje": 9.51,
+      "puntaje": 8.29,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
