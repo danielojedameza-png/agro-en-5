@@ -1,7 +1,7 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-16T01:56:14.159567+00:00",
-  "edicion": "2026-11-15",
+  "generado": "2026-11-16T09:30:57.044998+00:00",
+  "edicion": "2026-11-16",
   "noticias": [
     {
       "categoria": "Sanidad",
@@ -11,21 +11,7 @@
       "fuente": "Instituto Colombiano Agropecuario - ICA",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HZWNzNnRXeHZtMTZobzNfZVB0NXhpMkwzSzgwQ3MzNlgwdDVqcldPUktfQkF3NGZhYU9iMzBZY0dPTUJrTUtkTEhLYTEzWndXQ0pLR1hsQlhDbkx5Mkh6bHBGUWRTOVpzblFaLXR3?oc=5",
       "fecha": "2026-11-15T12:52:46+00:00",
-      "puntaje": 11.37,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Sanidad",
-      "titulo": "ICA confirma brote de influenza aviar en Remolino, Magdalena, y activa medidas para evitar su propagación",
-      "resumen": "ICA confirma brote de influenza aviar en Remolino, Magdalena, y activa medidas para evitar su propagación",
-      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
-      "fuente": "Diario La Libertad",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRTUyUzVkUEFXbmhDaHZqQTYtVS03NjUyV01nX3dpRU5IWXlraV9MUWlFa3ZUUi1QSnlydDFGTm5hNkY3a0NORnZzT3VQQ0RZV0JrbEcxRUxkOUNpYThlMmdrbXV2QWUzWGZjbEZHZkh2Mm4ybmotY2lMaVQtbTIxVzJlZGRKZHNNRlFJeHhrUnlHWFdTcTZlVDFqbGJaUDJ1QkdSa1k3RDgxRk9HSjdVVDRHZU1ISk0yUmd3bEc0a0tDMGhrUEpnZ0VtaEtGMnRlTWVoYmV3NUhoTFBG?oc=5",
-      "fecha": "2026-11-14T19:41:40+00:00",
-      "puntaje": 7.6,
+      "puntaje": 9.27,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,7 +25,7 @@
       "fuente": "Canal 1 En vivo",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcGdscTZaUUdVY1NKMU9QWmZmay15ZWRxUERLUmNhR3I5dU5OMUFnN0I5bFo0UjFRMW1tTjFQZTdSc3ZjMWtRVFhxZVZnR21oUVNxZ2JrNV9sMWJFM1ZVTl9DSE5pX0cwb3JURDVrejFvUWlBNDBmT2R1TzFxOFNaZTg4RlpocVlqbmFOTjgzNmtyMEZaenJzMUY3Q0xDRjl4NWlwdjRCSzlWbjJBSWxmV9IBsAFBVV95cUxNcGdscTZaUUdVY1NKMU9QWmZmay15ZWRxUERLUmNhR3I5dU5OMUFnN0I5bFo0UjFRMW1tTjFQZTdSc3ZjMWtRVFhxZVZnR21oUVNxZ2JrNV9sMWJFM1ZVTl9DSE5pX0cwb3JURDVrejFvUWlBNDBmT2R1TzFxOFNaZTg4RlpocVlqbmFOTjgzNmtyMEZaenJzMUY3Q0xDRjl4NWlwdjRCSzlWbjJBSWxmVw?oc=5",
       "fecha": "2026-11-15T15:59:30+00:00",
-      "puntaje": 7.24,
+      "puntaje": 5.13,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -53,7 +39,7 @@
       "fuente": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXFqazh1YWxiS0NrM3FfbV95LUdSV3JrR0h1cTY1TWRiR3V3eVFOSXM2WU9hTkhKZDBQazZCZnlfYm16eDZDSVlmT21ERE96UU9iQWhUMUVlTU96TkRma2RkeW5hY0FUWUNTRU5DZXVwbFpBY05HYmxhZ05pbnJBQ25ObVhpX2tMdW1seVhGMFhRdjRPVklXX0ZYME9BUGs2anhIdlZCSGZGUzRNNXhNcGotSzVVYjBTeC1yNFV30gHYAUFVX3lxTE11UEJ6eWh6V19XOHpaaVR6RHVxYXBTa3paaHl0eG45WFBDV0RmZ0FMVDROMjZrSE5KV0NIMGFubldLVkpET2lqZ3Ewd1h2bTFDdExySTZjYy1fQUJqRkhtV3daMmU3NklKdnNPRFRFVjVPTTRtZFRjeXotUkJSX0NpckdCclVtcG12YkE3TGp4UzZINU5mX3A5WUNtd0NuVFVCRTI0c1Y4OE5XWTJiYUNXaS1uYUtIOTF1VjAybUpDbEU1S3V5NVlOVFhmZ0FBME1KV1FMVXloQg?oc=5",
       "fecha": "2026-11-15T14:53:00+00:00",
-      "puntaje": 6.93,
+      "puntaje": 4.82,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -67,7 +53,7 @@
       "fuente": "Las2orillas",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWkhpM3JUVEU5aUUtdktFOG9wTlJ6VzBJd2daaUVKTFY2azRiYXFVYWdoVWZjb2RFQnI2akpGNnJfX3hYdklSWUdDXzVmSVFFRXZSZ20wclRTY2Y1Y0NXdnktN1p0cFRzTFRRY3YzcGFibjFwR2x0X0p0cTZJNjdVMlB2cHZMRHo0WGpXb2VOWmZZQnFjVkNyZXFza3FZWElvNDB3WFhiVnlwcWlTeG1QQzB5RGlPTzQ5bkloX2F3SkxTS0NRNWRrRl9YYUdSdXZ4QWc?oc=5",
       "fecha": "2026-11-15T14:17:44+00:00",
-      "puntaje": 6.77,
+      "puntaje": 4.66,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
