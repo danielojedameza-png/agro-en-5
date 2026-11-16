@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-16T09:30:57.044998+00:00",
+  "generado": "2026-11-16T20:22:05.450387+00:00",
   "edicion": "2026-11-16",
   "noticias": [
+    {
+      "categoria": "Agro general",
+      "titulo": "Ganadería regenerativa se consolida en el Patía Cauca",
+      "resumen": "Ganadería regenerativa se consolida en el Patía Cauca",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Diario del Sur",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1NTbUN5bEVlYlAtbGR6LXZab080WFZKZm5PRkZlRklvX3pPd3hRLTFGQlllN21lNVJrN05sRFN3WDlDWmlMNWRiU0N5MTZLQ2FuaUVQN3VXWHZlVHA4Q3pLYms4Wk81YTZLSk1IWGNaSGdmSXczTW8tQmtwdGdYS3dTclpUSEJod29PdEJST2ZweUo1Um5XS1RuTDNlRWI4V0JFeDY1ZFBtZ1lEdWoydWFvc1hvZw?oc=5",
+      "fecha": "2026-11-16T12:33:53+00:00",
+      "puntaje": 7.83,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Sanidad",
       "titulo": "En los primeros 100 días, ordenar la casa para trabajar y construir el ICA Milagro - Instituto Colombiano Agropecuario",
@@ -11,21 +25,7 @@
       "fuente": "Instituto Colombiano Agropecuario - ICA",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HZWNzNnRXeHZtMTZobzNfZVB0NXhpMkwzSzgwQ3MzNlgwdDVqcldPUktfQkF3NGZhYU9iMzBZY0dPTUJrTUtkTEhLYTEzWndXQ0pLR1hsQlhDbkx5Mkh6bHBGUWRTOVpzblFaLXR3?oc=5",
       "fecha": "2026-11-15T12:52:46+00:00",
-      "puntaje": 9.27,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Federación de Cafeteros manejará el Fondo Nacional del Café por 10 años más",
-      "resumen": "Federación de Cafeteros manejará el Fondo Nacional del Café por 10 años más",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Canal 1 En vivo",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcGdscTZaUUdVY1NKMU9QWmZmay15ZWRxUERLUmNhR3I5dU5OMUFnN0I5bFo0UjFRMW1tTjFQZTdSc3ZjMWtRVFhxZVZnR21oUVNxZ2JrNV9sMWJFM1ZVTl9DSE5pX0cwb3JURDVrejFvUWlBNDBmT2R1TzFxOFNaZTg4RlpocVlqbmFOTjgzNmtyMEZaenJzMUY3Q0xDRjl4NWlwdjRCSzlWbjJBSWxmV9IBsAFBVV95cUxNcGdscTZaUUdVY1NKMU9QWmZmay15ZWRxUERLUmNhR3I5dU5OMUFnN0I5bFo0UjFRMW1tTjFQZTdSc3ZjMWtRVFhxZVZnR21oUVNxZ2JrNV9sMWJFM1ZVTl9DSE5pX0cwb3JURDVrejFvUWlBNDBmT2R1TzFxOFNaZTg4RlpocVlqbmFOTjgzNmtyMEZaenJzMUY3Q0xDRjl4NWlwdjRCSzlWbjJBSWxmVw?oc=5",
-      "fecha": "2026-11-15T15:59:30+00:00",
-      "puntaje": 5.13,
+      "puntaje": 6.25,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,21 +39,7 @@
       "fuente": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXFqazh1YWxiS0NrM3FfbV95LUdSV3JrR0h1cTY1TWRiR3V3eVFOSXM2WU9hTkhKZDBQazZCZnlfYm16eDZDSVlmT21ERE96UU9iQWhUMUVlTU96TkRma2RkeW5hY0FUWUNTRU5DZXVwbFpBY05HYmxhZ05pbnJBQ25ObVhpX2tMdW1seVhGMFhRdjRPVklXX0ZYME9BUGs2anhIdlZCSGZGUzRNNXhNcGotSzVVYjBTeC1yNFV30gHYAUFVX3lxTE11UEJ6eWh6V19XOHpaaVR6RHVxYXBTa3paaHl0eG45WFBDV0RmZ0FMVDROMjZrSE5KV0NIMGFubldLVkpET2lqZ3Ewd1h2bTFDdExySTZjYy1fQUJqRkhtV3daMmU3NklKdnNPRFRFVjVPTTRtZFRjeXotUkJSX0NpckdCclVtcG12YkE3TGp4UzZINU5mX3A5WUNtd0NuVFVCRTI0c1Y4OE5XWTJiYUNXaS1uYUtIOTF1VjAybUpDbEU1S3V5NVlOVFhmZ0FBME1KV1FMVXloQg?oc=5",
       "fecha": "2026-11-15T14:53:00+00:00",
-      "puntaje": 4.82,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "La gigante FritoLay manda en el mercado de los pasabocas con productos cultivados por campesinos colombianos",
-      "resumen": "La gigante FritoLay manda en el mercado de los pasabocas con productos cultivados por campesinos colombianos",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Las2orillas",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWkhpM3JUVEU5aUUtdktFOG9wTlJ6VzBJd2daaUVKTFY2azRiYXFVYWdoVWZjb2RFQnI2akpGNnJfX3hYdklSWUdDXzVmSVFFRXZSZ20wclRTY2Y1Y0NXdnktN1p0cFRzTFRRY3YzcGFibjFwR2x0X0p0cTZJNjdVMlB2cHZMRHo0WGpXb2VOWmZZQnFjVkNyZXFza3FZWElvNDB3WFhiVnlwcWlTeG1QQzB5RGlPTzQ5bkloX2F3SkxTS0NRNWRrRl9YYUdSdXZ4QWc?oc=5",
-      "fecha": "2026-11-15T14:17:44+00:00",
-      "puntaje": 4.66,
+      "puntaje": 1.81,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
