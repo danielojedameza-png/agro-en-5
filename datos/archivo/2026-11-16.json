@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-16T20:22:05.450387+00:00",
+  "generado": "2026-11-16T20:33:55.781788+00:00",
   "edicion": "2026-11-16",
   "noticias": [
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Plátano hartón: alzas en Villavicencio y Tunja",
+      "resumen": "Plátano hartón: alzas en Villavicencio y Tunja",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Diario del Sur",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclNHWG91SGZtcXFhcnowWnVVajFtSkFVMjhXYVNLbkJ2aGN1QlVtN1RkZnAtVzJ6TEtrZ0hhNHg3UzBSeFpUY2pSUlR1TXExSDRMT2UwOU5NaE1CSUlKNkpsSUJ3Y2l0MVh4M2V5bFMwZDVVRGNCUzJBZkZ6c05naEdfcWw5czdTRG41TDBqTFRTMTBoZmFOVkVYTWpCVkFVZ0E?oc=5",
+      "fecha": "2026-11-16T13:52:24+00:00",
+      "puntaje": 8.14,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Agro general",
       "titulo": "Ganadería regenerativa se consolida en el Patía Cauca",
@@ -11,7 +25,21 @@
       "fuente": "Diario del Sur",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1NTbUN5bEVlYlAtbGR6LXZab080WFZKZm5PRkZlRklvX3pPd3hRLTFGQlllN21lNVJrN05sRFN3WDlDWmlMNWRiU0N5MTZLQ2FuaUVQN3VXWHZlVHA4Q3pLYms4Wk81YTZLSk1IWGNaSGdmSXczTW8tQmtwdGdYS3dTclpUSEJod29PdEJST2ZweUo1Um5XS1RuTDNlRWI4V0JFeDY1ZFBtZ1lEdWoydWFvc1hvZw?oc=5",
       "fecha": "2026-11-16T12:33:53+00:00",
-      "puntaje": 7.83,
+      "puntaje": 7.78,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Política y normas",
+      "titulo": "ANT impulsa proyectos productivos y titulación rural en 100 días",
+      "resumen": "ANT impulsa proyectos productivos y titulación rural en 100 días",
+      "por_que": "Puede cambiar requisitos, apoyos o reglas que aplican a tu actividad.",
+      "fuente": "Estrella Digital Colombia",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGVveldhUzZEMW9haWZjVWwySXF2dUFFRUlUdm9kWHBPVXZGLUNIbmpIVmJYb3FIaU1qZFZhOXd1bVdlRFhMYVJnZnpGcTdzc3dCQ0Z0U1FLLTcta2hwOTdjS012eFVjNEhPOHA3dWd4WFF2RnhqdUJyeGNadHNOeHdaZTg?oc=5",
+      "fecha": "2026-11-16T10:00:49+00:00",
+      "puntaje": 7.07,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,7 +53,7 @@
       "fuente": "Instituto Colombiano Agropecuario - ICA",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HZWNzNnRXeHZtMTZobzNfZVB0NXhpMkwzSzgwQ3MzNlgwdDVqcldPUktfQkF3NGZhYU9iMzBZY0dPTUJrTUtkTEhLYTEzWndXQ0pLR1hsQlhDbkx5Mkh6bHBGUWRTOVpzblFaLXR3?oc=5",
       "fecha": "2026-11-15T12:52:46+00:00",
-      "puntaje": 6.25,
+      "puntaje": 6.2,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,7 +67,7 @@
       "fuente": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXFqazh1YWxiS0NrM3FfbV95LUdSV3JrR0h1cTY1TWRiR3V3eVFOSXM2WU9hTkhKZDBQazZCZnlfYm16eDZDSVlmT21ERE96UU9iQWhUMUVlTU96TkRma2RkeW5hY0FUWUNTRU5DZXVwbFpBY05HYmxhZ05pbnJBQ25ObVhpX2tMdW1seVhGMFhRdjRPVklXX0ZYME9BUGs2anhIdlZCSGZGUzRNNXhNcGotSzVVYjBTeC1yNFV30gHYAUFVX3lxTE11UEJ6eWh6V19XOHpaaVR6RHVxYXBTa3paaHl0eG45WFBDV0RmZ0FMVDROMjZrSE5KV0NIMGFubldLVkpET2lqZ3Ewd1h2bTFDdExySTZjYy1fQUJqRkhtV3daMmU3NklKdnNPRFRFVjVPTTRtZFRjeXotUkJSX0NpckdCclVtcG12YkE3TGp4UzZINU5mX3A5WUNtd0NuVFVCRTI0c1Y4OE5XWTJiYUNXaS1uYUtIOTF1VjAybUpDbEU1S3V5NVlOVFhmZ0FBME1KV1FMVXloQg?oc=5",
       "fecha": "2026-11-15T14:53:00+00:00",
-      "puntaje": 1.81,
+      "puntaje": 1.75,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
