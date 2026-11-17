@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-17T19:14:09.757527+00:00",
+  "generado": "2026-11-17T22:14:11.576066+00:00",
   "edicion": "2026-11-17",
   "noticias": [
     {
@@ -11,9 +11,51 @@
       "fuente": "Instituto Colombiano Agropecuario - ICA",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aMUw0UkRqMkR6NU5BaGRGZGUtczhqM0ZxVXduSWhQelY3dVJseGVsTlZneFlwc1g0LXVTTFgzR0d2Nk04Ykl1TEthcDVOZG1mMDdPSndOOHpHaks1UnNPVDgwV3pnckxiQnJHLUZhcG9WLUVyUzdvR3A1UHVvVkk?oc=5",
       "fecha": "2026-11-17T13:56:32+00:00",
-      "puntaje": 16.53,
+      "puntaje": 15.7,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "Así variaron los precios de insumos agropecuarios durante octubre 2026 según el DANE",
+      "resumen": "Así variaron los precios de insumos agropecuarios durante octubre 2026 según el DANE",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "El Espectador",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFFMTzZGbEJnMkN6Y0ozUWRqeGVVT3VsUGx3dW1Xenh0MHRYaXN1aTduc3htd3pHU0otSnptUDRCTk9Rb1pqTV9DeS1nVEZVSWx4Z053WkFsOTZfRU1VcWRERGo2RjRVTG1SdXBFOHNER1NDeWtKaHB6QUJlaUZPVW5xaWJVUHkySzhLWUtIQjAweEFValBUSzh3ZWdOYV9DdVg5bWZmZnB5YkhfSGZrSGZUYWx2cXpBS0RTS0hrakFzVHpBSzJTcDZqbnVENGJBWFZZ0gHnAUFVX3lxTFBMWENhTExiOUZMV3JSbHdjdndSSkNqY0o3WEQ3ZXRwaHhra0dpRHZnVHRodF9QZVlrMUVxdWVLeTBxYlgxX3NmZ0dlWlNsY1hCMjVsbC1Qa1I1T0gxTVdKb1NqMmcwWjM2N0RSQndmTHVTQWI0WjNxY1ZGYW1MbVlMOE9qcThGZVo2cEltSDVNUVBTSWtfLURLLTlUVHYwbXhrYXU0X1hFS0tuWVpDX21pdXB3enhvU1h3LTBTTWVncENPcmNIT0drMlRMUHVJaXlLbVd5OFoxZGZ3RVAzZ0dhc0tQd2dScw?oc=5",
+      "fecha": "2026-11-17T21:23:31+00:00",
+      "puntaje": 14.77,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "El Niño amenaza al campo: ICA lanza advertencia",
+      "resumen": "El Niño amenaza al campo: ICA lanza advertencia",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Opanoticias",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTJ6Zmd4Y0lJaXJ1YUpWUHphaWhKYWwxVlBUZ3N2MC1FZTE2ZHFSQ0Fuc0tiZ0ZmaUFMWEg2V1dJMmJVZGgzOERLLVJ3YTgzRkdkMUY1MGRQSjhVaGJkUENCblVCTi1GTzd6V1Z1RlR3TDlDOUJ1QlhZX0FRcDhQMlo4WQ?oc=5",
+      "fecha": "2026-11-17T20:18:52+00:00",
+      "puntaje": 14.47,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "IDEAM emite advertencias por oleaje, arroyos y deslizamientos en Bolívar",
+      "resumen": "IDEAM emite advertencias por oleaje, arroyos y deslizamientos en Bolívar",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Alerta",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXJYYl95cmZGd1hvZzZMTHNuN0o5MFl2czVwck1vbm1Ob09sOWhwS3E1YWtoUk9MblVDT1BYelFqamEwQzZqTHhWN3dTTTNPMFVTRVh0a24zQjNGZlhMaEdid0VNLVFZZUtCZVdNanFJd19RS245RnhVS0lqOGpWdFRmUWtmc1FUcUZEcUZMcFlCV2JKejhfT1VPLUg1VkpZLWtrcW9zb0RmVXBpRlFIX1hLemF6VE3SAbcBQVVfeXFMUC1LSlFWQ1pkY0w3SjN4aEozZnZRaGdoT3N5elNKRXdmdWlnUEdvV1lyWWhJSlN5dUM2NWVRM2RSblBfX1ptTXVRYXN0QlRDUFdXSGhndjBaSXlqRVRtTExTX2pFUm1HX1JBSHYwMl9XWTd5cGFqaE9LclVRbU5Tcm9waDBiaWhVbXNwWEdpVWl2d2tScFpSN1hlZDBnMmZjYkRhdVhHZ2t6SGotZmdmM3Ewc0REOWxj?oc=5",
+      "fecha": "2026-11-17T21:40:30+00:00",
+      "puntaje": 13.84,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -25,51 +67,9 @@
       "fuente": "HSB Noticias",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYl9jZ3hrbzhDVFBNVnY3MWJySFBlNWM3a3JYQjhUREpINi1xZklPdlJIbThOMnZrVmRzY2lkLXhvaTBDMEJNNE9sb0wxYnJPOE1mX0dTbjJUS2JEbUl1SjFYZzV4RHRoN29kUWppNGF0eXNIYV9VcllvWXFab2ZZSnVMalp2X3VtdjEzaC1ZZFdQV0gyeVVMb1AtOTNaMzB2MVZXeURMTHAyaUVYVDNWbnlrMXR3Y1FJdUtn?oc=5",
       "fecha": "2026-11-17T17:32:06+00:00",
-      "puntaje": 14.53,
+      "puntaje": 13.69,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Ideam alerta por posibles heladas en 50 municipios de Boyacá",
-      "resumen": "Ideam alerta por posibles heladas en 50 municipios de Boyacá",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Boyaca Radio",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45amZXUElabm15VkhteW5CU3R5Zm5aa2xRcmpPcUdWVHQtZ2oyREo3UUJjZ2hVOHU2UDUwZXlEMVU0Sl9qTTdpOWRMV3ZkMW9HSk5mcEp4WVF2blY4?oc=5",
-      "fecha": "2026-11-17T13:50:11+00:00",
-      "puntaje": 11.5,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Ganaderos del municipio de Recetor (Casanare) buscan comercializar sus bovinos sin intermediarios",
-      "resumen": "Ganaderos del municipio de Recetor (Casanare) buscan comercializar sus bovinos sin intermediarios",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "CONtexto Ganadero",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnk2UkN2LUJHdVphbG5oc3JsbnJ5NmkwTThQVF94X2R2Vllnc3FGcll5WGZxS1lPTTM5SC1HZUtHOGhxSUxwOF80Y21tZGoyRVBCaGQxeXJtR3Y3bzVMMkxRNURycFFHOEZYVHBzdTVxdFdwN01CWVFJMjJnR0tTbTRsOXFtY2lJRVpxa2pmNU5lZS1EQ2JRQ2RhbnpNNnVPTFpEek81WEN3aDVmMG1VM0xkRTU3bEtDNFhvVXNSdV8xNm5WSENnZQ?oc=5",
-      "fecha": "2026-11-17T10:50:21+00:00",
-      "puntaje": 9.67,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Sanidad",
-      "titulo": "El ICA y Fedepapa exploran en Italia nuevas tecnologías para potenciar el cultivo de papa",
-      "resumen": "El ICA y Fedepapa exploran en Italia nuevas tecnologías para potenciar el cultivo de papa",
-      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
-      "fuente": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaEJwZThpZlVXaUFRbDVING9GaTZPUVBTV3Jxazh6aUlLTXQyZzNjQm5CcUljR1BGYWRnUm13V2ZYQmY5cTBacDJmcUhCQkI5NmhnYWNyTXg3Y0dEVm42UDlnRVBYTXFJcVRXNFJkZFhfbTM2OHZBWWdTa0VQc1JRaXc2MDRybVM4aWZiX1VKVGVxSUotb1cycHg4eHNnd2RWTGN2SThHbjRDaW1PeEZpdTgzdEpiU1FSaGVYTVMxcEFMNDJld3RNMUxXbEx2NTlPU0lSa2tGSndDNmIyV3BiendR0gHjAUFVX3lxTFB3VnFjRlFVZTJNSzBWeDdVWWRoODVKOElhb2x4UU9kSFpsbWV0dWEwMGdFdURqTkxSRk5UdU1lNkJ6OXZMOG5Wd2Zvc29Bdk8zWnVxcnNBR3pBMXJ3N2ZKazNvdm5TZVNyVW1iWVZmWHlRQ1hwWGpFUE1VdXVWNHhhNzByS1BxY2kwWGpqS3dNbHhFajItekRkREFKZ1NlblptbjIwRjFTUnZJM1l2RVdzX1Exc2VFYVpqRDRkREYwbzU0ektyLXpGdk84bkt0QWVURXJMRVF6YjRUc3ZON1poNEMw?oc=5",
-      "fecha": "2026-11-16T23:54:12+00:00",
-      "puntaje": 9.63,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     }
