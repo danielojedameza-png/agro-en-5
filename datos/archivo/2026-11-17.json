@@ -1,0 +1,77 @@
+{
+  "servicio": "Agro en 5 · AGRODASIN",
+  "generado": "2026-11-17T13:12:23.714652+00:00",
+  "edicion": "2026-11-17",
+  "noticias": [
+    {
+      "categoria": "Clima",
+      "titulo": "Ideam alerta por lluvias y tormentas eléctricas en varias re",
+      "resumen": "Ideam alerta por lluvias y tormentas eléctricas en varias re",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Diario del Cauca",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaUgtWV8yWnU2dHM0dlJ2WUZCRGM4c2gxZm5lNktFZzNPRHVaMURiX3BkcngxbW9rSlJfdGxwUXJkWGNycFh0MUo4ZlUzUjJRTGxWeEdkc09PZ3Z3NlV5OTgyeDVvUXZPbjlHSm1KV01QMUkwNWlPRFRJVlVkRDVhRWFfc1IybmlaVDRNb1NrcXVFYUUzQW1PX3RxTmIxQlZYVXFmSVo5MFZZZWRxcHdDajVzdUFsb28?oc=5",
+      "fecha": "2026-11-17T12:34:50+00:00",
+      "puntaje": 14.83,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Ganaderos del municipio de Recetor (Casanare) buscan comercializar sus bovinos sin intermediarios",
+      "resumen": "Ganaderos del municipio de Recetor (Casanare) buscan comercializar sus bovinos sin intermediarios",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "CONtexto Ganadero",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVnk2UkN2LUJHdVphbG5oc3JsbnJ5NmkwTThQVF94X2R2Vllnc3FGcll5WGZxS1lPTTM5SC1HZUtHOGhxSUxwOF80Y21tZGoyRVBCaGQxeXJtR3Y3bzVMMkxRNURycFFHOEZYVHBzdTVxdFdwN01CWVFJMjJnR0tTbTRsOXFtY2lJRVpxa2pmNU5lZS1EQ2JRQ2RhbnpNNnVPTFpEek81WEN3aDVmMG1VM0xkRTU3bEtDNFhvVXNSdV8xNm5WSENnZQ?oc=5",
+      "fecha": "2026-11-17T10:50:21+00:00",
+      "puntaje": 11.34,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Sanidad",
+      "titulo": "El ICA y Fedepapa exploran en Italia nuevas tecnologías para potenciar el cultivo de papa",
+      "resumen": "El ICA y Fedepapa exploran en Italia nuevas tecnologías para potenciar el cultivo de papa",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaEJwZThpZlVXaUFRbDVING9GaTZPUVBTV3Jxazh6aUlLTXQyZzNjQm5CcUljR1BGYWRnUm13V2ZYQmY5cTBacDJmcUhCQkI5NmhnYWNyTXg3Y0dEVm42UDlnRVBYTXFJcVRXNFJkZFhfbTM2OHZBWWdTa0VQc1JRaXc2MDRybVM4aWZiX1VKVGVxSUotb1cycHg4eHNnd2RWTGN2SThHbjRDaW1PeEZpdTgzdEpiU1FSaGVYTVMxcEFMNDJld3RNMUxXbEx2NTlPU0lSa2tGSndDNmIyV3BiendR0gHjAUFVX3lxTFB3VnFjRlFVZTJNSzBWeDdVWWRoODVKOElhb2x4UU9kSFpsbWV0dWEwMGdFdURqTkxSRk5UdU1lNkJ6OXZMOG5Wd2Zvc29Bdk8zWnVxcnNBR3pBMXJ3N2ZKazNvdm5TZVNyVW1iWVZmWHlRQ1hwWGpFUE1VdXVWNHhhNzByS1BxY2kwWGpqS3dNbHhFajItekRkREFKZ1NlblptbjIwRjFTUnZJM1l2RVdzX1Exc2VFYVpqRDRkREYwbzU0ektyLXpGdk84bkt0QWVURXJMRVF6YjRUc3ZON1poNEMw?oc=5",
+      "fecha": "2026-11-16T23:54:12+00:00",
+      "puntaje": 11.3,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "FNC y Gobierno firman los fondos del café antes del vencimiento",
+      "resumen": "FNC y Gobierno firman los fondos del café antes del vencimiento",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "ABC Economía",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90T25ZdVpiYVJiT3dPNE1OM0ZKNXhBcVBEUXNtc3AwaktIRURrWFhMcHpCdnZNdFp3LURPVkgyaU01RlRwRnVPa0VoMnBMWU1SRW1GLXVqblF4TXU1MGw4bC1MWFRfb3FsNlBld1Y1eEZmWEU?oc=5",
+      "fecha": "2026-11-17T05:14:10+00:00",
+      "puntaje": 7.79,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "El PND 2026-2030 y el «Campo Milagro»: ¿Nariño cabe en el milagro?",
+      "resumen": "El PND 2026-2030 y el «Campo Milagro»: ¿Nariño cabe en el milagro?",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "Página10",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUpIcDlTdGI0dHpsZXVjWGFReEdnLWVFQlhLV2hGNjZVZ0JJdUZjcEoyY0JJNVBkbkJqbVRON2ZWdFBqMzdvTmFWUUhPaURXVlNqMGY4Tk4teV9YSnp5TDVJMkRqVE1ma0NmVDNIdS1uc3g1ZmJvS0pIN0ltQTk2ZWJHT1gtMlJHQVo1WTUzb1g?oc=5",
+      "fecha": "2026-11-17T03:19:39+00:00",
+      "puntaje": 7.26,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    }
+  ]
+}
