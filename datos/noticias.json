@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-18T13:51:44.204559+00:00",
+  "generado": "2026-11-18T18:53:34.846480+00:00",
   "edicion": "2026-11-18",
   "noticias": [
     {
@@ -11,7 +11,7 @@
       "fuente": "AgroLatam",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONzBhTkh2ZVFBbzVoQmRGcnpQT05MdTBzLWVmSlNTQzBKUnRyY00wVmZVREN0aVQ4RjZpdDV0OVJhdENRMWhYNTJ6LTVIclZjY2dVYXdPUlJjV3N4eEZDWDM1MVZQa20xSVBFby04M1B5UWU2WDh6dXAwTTVNNFZXTzEwZWRBc01yYlQ3a1ZJT2ZzalVnM2V6eTVzZ0wtVnVfeWhHeWhQczhCZlF6S2x0ZlBRVktBeWNpb2JPd1hXbEV0dWZWWThwbQ?oc=5",
       "fecha": "2026-11-18T13:19:29+00:00",
-      "puntaje": 15.85,
+      "puntaje": 14.45,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,9 +25,23 @@
       "fuente": "Agronegocios",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUp5d0J3T1ppaGhtR3ZMTFhjaUJxdVNDQ2pqbXg5RW1lQmp2eS1yZ2JzLXRGdWFMdXl4aW9LS2lDaDNnRTV4MGZrbTRObTVMaHlXejNhNkhtUXVLb0w2RC10MGR6RV9vVUpzd183ZXBaRzJNbjBzc0hEdndZTzczdUE3dDVEWjAwb0pCdEU5M1VVRjA0T0p4ZE9OWTVsdXFfeU12S3FCc2huRklTR1hWOTl6Mk5CWFRlME9lclM5el9DSVBhUXdrOFRLd9IBywFBVV95cUxPYkRXczdJcmNCOFQwRHlDWGtoWk9iV0lVTjNmbzFneEVGLVh0QTQ5NWtfYzZIcy1lczFiN3RvMDN3cnNzS18weXh6MElEQzlCcmpFMFlEcUZZNV9qX05EQ282SDJiT0Rtcy1iSW1LWEpzb3NZMVlTcEU3UXRKOGd6a1lRMS1MeFBMQmZCeWRJQm45ZThWdFQ0YUJsZWJsMXFad3F4NHRCRG44R3o1NVVjWi1sbzN2dlVMdHVITjRVOF81cy13VEE2WkNBTQ?oc=5",
       "fecha": "2026-11-17T21:30:41+00:00",
-      "puntaje": 12.46,
+      "puntaje": 11.06,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "Colombia busca US$500 millones con el BID para impulsar un megaproyecto de palma de aceite y transformar el agro",
+      "resumen": "Colombia busca US$500 millones con el BID para impulsar un megaproyecto de palma de aceite y transformar el agro",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Portafolio.co",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQlF3M2c2UU5DbFBsbWxZTjdUV3R6NkNPeUxyWjlOaTkxc18zcHpBNHA4TlhFODIzYnpVZXZBWVVqS2VBOEtTeUR3aVVfMUQzWEpiYzBTeTd4cTM4bWRCdExiSUQ2eGh3eHVyLTFmZEN6Z3JKMEllZXNUNzJueGRCdV9MVWs5Z1NDbTJJdjdQOHZCNHRxSmMxdDQzWHBhem9zQzdSRUVwYXJsX21tVWNjRlo0M0VxaFVTaXBCdmZyOURRNDlHdkpONWc2SGo3NUhzdzhzWWZyTDJXcURqM2NMSGFRUHExV2FzTUNSME9rN0nSAfYBQVVfeXFMUFgzYm1LdFNNalg1Qm5ENVo2eEx4aVFBSDJOUmkyT0VxWnJvTmxpS0ZfZ2FRZjJxVEphTXh6NkVNSkhtbTNvdHF5WWFJM2pPWXhEZnUtMUdRXzRNS012MHl5Y2YwdndraVlYYkhCRFBvZmFKN1JwYXFlYUs4UkJ5X3Ric2Y3SjRJUm1iNmw3Z2pOa2czOUotUTQ5bzJocXhKTm5VLTNQeXh5T2ZaRlQ0QjhuQTRHS25vQ3FWQzgxNWhCOHg3c001OFNuRDRRQ0Z2TUlDUmw1bV9oaE5RLUZXOXdxUGU2N05mNlotQVdUdXhWSjFIajh3?oc=5",
+      "fecha": "2026-11-18T14:54:58+00:00",
+      "puntaje": 10.9,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -39,7 +53,7 @@
       "fuente": "A La Luz Pública",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnM3UmRleFBZT2JyaGM0Y3JHTjJZOEc5R052TmdlcUNvNHljZHhzVjFVbjdNZ3dsdEJveXhOM3ZIOWlxajE5c3VENlc1Z0V0aDUtdzE1dlY2eS1TYll4SHJORFlXR3hCSGMyVEw3d2EtY1dkZmx6ZVlTWi03cmpiZUFubk5qYTFCdGRSWXo3TXlqX0VGMVN2cG9HSUtEcFZKZUxNa2RPbUlRRnVhSEZWYV9GdUNLWXA5TlB6NzU1VUotdlFJT2dzWGtoMG9xOHpsYmRXM1FTWFc?oc=5",
       "fecha": "2026-11-18T10:53:19+00:00",
-      "puntaje": 12.17,
+      "puntaje": 10.78,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -53,21 +67,7 @@
       "fuente": "CONtexto Ganadero",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaWlBS2FNd0d2cmdoT1FJM25PcGxud1lXMzV2UFlBQnJSM3pRU1pPQUhHX1ExWVRqajVic2MxMWFTU1lDNkhEYVVHaWxhd2dMbFhBeG1vZWVaSkpSejh5blVYck03SmY4SnRHU1Q1SktDUE13aHh3NTRxYll0T0VaQ045WkpCMVFXTk56a0pSa3J1Rmp2NmQzMWs5cjVBdWFOaVg4dFRlMFcwNGNYY0ZSV1hZUldINFhSYzhFZXBOMkNPV1l2SzNMZG5nNWhJRm53TXZWeHNSNjFxVWNfX3BKQjV3WW5rcU5KbVJYelBUWng0QmIySGtzaWUzVQ?oc=5",
       "fecha": "2026-11-17T23:57:07+00:00",
-      "puntaje": 12.14,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Pesca y acuicultura",
-      "titulo": "Chocó busca fortalecer la pesca artesanal con alianza institucional",
-      "resumen": "Chocó busca fortalecer la pesca artesanal con alianza institucional",
-      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
-      "fuente": "Prensa Mercosur",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkpHZjFOVEd4d3BSR2NENXRCQy1LZlJ3NFpZNTZySFlZZnl4QXdVQW5Od0FRQXdRVWE3SVktVm9DSEIzMmVlb3NDdXhBQUZPVXM1NGRoUmg5eVhZLXo5TDlnYlFFbmVlV3lOcW5QSmRqdHIzMnJiR185R29zX01yR2lvQWcwb3ltSTJBMXV4ZWR5OU1vaWtRa3JtQWhTdDJiUldhRTVLc2ZGQQ?oc=5",
-      "fecha": "2026-11-18T11:29:37+00:00",
-      "puntaje": 11.34,
+      "puntaje": 10.74,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
