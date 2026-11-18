@@ -1,8 +1,50 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-17T22:14:11.576066+00:00",
+  "generado": "2026-11-18T04:12:27.291813+00:00",
   "edicion": "2026-11-17",
   "noticias": [
+    {
+      "categoria": "Sanidad",
+      "titulo": "ICA entrega recomendaciones para proteger cultivos y animales ante el fenómeno de El Niño",
+      "resumen": "ICA entrega recomendaciones para proteger cultivos y animales ante el fenómeno de El Niño",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdjVIRkh1Vzd3WlZidFdtMzV0V0dvZTJUU2MyZDVwNWhkb1g2UDZkNTZXUVJVOU04VEpiLUU2OFgxNHY5c1NRRzk3OWFnejN5eWx4YVB3Y2FLNzZ1ZGVpdWxRS1dNcXFkd0dKSVVsSDQ5OE5fZTc5bDVJeTJUWDJGMlRsWnZuTzRjOGVJWmd5YkExOTdXemZFTmlGNTBBVlp6bU9tRHZwZDktZFRkSkpuVE1qVS1TZkhUd3ZqbFNoTWxDbXZFMkNUa3Jn0gHLAUFVX3lxTE9iRFdzN0lyY0I4VDBEeUNYa2haT2JXSVVOM2ZvMWd4RUYtWHRBNDk1a19jNkhzLWVzMWI3dG8wM3dyc3NLXzB5eHowSURDOUJyakUwWURxRlk1X2pfTkRDbzZIMmJPRG1zLWJJbUtYSnNvc1kxWVNwRTdRdEo4Z3prWVExLUx4UExCZkJ5ZElCbjllOFZ0VDRhQmxlYmwxcVp3cXg0dEJEbjhHejU1VWNaLWxvM3Z2VUx0dUhONFU4XzVzLXdUQTZaQ0FN?oc=5",
+      "fecha": "2026-11-17T21:30:41+00:00",
+      "puntaje": 16.14,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "“Ese estatus es nuestro”: ganaderos del sur de Bolívar también abrigan a Fedegán y defienden la sanidad que tanto costó",
+      "resumen": "“Ese estatus es nuestro”: ganaderos del sur de Bolívar también abrigan a Fedegán y defienden la sanidad que tanto costó",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "CONtexto Ganadero",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaWlBS2FNd0d2cmdoT1FJM25PcGxud1lXMzV2UFlBQnJSM3pRU1pPQUhHX1ExWVRqajVic2MxMWFTU1lDNkhEYVVHaWxhd2dMbFhBeG1vZWVaSkpSejh5blVYck03SmY4SnRHU1Q1SktDUE13aHh3NTRxYll0T0VaQ045WkpCMVFXTk56a0pSa3J1Rmp2NmQzMWs5cjVBdWFOaVg4dFRlMFcwNGNYY0ZSV1hZUldINFhSYzhFZXBOMkNPV1l2SzNMZG5nNWhJRm53TXZWeHNSNjFxVWNfX3BKQjV3WW5rcU5KbVJYelBUWng0QmIySGtzaWUzVQ?oc=5",
+      "fecha": "2026-11-17T23:57:07+00:00",
+      "puntaje": 14.82,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Fedagro saca la cara por Fedegán: Desde el Magdalena Medio llega un espaldarazo a la autonomía ganadera",
+      "resumen": "Fedagro saca la cara por Fedegán: Desde el Magdalena Medio llega un espaldarazo a la autonomía ganadera",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "CONtexto Ganadero",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcWJPcXM3RC0yZUNWRTdDWWpfaUxIRlJIbTJqUVlQZE0wZGRTNTd6VjllVWIxdmQ4QmlPUmVva1hncXlDbC02c042XzZoUG5XaUZkWG9wSVduMGhvTHU1QUdEdFdBMWVEaXk0U1VVdzlpZThkQXo0Z2NzcllWT3FoYWoxcFozNFJ3NEZ3bzRfbWszS0RGNmZVZTBfbEc1aU50aEJtd1EwMGxESVdWVDJqbVVxcWxHd1VzN3h6b3dhamFiRXVFTkVPbzZTVzZKWl9RSFUyeFJtbERlNDF2X29adnFCcjUxSmRW?oc=5",
+      "fecha": "2026-11-17T23:57:03+00:00",
+      "puntaje": 14.82,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Sanidad",
       "titulo": "ICA invita a los productores agropecuarios a fortalecer las medidas de prevención frente al fenómeno de El Niño - Instituto Colombiano Agropecuario",
@@ -11,7 +53,7 @@
       "fuente": "Instituto Colombiano Agropecuario - ICA",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aMUw0UkRqMkR6NU5BaGRGZGUtczhqM0ZxVXduSWhQelY3dVJseGVsTlZneFlwc1g0LXVTTFgzR0d2Nk04Ykl1TEthcDVOZG1mMDdPSndOOHpHaks1UnNPVDgwV3pnckxiQnJHLUZhcG9WLUVyUzdvR3A1UHVvVkk?oc=5",
       "fecha": "2026-11-17T13:56:32+00:00",
-      "puntaje": 15.7,
+      "puntaje": 14.04,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -23,53 +65,11 @@
       "resumen": "Así variaron los precios de insumos agropecuarios durante octubre 2026 según el DANE",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
       "fuente": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTFFMTzZGbEJnMkN6Y0ozUWRqeGVVT3VsUGx3dW1Xenh0MHRYaXN1aTduc3htd3pHU0otSnptUDRCTk9Rb1pqTV9DeS1nVEZVSWx4Z053WkFsOTZfRU1VcWRERGo2RjRVTG1SdXBFOHNER1NDeWtKaHB6QUJlaUZPVW5xaWJVUHkySzhLWUtIQjAweEFValBUSzh3ZWdOYV9DdVg5bWZmZnB5YkhfSGZrSGZUYWx2cXpBS0RTS0hrakFzVHpBSzJTcDZqbnVENGJBWFZZ0gHnAUFVX3lxTFBMWENhTExiOUZMV3JSbHdjdndSSkNqY0o3WEQ3ZXRwaHhra0dpRHZnVHRodF9QZVlrMUVxdWVLeTBxYlgxX3NmZ0dlWlNsY1hCMjVsbC1Qa1I1T0gxTVdKb1NqMmcwWjM2N0RSQndmTHVTQWI0WjNxY1ZGYW1MbVlMOE9qcThGZVo2cEltSDVNUVBTSWtfLURLLTlUVHYwbXhrYXU0X1hFS0tuWVpDX21pdXB3enhvU1h3LTBTTWVncENPcmNIT0drMlRMUHVJaXlLbVd5OFoxZGZ3RVAzZ0dhc0tQd2dScw?oc=5",
-      "fecha": "2026-11-17T21:23:31+00:00",
-      "puntaje": 14.77,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTFhDYUxMYjlGTFdyUmx3Y3Z3UkpDamNKN1hEN2V0cGh4a2tHaUR2Z1R0aHRfUGVZazFFcXVlS3kwcWJYMV9zZmdHZVpTbGNYQjI1bGwtUGtSNU9IMU1XSm9TajJnMFozNjdEUkJ3Zkx1U0FiNFozcWNWRmFtTG1ZTDhPanE4RmVaNnBJbUg1TVFQU0lrXy1ESy05VFR2MG14a2F1NF9YRUtLbllaQ19taXVwd3p4b1NYdy0wU01lZ3BDT3JjSE9HazJUTFB1SWl5S21XeThaMWRmd0VQM2dHYXNLUHdnUnPSAecBQVVfeXFMUExYQ2FMTGI5RkxXclJsd2N2d1JKQ2pjSjdYRDdldHBoeGtrR2lEdmdUdGh0X1BlWWsxRXF1ZUt5MHFiWDFfc2ZnR2VaU2xjWEIyNWxsLVBrUjVPSDFNV0pvU2oyZzBaMzY3RFJCd2ZMdVNBYjRaM3FjVkZhbUxtWUw4T2pxOEZlWjZwSW1INU1RUFNJa18tREstOVRUdjBteGthdTRfWEVLS25ZWkNfbWl1cHd6eG9TWHctMFNNZWdwQ09yY0hPR2syVExQdUlpeUttV3k4WjFkZndFUDNnR2FzS1B3Z1Jz?oc=5",
+      "fecha": "2026-11-17T21:19:20+00:00",
+      "puntaje": 13.09,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "El Niño amenaza al campo: ICA lanza advertencia",
-      "resumen": "El Niño amenaza al campo: ICA lanza advertencia",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Opanoticias",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMTJ6Zmd4Y0lJaXJ1YUpWUHphaWhKYWwxVlBUZ3N2MC1FZTE2ZHFSQ0Fuc0tiZ0ZmaUFMWEg2V1dJMmJVZGgzOERLLVJ3YTgzRkdkMUY1MGRQSjhVaGJkUENCblVCTi1GTzd6V1Z1RlR3TDlDOUJ1QlhZX0FRcDhQMlo4WQ?oc=5",
-      "fecha": "2026-11-17T20:18:52+00:00",
-      "puntaje": 14.47,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "IDEAM emite advertencias por oleaje, arroyos y deslizamientos en Bolívar",
-      "resumen": "IDEAM emite advertencias por oleaje, arroyos y deslizamientos en Bolívar",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "Alerta",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcXJYYl95cmZGd1hvZzZMTHNuN0o5MFl2czVwck1vbm1Ob09sOWhwS3E1YWtoUk9MblVDT1BYelFqamEwQzZqTHhWN3dTTTNPMFVTRVh0a24zQjNGZlhMaEdid0VNLVFZZUtCZVdNanFJd19RS245RnhVS0lqOGpWdFRmUWtmc1FUcUZEcUZMcFlCV2JKejhfT1VPLUg1VkpZLWtrcW9zb0RmVXBpRlFIX1hLemF6VE3SAbcBQVVfeXFMUC1LSlFWQ1pkY0w3SjN4aEozZnZRaGdoT3N5elNKRXdmdWlnUEdvV1lyWWhJSlN5dUM2NWVRM2RSblBfX1ptTXVRYXN0QlRDUFdXSGhndjBaSXlqRVRtTExTX2pFUm1HX1JBSHYwMl9XWTd5cGFqaE9LclVRbU5Tcm9waDBiaWhVbXNwWEdpVWl2d2tScFpSN1hlZDBnMmZjYkRhdVhHZ2t6SGotZmdmM3Ewc0REOWxj?oc=5",
-      "fecha": "2026-11-17T21:40:30+00:00",
-      "puntaje": 13.84,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "A sacar el paraguas: Ideam alerta por lluvias y tormentas eléctricas en varias regiones",
-      "resumen": "A sacar el paraguas: Ideam alerta por lluvias y tormentas eléctricas en varias regiones",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "HSB Noticias",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYl9jZ3hrbzhDVFBNVnY3MWJySFBlNWM3a3JYQjhUREpINi1xZklPdlJIbThOMnZrVmRzY2lkLXhvaTBDMEJNNE9sb0wxYnJPOE1mX0dTbjJUS2JEbUl1SjFYZzV4RHRoN29kUWppNGF0eXNIYV9VcllvWXFab2ZZSnVMalp2X3VtdjEzaC1ZZFdQV0gyeVVMb1AtOTNaMzB2MVZXeURMTHAyaUVYVDNWbnlrMXR3Y1FJdUtn?oc=5",
-      "fecha": "2026-11-17T17:32:06+00:00",
-      "puntaje": 13.69,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     }
