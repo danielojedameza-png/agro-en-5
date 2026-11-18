@@ -1,19 +1,47 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-18T04:12:27.291813+00:00",
-  "edicion": "2026-11-17",
+  "generado": "2026-11-18T13:51:44.204559+00:00",
+  "edicion": "2026-11-18",
   "noticias": [
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "El Niño amenaza al campo colombiano: alertan por riesgos para cultivos y ganado",
+      "resumen": "El Niño amenaza al campo colombiano: alertan por riesgos para cultivos y ganado",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "AgroLatam",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONzBhTkh2ZVFBbzVoQmRGcnpQT05MdTBzLWVmSlNTQzBKUnRyY00wVmZVREN0aVQ4RjZpdDV0OVJhdENRMWhYNTJ6LTVIclZjY2dVYXdPUlJjV3N4eEZDWDM1MVZQa20xSVBFby04M1B5UWU2WDh6dXAwTTVNNFZXTzEwZWRBc01yYlQ3a1ZJT2ZzalVnM2V6eTVzZ0wtVnVfeWhHeWhQczhCZlF6S2x0ZlBRVktBeWNpb2JPd1hXbEV0dWZWWThwbQ?oc=5",
+      "fecha": "2026-11-18T13:19:29+00:00",
+      "puntaje": 15.85,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Sanidad",
       "titulo": "ICA entrega recomendaciones para proteger cultivos y animales ante el fenómeno de El Niño",
       "resumen": "ICA entrega recomendaciones para proteger cultivos y animales ante el fenómeno de El Niño",
       "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
-      "fuente": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdjVIRkh1Vzd3WlZidFdtMzV0V0dvZTJUU2MyZDVwNWhkb1g2UDZkNTZXUVJVOU04VEpiLUU2OFgxNHY5c1NRRzk3OWFnejN5eWx4YVB3Y2FLNzZ1ZGVpdWxRS1dNcXFkd0dKSVVsSDQ5OE5fZTc5bDVJeTJUWDJGMlRsWnZuTzRjOGVJWmd5YkExOTdXemZFTmlGNTBBVlp6bU9tRHZwZDktZFRkSkpuVE1qVS1TZkhUd3ZqbFNoTWxDbXZFMkNUa3Jn0gHLAUFVX3lxTE9iRFdzN0lyY0I4VDBEeUNYa2haT2JXSVVOM2ZvMWd4RUYtWHRBNDk1a19jNkhzLWVzMWI3dG8wM3dyc3NLXzB5eHowSURDOUJyakUwWURxRlk1X2pfTkRDbzZIMmJPRG1zLWJJbUtYSnNvc1kxWVNwRTdRdEo4Z3prWVExLUx4UExCZkJ5ZElCbjllOFZ0VDRhQmxlYmwxcVp3cXg0dEJEbjhHejU1VWNaLWxvM3Z2VUx0dUhONFU4XzVzLXdUQTZaQ0FN?oc=5",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUUp5d0J3T1ppaGhtR3ZMTFhjaUJxdVNDQ2pqbXg5RW1lQmp2eS1yZ2JzLXRGdWFMdXl4aW9LS2lDaDNnRTV4MGZrbTRObTVMaHlXejNhNkhtUXVLb0w2RC10MGR6RV9vVUpzd183ZXBaRzJNbjBzc0hEdndZTzczdUE3dDVEWjAwb0pCdEU5M1VVRjA0T0p4ZE9OWTVsdXFfeU12S3FCc2huRklTR1hWOTl6Mk5CWFRlME9lclM5el9DSVBhUXdrOFRLd9IBywFBVV95cUxPYkRXczdJcmNCOFQwRHlDWGtoWk9iV0lVTjNmbzFneEVGLVh0QTQ5NWtfYzZIcy1lczFiN3RvMDN3cnNzS18weXh6MElEQzlCcmpFMFlEcUZZNV9qX05EQ282SDJiT0Rtcy1iSW1LWEpzb3NZMVlTcEU3UXRKOGd6a1lRMS1MeFBMQmZCeWRJQm45ZThWdFQ0YUJsZWJsMXFad3F4NHRCRG44R3o1NVVjWi1sbzN2dlVMdHVITjRVOF81cy13VEE2WkNBTQ?oc=5",
       "fecha": "2026-11-17T21:30:41+00:00",
-      "puntaje": 16.14,
+      "puntaje": 12.46,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Pesca y acuicultura",
+      "titulo": "Gobierno de Abelardo de la Espriella le cumple al Tolima: entregan silo a ganaderos afectados por los incendios",
+      "resumen": "Gobierno de Abelardo de la Espriella le cumple al Tolima: entregan silo a ganaderos afectados por los incendios",
+      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
+      "fuente": "A La Luz Pública",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMnM3UmRleFBZT2JyaGM0Y3JHTjJZOEc5R052TmdlcUNvNHljZHhzVjFVbjdNZ3dsdEJveXhOM3ZIOWlxajE5c3VENlc1Z0V0aDUtdzE1dlY2eS1TYll4SHJORFlXR3hCSGMyVEw3d2EtY1dkZmx6ZVlTWi03cmpiZUFubk5qYTFCdGRSWXo3TXlqX0VGMVN2cG9HSUtEcFZKZUxNa2RPbUlRRnVhSEZWYV9GdUNLWXA5TlB6NzU1VUotdlFJT2dzWGtoMG9xOHpsYmRXM1FTWFc?oc=5",
+      "fecha": "2026-11-18T10:53:19+00:00",
+      "puntaje": 12.17,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -25,49 +53,21 @@
       "fuente": "CONtexto Ganadero",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaWlBS2FNd0d2cmdoT1FJM25PcGxud1lXMzV2UFlBQnJSM3pRU1pPQUhHX1ExWVRqajVic2MxMWFTU1lDNkhEYVVHaWxhd2dMbFhBeG1vZWVaSkpSejh5blVYck03SmY4SnRHU1Q1SktDUE13aHh3NTRxYll0T0VaQ045WkpCMVFXTk56a0pSa3J1Rmp2NmQzMWs5cjVBdWFOaVg4dFRlMFcwNGNYY0ZSV1hZUldINFhSYzhFZXBOMkNPV1l2SzNMZG5nNWhJRm53TXZWeHNSNjFxVWNfX3BKQjV3WW5rcU5KbVJYelBUWng0QmIySGtzaWUzVQ?oc=5",
       "fecha": "2026-11-17T23:57:07+00:00",
-      "puntaje": 14.82,
+      "puntaje": 12.14,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
-      "categoria": "Mercados y precios",
-      "titulo": "Fedagro saca la cara por Fedegán: Desde el Magdalena Medio llega un espaldarazo a la autonomía ganadera",
-      "resumen": "Fedagro saca la cara por Fedegán: Desde el Magdalena Medio llega un espaldarazo a la autonomía ganadera",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "CONtexto Ganadero",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcWJPcXM3RC0yZUNWRTdDWWpfaUxIRlJIbTJqUVlQZE0wZGRTNTd6VjllVWIxdmQ4QmlPUmVva1hncXlDbC02c042XzZoUG5XaUZkWG9wSVduMGhvTHU1QUdEdFdBMWVEaXk0U1VVdzlpZThkQXo0Z2NzcllWT3FoYWoxcFozNFJ3NEZ3bzRfbWszS0RGNmZVZTBfbEc1aU50aEJtd1EwMGxESVdWVDJqbVVxcWxHd1VzN3h6b3dhamFiRXVFTkVPbzZTVzZKWl9RSFUyeFJtbERlNDF2X29adnFCcjUxSmRW?oc=5",
-      "fecha": "2026-11-17T23:57:03+00:00",
-      "puntaje": 14.82,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Sanidad",
-      "titulo": "ICA invita a los productores agropecuarios a fortalecer las medidas de prevención frente al fenómeno de El Niño - Instituto Colombiano Agropecuario",
-      "resumen": "ICA invita a los productores agropecuarios a fortalecer las medidas de prevención frente al fenómeno de El Niño - Instituto Colombiano Agropecuario",
-      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
-      "fuente": "Instituto Colombiano Agropecuario - ICA",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aMUw0UkRqMkR6NU5BaGRGZGUtczhqM0ZxVXduSWhQelY3dVJseGVsTlZneFlwc1g0LXVTTFgzR0d2Nk04Ykl1TEthcDVOZG1mMDdPSndOOHpHaks1UnNPVDgwV3pnckxiQnJHLUZhcG9WLUVyUzdvR3A1UHVvVkk?oc=5",
-      "fecha": "2026-11-17T13:56:32+00:00",
-      "puntaje": 14.04,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Así variaron los precios de insumos agropecuarios durante octubre 2026 según el DANE",
-      "resumen": "Así variaron los precios de insumos agropecuarios durante octubre 2026 según el DANE",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "El Espectador",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTFhDYUxMYjlGTFdyUmx3Y3Z3UkpDamNKN1hEN2V0cGh4a2tHaUR2Z1R0aHRfUGVZazFFcXVlS3kwcWJYMV9zZmdHZVpTbGNYQjI1bGwtUGtSNU9IMU1XSm9TajJnMFozNjdEUkJ3Zkx1U0FiNFozcWNWRmFtTG1ZTDhPanE4RmVaNnBJbUg1TVFQU0lrXy1ESy05VFR2MG14a2F1NF9YRUtLbllaQ19taXVwd3p4b1NYdy0wU01lZ3BDT3JjSE9HazJUTFB1SWl5S21XeThaMWRmd0VQM2dHYXNLUHdnUnPSAecBQVVfeXFMUExYQ2FMTGI5RkxXclJsd2N2d1JKQ2pjSjdYRDdldHBoeGtrR2lEdmdUdGh0X1BlWWsxRXF1ZUt5MHFiWDFfc2ZnR2VaU2xjWEIyNWxsLVBrUjVPSDFNV0pvU2oyZzBaMzY3RFJCd2ZMdVNBYjRaM3FjVkZhbUxtWUw4T2pxOEZlWjZwSW1INU1RUFNJa18tREstOVRUdjBteGthdTRfWEVLS25ZWkNfbWl1cHd6eG9TWHctMFNNZWdwQ09yY0hPR2syVExQdUlpeUttV3k4WjFkZndFUDNnR2FzS1B3Z1Jz?oc=5",
-      "fecha": "2026-11-17T21:19:20+00:00",
-      "puntaje": 13.09,
+      "categoria": "Pesca y acuicultura",
+      "titulo": "Chocó busca fortalecer la pesca artesanal con alianza institucional",
+      "resumen": "Chocó busca fortalecer la pesca artesanal con alianza institucional",
+      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
+      "fuente": "Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRkpHZjFOVEd4d3BSR2NENXRCQy1LZlJ3NFpZNTZySFlZZnl4QXdVQW5Od0FRQXdRVWE3SVktVm9DSEIzMmVlb3NDdXhBQUZPVXM1NGRoUmg5eVhZLXo5TDlnYlFFbmVlV3lOcW5QSmRqdHIzMnJiR185R29zX01yR2lvQWcwb3ltSTJBMXV4ZWR5OU1vaWtRa3JtQWhTdDJiUldhRTVLc2ZGQQ?oc=5",
+      "fecha": "2026-11-18T11:29:37+00:00",
+      "puntaje": 11.34,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
