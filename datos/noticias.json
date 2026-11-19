@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-19T12:54:01.666998+00:00",
+  "generado": "2026-11-19T19:02:45.961328+00:00",
   "edicion": "2026-11-19",
   "noticias": [
+    {
+      "categoria": "Sanidad",
+      "titulo": "Emergencia fitosanitaria en Boyacá: ICA confirma presencia de la 'punta morada' y alerta sobre pérdidas totales en cultivos de papa, tomate y uchuva",
+      "resumen": "Emergencia fitosanitaria en Boyacá: ICA confirma presencia de la 'punta morada' y alerta sobre pérdidas totales en cultivos de papa, tomate y uchuva",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "Matinal Noticias Boyacá",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1VqOGRtamQtX2FGQ1BnTzN6OWJkVmdXZng1RThQNkFOSnRfVWNBUkZfcUxYVXZlTWFMZEVERFk2QldkNU4taE1GZ2FYOUppRGx3eWR6VTZKYTVsSFpuNmQ1TXQ5MEs2WE5pSzc3ekFhMkJvdGV0QXpoQU5sdms4bVVqRFdGM19vM25pMlRpZzBfcmVmX1p3S296SzZTcHk1SGl2Q0gzMXNxczVjeUtlWVR6bzE?oc=5",
+      "fecha": "2026-11-19T16:14:11+00:00",
+      "puntaje": 14.22,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Pesca y acuicultura",
       "titulo": "Gobernación del Magdalena articula esfuerzos para fortalecer la pesca artesanal en el departamento",
@@ -11,7 +25,35 @@
       "fuente": "Gobernación del Magdalena",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZldMS1JrRTZzMzVkX1BDLWIxSDZwdUNPNm9SQTJTUGh3dWxjOXRPUEtJWXFKdEhPYkdkajFNTEhFNGR2ZWRZY3oyLXBOd2NPcW96RC1yX3F3eDRJekRzbHBVdHZCX3FUdW96NGxJUGdvTzJKNDN5ZFJ4QVd6UU94aVJqQ2lWQmxPaUNKZDF0aGJuNEFfYjFBTExTWWZsUG9rcHBSZXc3aU0tUWI2RmQ5WnZ5Wlh1WVZtbFFBWG9VX3N1aGRsc2FST3JKV3F1THR3LU4zRmZITnNRUQ?oc=5",
       "fecha": "2026-11-19T12:31:38+00:00",
-      "puntaje": 15.9,
+      "puntaje": 14.19,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "Incendios en Tolima: ANT anuncia $12.000 millones para campesinos afectados y entrega dos tractores",
+      "resumen": "Incendios en Tolima: ANT anuncia $12.000 millones para campesinos afectados y entrega dos tractores",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "El Tiempo",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUXZZZGZuVXd0UFRkOUhIZmg5TEJ5LU1kZU5CNTA3WEVWS3J4bm90QWRIamtJb19rZ1FNUFRuV2JsTTFGbGk3ZThDZE9GcGZWUGRkNFhxc3VRVTVxNWdETHlKbXMyeHRlTUc2eFdkVDVNQks4bVhLd0tnc0tBckx6ekJJb1EyTEdlV0hCMklOMjdCMzJjVFFza1NsdTg5Qlp3bzd4ZjZfUUktY19KWU1jV192VkkzZ05fSHV3Z2x4d3hTNFBDbEFWOWpOVUtpSkRWbjNCSG4zbFRxUEZ0LXZ1VjJSb2RaT2hFLUxKUDhxeERESktM0gH6AUFVX3lxTE9UbkpOUWpSRXF2NW5DLS13c1RvUlNmVjh4ZExpYU5hQVhwRXQtU3pTQVR0amRtMnJqM3g5dVFVa2c0NHdJUXZaZGhuejhDMk02SjlGYjdjV0NFSmN5dDk5aktheXpSa2xlbXRXODFvSllzdzNkNFc5NEE2Z2VlUHJDV1RDc3lCOGRmZThWUE5yNE9lNHh0Wno0Z045NEdIVnd4dmR0MzcwanV4UTFmOTA5ZDBLYjY3bHlTSF8tcVNGbkN6MmtFLXVDczcyNUV4aThCQ1BsZVB2Q3NESnllNWpudVRPUE40enJSMHRnLWFFM0ZUcm93LXZYUHc?oc=5",
+      "fecha": "2026-11-19T16:28:32+00:00",
+      "puntaje": 10.29,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Café Colombia Hoy 19/11: Abre al Alza Pese a la Presión",
+      "resumen": "Café Colombia Hoy 19/11: Abre al Alza Pese a la Presión",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Daily Forex",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTndvN1ZPbFppdXM0eHhvRjRiS1pEaTVQenZNYndmN1Q3bW5NVnYwNV9Ub0NxMm53Nmh5T2ZseXpvQ2ctaG9yb01KRTNsWFNrNHZESnRPTTQ4NU5kbC04R0JWcUdJYmh3bG5lMlYteWFIcVNJNGsyUENvTEdwZ1UtVjdlYW5TS0lhUDl3M2ttOHN5VzdaV01oNnY2dVZvS1JTVXpLOTdLZ0kwRVIwaFFhQ2tR?oc=5",
+      "fecha": "2026-11-19T15:56:44+00:00",
+      "puntaje": 9.14,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,51 +67,9 @@
       "fuente": "Infobae",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaFlSWkJHVFQwZkZKT1VwTWM5QlZ5T0lQV1lwLUsyY3dGaDhwYlQxRGFUUjRtbnQ2dU5TS08yYUhORUhhdUZaNjU3UmhCR3hZS3RHZ3VfUk13MVRDV29HdHRWTmNvMTJraXV6cy1pN3BmcjBFaXVPdmlqdGJKZEI0bU1KVFg2SUo3TUZxaGR2M3huY01XVEQ4b0p2b1l3Ym9NTDlRbUlEVlZmbTNuSDN2OEMxUDF2VlIzd3VxVEVTMWNmM2VQa045bV8xUnMteWl0YVo3cUJwbWpJLXFqUlVxV0N4LWp1WXRUVVRVZTJB0gGIAkFVX3lxTE5SOExLbzZ6ZlljN1JBdE5tNU9LYTZaWlNOb01CS0N2NGlXUVJhZlZMZmczZkJzblA5NEF2VjRtUWIyTnVqRmpiMEd4c29wc0RYdXZkQjhQcjJOWUVSVTJDdGk3Q3RjakFMSEh6NFV6UFhlRENhVmRncWVXa0JPNnZfVWV2alRHek1kTzZyT1RFczM3TWlfRVZISTRlamZPd2JlcFZmZXBESU9QdE1ERGdvTHdPaERnSE1wSy1yaEhSRGc1TVpsbzdBTTdVbG5PUklLY0M0WDlHUnJOcDRWOEVDYVAwYXpIT1JZSjdxMTBXOTRaeDhER2V2MzRCNHBOM1hhNUJpUEJmXw?oc=5",
       "fecha": "2026-11-19T08:20:00+00:00",
-      "puntaje": 10.73,
+      "puntaje": 9.02,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "PIB agropecuario en Colombia cayó 6,7 % en el tercer trimestre",
-      "resumen": "PIB agropecuario en Colombia cayó 6,7 % en el tercer trimestre",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "CONtexto ganadero",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1M0Z2dzRHVaYkhxdUFSUG92SWhPUmhXcTV5QUYwNTZ2aEdONXUxRjJGMGFmcGZYUzl3RXl0ZFJ4cVBKZ2FpWTFxeFpGcWQtREdhMHRuQ3lBNFI3Vm1fOVpYeGpxQ1Z5SFlWLXdBYUpBT0pPT1J4a295RWpZZkpaWnBmVXRkdHM2aVdOTEpxeXBuZXZoZjFONWplSWpDMmMtNVJhaVZn?oc=5",
-      "fecha": "2026-11-19T07:00:00+00:00",
-      "puntaje": 10.36,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Pesca y acuicultura",
-      "titulo": "Cinco municipios del Chocó unen esfuerzos por la pesca artesanal - Noticias De Buenaventura, Colombia Y El Mundo",
-      "resumen": "Cinco municipios del Chocó unen esfuerzos por la pesca artesanal - Noticias De Buenaventura, Colombia Y El Mundo",
-      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
-      "fuente": "Noticias De Buenaventura, Colombia Y El Mundo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEQ1eVkweTltd2JIeUJ2NVRaT0xfSHhKSXNTY1RfWGlIeExUR3JENlJ1TWxqUTZHM0JESUg3VkF3ZGlvRHlPUnNwR3kxdkZpQTlOZzQzWi1Sa2V6T0hmdXJNQWZCYUtRblA1M21KQ2IxckszMWM1T2dkYkRZVjJaVGxmX3NsTmQ0dlY4M0ItdF9DbVptWVVIMjNVdHFsQQ?oc=5",
-      "fecha": "2026-11-19T05:36:05+00:00",
-      "puntaje": 9.97,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "El Niño amenaza al campo colombiano: alertan por riesgos para cultivos y ganado",
-      "resumen": "El Niño amenaza al campo colombiano: alertan por riesgos para cultivos y ganado",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONzBhTkh2ZVFBbzVoQmRGcnpQT05MdTBzLWVmSlNTQzBKUnRyY00wVmZVREN0aVQ4RjZpdDV0OVJhdENRMWhYNTJ6LTVIclZjY2dVYXdPUlJjV3N4eEZDWDM1MVZQa20xSVBFby04M1B5UWU2WDh6dXAwTTVNNFZXTzEwZWRBc01yYlQ3a1ZJT2ZzalVnM2V6eTVzZ0wtVnVfeWhHeWhQczhCZlF6S2x0ZlBRVktBeWNpb2JPd1hXbEV0dWZWWThwbQ?oc=5",
-      "fecha": "2026-11-18T13:19:29+00:00",
-      "puntaje": 9.45,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     }
