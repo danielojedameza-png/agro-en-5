@@ -1,8 +1,64 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-19T03:16:12.994621+00:00",
-  "edicion": "2026-11-18",
+  "generado": "2026-11-19T12:54:01.666998+00:00",
+  "edicion": "2026-11-19",
   "noticias": [
+    {
+      "categoria": "Pesca y acuicultura",
+      "titulo": "Gobernación del Magdalena articula esfuerzos para fortalecer la pesca artesanal en el departamento",
+      "resumen": "Gobernación del Magdalena articula esfuerzos para fortalecer la pesca artesanal en el departamento",
+      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
+      "fuente": "Gobernación del Magdalena",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZldMS1JrRTZzMzVkX1BDLWIxSDZwdUNPNm9SQTJTUGh3dWxjOXRPUEtJWXFKdEhPYkdkajFNTEhFNGR2ZWRZY3oyLXBOd2NPcW96RC1yX3F3eDRJekRzbHBVdHZCX3FUdW96NGxJUGdvTzJKNDN5ZFJ4QVd6UU94aVJqQ2lWQmxPaUNKZDF0aGJuNEFfYjFBTExTWWZsUG9rcHBSZXc3aU0tUWI2RmQ5WnZ5Wlh1WVZtbFFBWG9VX3N1aGRsc2FST3JKV3F1THR3LU4zRmZITnNRUQ?oc=5",
+      "fecha": "2026-11-19T12:31:38+00:00",
+      "puntaje": 15.9,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Qué productos de la canasta familiar e insumos agropecuarios no tendrán IVA en Colombia: Gobierno reveló la lista",
+      "resumen": "Qué productos de la canasta familiar e insumos agropecuarios no tendrán IVA en Colombia: Gobierno reveló la lista",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaFlSWkJHVFQwZkZKT1VwTWM5QlZ5T0lQV1lwLUsyY3dGaDhwYlQxRGFUUjRtbnQ2dU5TS08yYUhORUhhdUZaNjU3UmhCR3hZS3RHZ3VfUk13MVRDV29HdHRWTmNvMTJraXV6cy1pN3BmcjBFaXVPdmlqdGJKZEI0bU1KVFg2SUo3TUZxaGR2M3huY01XVEQ4b0p2b1l3Ym9NTDlRbUlEVlZmbTNuSDN2OEMxUDF2VlIzd3VxVEVTMWNmM2VQa045bV8xUnMteWl0YVo3cUJwbWpJLXFqUlVxV0N4LWp1WXRUVVRVZTJB0gGIAkFVX3lxTE5SOExLbzZ6ZlljN1JBdE5tNU9LYTZaWlNOb01CS0N2NGlXUVJhZlZMZmczZkJzblA5NEF2VjRtUWIyTnVqRmpiMEd4c29wc0RYdXZkQjhQcjJOWUVSVTJDdGk3Q3RjakFMSEh6NFV6UFhlRENhVmRncWVXa0JPNnZfVWV2alRHek1kTzZyT1RFczM3TWlfRVZISTRlamZPd2JlcFZmZXBESU9QdE1ERGdvTHdPaERnSE1wSy1yaEhSRGc1TVpsbzdBTTdVbG5PUklLY0M0WDlHUnJOcDRWOEVDYVAwYXpIT1JZSjdxMTBXOTRaeDhER2V2MzRCNHBOM1hhNUJpUEJmXw?oc=5",
+      "fecha": "2026-11-19T08:20:00+00:00",
+      "puntaje": 10.73,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "PIB agropecuario en Colombia cayó 6,7 % en el tercer trimestre",
+      "resumen": "PIB agropecuario en Colombia cayó 6,7 % en el tercer trimestre",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "CONtexto ganadero",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1M0Z2dzRHVaYkhxdUFSUG92SWhPUmhXcTV5QUYwNTZ2aEdONXUxRjJGMGFmcGZYUzl3RXl0ZFJ4cVBKZ2FpWTFxeFpGcWQtREdhMHRuQ3lBNFI3Vm1fOVpYeGpxQ1Z5SFlWLXdBYUpBT0pPT1J4a295RWpZZkpaWnBmVXRkdHM2aVdOTEpxeXBuZXZoZjFONWplSWpDMmMtNVJhaVZn?oc=5",
+      "fecha": "2026-11-19T07:00:00+00:00",
+      "puntaje": 10.36,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Pesca y acuicultura",
+      "titulo": "Cinco municipios del Chocó unen esfuerzos por la pesca artesanal - Noticias De Buenaventura, Colombia Y El Mundo",
+      "resumen": "Cinco municipios del Chocó unen esfuerzos por la pesca artesanal - Noticias De Buenaventura, Colombia Y El Mundo",
+      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
+      "fuente": "Noticias De Buenaventura, Colombia Y El Mundo",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEQ1eVkweTltd2JIeUJ2NVRaT0xfSHhKSXNTY1RfWGlIeExUR3JENlJ1TWxqUTZHM0JESUg3VkF3ZGlvRHlPUnNwR3kxdkZpQTlOZzQzWi1Sa2V6T0hmdXJNQWZCYUtRblA1M21KQ2IxckszMWM1T2dkYkRZVjJaVGxmX3NsTmQ0dlY4M0ItdF9DbVptWVVIMjNVdHFsQQ?oc=5",
+      "fecha": "2026-11-19T05:36:05+00:00",
+      "puntaje": 9.97,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Mercados y precios",
       "titulo": "El Niño amenaza al campo colombiano: alertan por riesgos para cultivos y ganado",
@@ -11,65 +67,9 @@
       "fuente": "AgroLatam",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONzBhTkh2ZVFBbzVoQmRGcnpQT05MdTBzLWVmSlNTQzBKUnRyY00wVmZVREN0aVQ4RjZpdDV0OVJhdENRMWhYNTJ6LTVIclZjY2dVYXdPUlJjV3N4eEZDWDM1MVZQa20xSVBFby04M1B5UWU2WDh6dXAwTTVNNFZXTzEwZWRBc01yYlQ3a1ZJT2ZzalVnM2V6eTVzZ0wtVnVfeWhHeWhQczhCZlF6S2x0ZlBRVktBeWNpb2JPd1hXbEV0dWZWWThwbQ?oc=5",
       "fecha": "2026-11-18T13:19:29+00:00",
-      "puntaje": 12.13,
+      "puntaje": 9.45,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Andi lanzó alerta por caída de la inversión en Colombia: industria y agro siguen rezagados tras desaceleración del PIB",
-      "resumen": "Andi lanzó alerta por caída de la inversión en Colombia: industria y agro siguen rezagados tras desaceleración del PIB",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMDVTU2Z4VngzdjQ5UGV4Tm1MTDQ0Tlk5akl4dDd6ODVDaTVVSTJLLVY1dTZXRlNYNFhYeHpEUVRsbnpXeDd5MTZhOGdMU3U2d3BBTDRNLTRseGZ0RmhOQUdKTzdFeHVUSFhub2hEVV92VkNwaEFJQmhnOVN3UWQxVXhfVzNxR2tSVkowTmxHclBkS2VleEJ3a200MDdQRTRIQWtSN2kxaUlxdGt0OW55T3B0UWRrV2lodko4NmQzS3JOLVJ4d0lxRmdEbE8xYmJiWFZ5RkVveTc4UnBfN21VQXhiNEhveHpRYVo4MUs2SVJVb2N60gGPAkFVX3lxTFA3TUxrNFEwTjgyWHlaaHU2ZVdyUDNEZDRNUjdaMktlX0ExQ3JTa0NKRXJqdXJiWjV1U1FoYzd4S3FZTFpLXzRpVzNKQWYtLTFHajRsQXJUZmY3MjBVZlpVZDlmRk5CZklvQ1J2SlYxTzJvaEVpME8zc2JLckJyTlloZjRXbF9OTWpQZ3FkOXRFdUZlOGFEVmk5cWxKUmo2bXZtejFkM1RkdnV3UEdtN2llbnRKY3BfZ0RMaXN3RHZzSkdzelRXdnZWLUhQQ0JCanl6bkk3eUN1Y2hkQ0F5QzBKWHBzYmZpYloxSjRPVVktS0lKMzk0VVBhSzc1TG01UmtudVJsbHdiU3gyNFJYTDg?oc=5",
-      "fecha": "2026-11-18T21:39:00+00:00",
-      "puntaje": 11.44,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Pesca y acuicultura",
-      "titulo": "Chocó busca fortalecer la pesca artesanal con alianza institucional",
-      "resumen": "Chocó busca fortalecer la pesca artesanal con alianza institucional",
-      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
-      "fuente": "Chocó 7 días",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdTFvZWxHWlFDMHNMYVRxaEFDUHUxdEtQSWthZ3JOcUpvTXlQNmJyRERMUHRKcjdxd0xLSXdYSlRNTDR1cW83RUlHeXdvbUs0d2tyRGNZajFEX2lpTTVGd095RnFSc1dTY1d4V210UVBKMFp4X3JIandseFlvY0JBTU9MaC1VMjVzLUxOOWFPd0F2MWFkdFE?oc=5",
-      "fecha": "2026-11-18T22:01:21+00:00",
-      "puntaje": 10.54,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Colombia frena el encarecimiento fiscal del campo: fertilizantes, maquinaria agrícola y alimentos quedan fuera de los nuevos gravámenes anunciados",
-      "resumen": "Colombia frena el encarecimiento fiscal del campo: fertilizantes, maquinaria agrícola y alimentos quedan fuera de los nuevos gravámenes anunciados",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "DDC",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbDBneUFrbXBQM3ZqbnI5YTZneU9oNmhHZlBQZ2RjTWtyR2NyV2I3a0g0bXMzUnVVQzljcVZhb3F2MXhuNlBCV2gxWDBtZnVMblBjZlRDS0ZvckY2dFA1RDloR3VjV29LREZTeVBWakxKSC1aZUFCN0x3WDZucXJQWU1WQkZNNzd1NU1CSUNTWFN6cnY3RGtQSGtfVEkyaF9WTDR5Mno3dExiS1lVTXZyZ0lUbU8ybGx4elVDUkpnQW9UY1E2WWpEaDJpME9iOWRKMlV5cGRkRjBqS2dUOGVXNnlLZS16STM1MWgyT0hQS0lhUmszdGhRYzZtOWVlcDRfSWFYQTl0Y09wZEdFMkVfZW5UQQ?oc=5",
-      "fecha": "2026-11-18T22:00:25+00:00",
-      "puntaje": 10.54,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "IVA al sector agropecuario en Colombia no subirá: MinAgricultura",
-      "resumen": "IVA al sector agropecuario en Colombia no subirá: MinAgricultura",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Diario Occidente",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR29xMGJDUF9xTWxRNlNjOWpKYTRGMjhuNEhoQWJwTTRQZEpVMWFuejY1cG9Ia2pyQ3NyZUJ3dllJLUlhZmJRaG9LcEFCZHZJalBldllNdHhOM3RaZGpnNGJ2R1BZc2hhUkEtanhyc2c4MHlRUTdJZTM1Tlc0bExXSzFKTzI4VU1saVV5cmw1aEFLS0duY01seUZodlJLLUxTZi1Wa0o4Y9IBpwFBVV95cUxQR29xMGJDUF9xTWxRNlNjOWpKYTRGMjhuNEhoQWJwTTRQZEpVMWFuejY1cG9Ia2pyQ3NyZUJ3dllJLUlhZmJRaG9LcEFCZHZJalBldllNdHhOM3RaZGpnNGJ2R1BZc2hhUkEtanhyc2c4MHlRUTdJZTM1Tlc0bExXSzFKTzI4VU1saVV5cmw1aEFLS0duY01seUZodlJLLUxTZi1Wa0o4Yw?oc=5",
-      "fecha": "2026-11-19T00:50:15+00:00",
-      "puntaje": 9.32,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     }
