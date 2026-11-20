@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-19T21:26:09.456978+00:00",
+  "generado": "2026-11-20T03:03:56.900226+00:00",
   "edicion": "2026-11-19",
   "noticias": [
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "FINAGRO y PNUD buscan transformar el crédito agropecuario de sostenibilidad",
+      "resumen": "FINAGRO y PNUD buscan transformar el crédito agropecuario de sostenibilidad",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNam1SX1NjRmVFSk9DMFhKMTVGUG9Zdl9qSnA2cmpNSk1fSklfU2VMY1d1RExtNzVTd3JZajFHOV9DdFdCcXBuLWtCT1F3Q1phNlh6TWZieXdlbFUxNVZNdURkMDNaamlFaXVIMGJtQThWTTRXNTVMc0dXQ2t6U1hIVC1meFJUS0trV2hHNWJmcGxBSXVwX21zYnVxUFNKeEJHN2x3RElYY3NrYTVPQmNhYWJPNzRuOTR1a25r0gG7AUFVX3lxTE1qbVJfU2NGZUVKT0MwWEoxNUZQb1l2X2pKcDZyak1KTV9KSV9TZUxjV3VETG03NVN3cllqMUc5X0N0V0JxcG4ta0JPUXdDWmE2WHpNZmJ5d2VsVTE1Vk11RGQwM1pqaUVpdUgwYm1BOFZNNFc1NUxzR1dDa3pTWEhULWZ4UlRLS2tXaEc1YmZwbEFJdXBfbXNidXFQU0p4Qkc3bHdESVhjc2thNU9CY2FhYk83NG45NHVrbms?oc=5",
+      "fecha": "2026-11-19T21:26:11+00:00",
+      "puntaje": 14.44,
+      "herramienta": {
+        "texto": "Haz el diagnóstico gratuito de tu proyecto",
+        "url": "https://www.agrodasin.org.co/diagnostico/"
+      }
+    },
     {
       "categoria": "Pesca y acuicultura",
       "titulo": "Magdalena busca fortalecer la pesca artesanal con nuevas herramientas de planificación",
@@ -11,7 +25,7 @@
       "fuente": "Seguimiento.co",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGFQbEVnNnBxV25aZ1RhYWhaYnRNTTlobVZMNzA4X01rSnpRNDVCaDlIVXRLZFJ3ZUptcFVzaVB3OU1VTDRONlVwa0VpbEpsLW12aWwyR0gwUXZpZld6M1dVUVNQU0h4RkQ4TEVPajl3R3hzMWZRc3c4andZUjZ0OFl4cjl0cDloZS1rN3lQNDhUakZXVWlHcHlnS0ZWd2s3OWhoUkRGYzRQWmFoR1NaWDl3OWllSnVZZVlRdWtabjZmbWRsYTVkM2tpZE9tamJhSXdhMjVkMGtPUQ?oc=5",
       "fecha": "2026-11-19T16:10:00+00:00",
-      "puntaje": 14.54,
+      "puntaje": 12.97,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -24,8 +38,8 @@
       "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
       "fuente": "Matinal Noticias Boyacá",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1VqOGRtamQtX2FGQ1BnTzN6OWJkVmdXZng1RThQNkFOSnRfVWNBUkZfcUxYVXZlTWFMZEVERFk2QldkNU4taE1GZ2FYOUppRGx3eWR6VTZKYTVsSFpuNmQ1TXQ5MEs2WE5pSzc3ekFhMkJvdGV0QXpoQU5sdms4bVVqRFdGM19vM25pMlRpZzBfcmVmX1p3S296SzZTcHk1SGl2Q0gzMXNxczVjeUtlWVR6bzE?oc=5",
-      "fecha": "2026-11-19T16:14:11+00:00",
-      "puntaje": 13.56,
+      "fecha": "2026-11-19T16:14:13+00:00",
+      "puntaje": 11.99,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,35 +53,21 @@
       "fuente": "Gobernación del Magdalena",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZldMS1JrRTZzMzVkX1BDLWIxSDZwdUNPNm9SQTJTUGh3dWxjOXRPUEtJWXFKdEhPYkdkajFNTEhFNGR2ZWRZY3oyLXBOd2NPcW96RC1yX3F3eDRJekRzbHBVdHZCX3FUdW96NGxJUGdvTzJKNDN5ZFJ4QVd6UU94aVJqQ2lWQmxPaUNKZDF0aGJuNEFfYjFBTExTWWZsUG9rcHBSZXc3aU0tUWI2RmQ5WnZ5Wlh1WVZtbFFBWG9VX3N1aGRsc2FST3JKV3F1THR3LU4zRmZITnNRUQ?oc=5",
       "fecha": "2026-11-19T12:31:38+00:00",
-      "puntaje": 13.53,
+      "puntaje": 11.96,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "ANT destinará $12.000 millones para campesinos afectados por los incendios en Tolima: así pueden acceder",
-      "resumen": "ANT destinará $12.000 millones para campesinos afectados por los incendios en Tolima: así pueden acceder",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "Portafolio.co",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQaUlwblBHeHhFNDRMZ21NR2x3MEtQQ0h6ekFpMFN2WDdETmxwOF9zTlBzUHR3Z0pkX1Z5XzZlRHBzeU1RRUNud1I3YmtuU0ZZUXZ3a1gtYXhwZURGeXh6Mkcxbkd6SnZIQTRablFwRlVYVnpiUFBBampNbWlIMzZLR0hGS01OaHhtR2toX1RlbldHZEtKMnZkRFdJNXNYdjdOWFFLY01yTGNHQ01rZTJiLXM2RUJJcF9JeG9qOHNZTnVtVV90cG5TeXpNVjVrZ3U2YlpuNUg0ZFBCekFaV0cxcDBOd2hWUm1XVTZKT0NB0gHuAUFVX3lxTFBpSXBuUEd4eEU0NExnbU1HbHcwS1BDSHp6QWkwU3ZYN0RObHA4X3NOUHNQdHdnSmRfVnlfNmVEcHN5TVFFQ253Ujdia25TRllRdndrWC1heHBlREZ5eHoyRzFuR3pKdkhBNFpuUXBGVVhWemJQUEFqak1taUgzNktHSEZLTU5oeG1Ha2hfVGVuV0dkS0oydmREV0k1c1h2N05YUUtjTXJMY0dDTWtlMmItczZFQklwX0l4b2o4c1lOdW1VX3RwblN5ek1WNWtndTZiWm41SDRkUEJ6QVpXRzFwME53aFZSbVdVNkpPQ0E?oc=5",
-      "fecha": "2026-11-19T19:27:19+00:00",
-      "puntaje": 11.45,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "Incendios en Tolima: ANT anuncia $12.000 millones para campesinos afectados y entrega dos tractores",
-      "resumen": "Incendios en Tolima: ANT anuncia $12.000 millones para campesinos afectados y entrega dos tractores",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "El Tiempo",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUXZZZGZuVXd0UFRkOUhIZmg5TEJ5LU1kZU5CNTA3WEVWS3J4bm90QWRIamtJb19rZ1FNUFRuV2JsTTFGbGk3ZThDZE9GcGZWUGRkNFhxc3VRVTVxNWdETHlKbXMyeHRlTUc2eFdkVDVNQks4bVhLd0tnc0tBckx6ekJJb1EyTEdlV0hCMklOMjdCMzJjVFFza1NsdTg5Qlp3bzd4ZjZfUUktY19KWU1jV192VkkzZ05fSHV3Z2x4d3hTNFBDbEFWOWpOVUtpSkRWbjNCSG4zbFRxUEZ0LXZ1VjJSb2RaT2hFLUxKUDhxeERESktM?oc=5",
-      "fecha": "2026-11-19T16:28:32+00:00",
-      "puntaje": 9.62,
+      "categoria": "Agro general",
+      "titulo": "Fertilizantes, maquinaria y alimentos: Colombia descarta aumentarles el IVA",
+      "resumen": "Fertilizantes, maquinaria y alimentos: Colombia descarta aumentarles el IVA",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "AgroLatam",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcElYQndTdHZXMUxjUEJBMWMxYWN4ZnVhTy0wVHZreW5pYWpoYmN3bndjUVBBa2JkWnRhczlUTlE3QzBuTjN3c201X0RFN0JIblFOOGpqbWYxdUE4WUM1TDVuek81bTYta0xPVk93VDhzVXpUV3BFdm8yNFRiT3BLR3E1YXc5ZEQ4dDV6MDByaVpTcFdwZzI0T2NKQ3QxRUY2VkVTUDNXZWd3QTNNa25QdkFLUk1DekpfVWdoS0Ntdm5OcGxDQVhFYVJ3?oc=5",
+      "fecha": "2026-11-19T21:03:36+00:00",
+      "puntaje": 10.33,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
