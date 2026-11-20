@@ -1,8 +1,36 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-20T18:39:02.721425+00:00",
+  "generado": "2026-11-20T20:02:18.789667+00:00",
   "edicion": "2026-11-20",
   "noticias": [
+    {
+      "categoria": "Agro general",
+      "titulo": "Universidad de Cundinamarca busca doble titulación internacional para su maestría del agro",
+      "resumen": "Universidad de Cundinamarca busca doble titulación internacional para su maestría del agro",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmt2WmZGTGxlUmM2TG5rNW5qdWcwNnNmeF9lWjA0YU5GQ3Z4NkNVWUE5VXctMmxlUDRqaDM3SWtyNHdVa0hDUWNIUDlST29FUEZvZUJWMkY1S2VIM0lmWjUwRV9SUkpYUy05SVVZMzhhR1VUT2ZId0lmYWVqZm5nNWY3MGZFWW5rbjF1STN2aFJoVV93eUZseW9XQkJnbXkwNjktaTZ6TnFReDJVNnVvZ3phaUxYNk1BRlU2eUYwWjZYUDM3NTRpM0VNN1RoYWF6QnZ30gHUAUFVX3lxTE1qbGI1UGxQLXZ3MGxSMEt1bHkxekV5UkdlalBsU05xSmw3Mm14cmlHQnFlVndXazNnQXp0R1NUdFlYQlY1d3pZOGFUMEthZ2hqaGtnR0h1dk03Unp5M0ZiRnNCUTdoM2p3d2xpVlpLbVgtV0tIVG9OOTZiSUlBbTlHdWQtODF2NE5MSE1vYV9rdVRodUE2QjlMY3lMUWdNblg0V3hXbEFISGNCRDVySDZZdU9VY1lkT0cxb1dBMUN1NlNPaV9jRmo2eFZwZ0JZd1VEUzRV?oc=5",
+      "fecha": "2026-11-20T19:15:03+00:00",
+      "puntaje": 12.78,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Pesca y acuicultura",
+      "titulo": "CAF lanza estudio sobre las mujeres rurales en Colombia - CAF -banco de desarrollo de América Latina",
+      "resumen": "CAF lanza estudio sobre las mujeres rurales en Colombia - CAF -banco de desarrollo de América Latina",
+      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
+      "fuente": "CAF -banco de desarrollo de América Latina",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlIeW11RDlZUjZJeVZsdi1mN0VzZURtWXZ3UUZwU2JxOVRUcjJMUTJZZHhsUzNIM1ZScHp3WkpjR2V5R1VqaXZUNEVCTlhBRTh0bm53cG9aU3BxS3dnb0ctMEJLLTVoNEJtQ01mT0VRc0NUUzNQM25KWHhMOGg5VEtNUTBFQzlvUmwyZnlvWjQ0eE9HR3pTaUc5Q0pYekdUNDZkOHR5YzRvMTQ3cXFNWE5VZ2dmVVdoVEpyYUtuSHJyM2doRWhR?oc=5",
+      "fecha": "2026-11-20T19:02:54+00:00",
+      "puntaje": 12.72,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Pesca y acuicultura",
       "titulo": "Magdalena presenta nuevas herramientas para planificar la pesca artesanal marítimo-costera",
@@ -11,7 +39,7 @@
       "fuente": "Diario La Libertad",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1pmVGU0UG9vVUV6b0dmc0VndXpOOUNheW1Oei1VTl9aVkZZampPc2trWGJDVWUtVXJkSVNVajllYTE1NTBacUl2cEdGejd4R1Z6dmxjdjN1U0VBRnFMZ3hNSXd5T3lrNmtfQy03RGgwY0FwcXlrUFlXTGpWbndnQXpHdFg5M2pBbUVndWtFdkFpT0o1SElIV3VPbW5ZSWpHNnpkNWdfbkFjT25IMGxSZ08zd3JZR3FLX3ZyQ3Eyd2dDUHE0OFdiSy1IVQ?oc=5",
       "fecha": "2026-11-20T03:18:10+00:00",
-      "puntaje": 11.74,
+      "puntaje": 11.35,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,49 +53,21 @@
       "fuente": "LaRepublica.co",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNam1SX1NjRmVFSk9DMFhKMTVGUG9Zdl9qSnA2cmpNSk1fSklfU2VMY1d1RExtNzVTd3JZajFHOV9DdFdCcXBuLWtCT1F3Q1phNlh6TWZieXdlbFUxNVZNdURkMDNaamlFaXVIMGJtQThWTTRXNTVMc0dXQ2t6U1hIVC1meFJUS0trV2hHNWJmcGxBSXVwX21zYnVxUFNKeEJHN2x3RElYY3NrYTVPQmNhYWJPNzRuOTR1a25r0gG7AUFVX3lxTE1qbVJfU2NGZUVKT0MwWEoxNUZQb1l2X2pKcDZyak1KTV9KSV9TZUxjV3VETG03NVN3cllqMUc5X0N0V0JxcG4ta0JPUXdDWmE2WHpNZmJ5d2VsVTE1Vk11RGQwM1pqaUVpdUgwYm1BOFZNNFc1NUxzR1dDa3pTWEhULWZ4UlRLS2tXaEc1YmZwbEFJdXBfbXNidXFQU0p4Qkc3bHdESVhjc2thNU9CY2FhYk83NG45NHVrbms?oc=5",
       "fecha": "2026-11-19T21:26:11+00:00",
-      "puntaje": 10.11,
+      "puntaje": 9.72,
       "herramienta": {
         "texto": "Haz el diagnóstico gratuito de tu proyecto",
         "url": "https://www.agrodasin.org.co/diagnostico/"
       }
     },
     {
-      "categoria": "Mercados y precios",
-      "titulo": "Colombia espera recuperar su producción de café y alcanzar 13,4 millones de sacos",
-      "resumen": "Colombia espera recuperar su producción de café y alcanzar 13,4 millones de sacos",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUXloSkZ5MGRDZjdsWGRIeUtBNFp5X0gyc2pITjdSSzE3U2JyNUJKVERvQ2Rhbm4wSi1BOFB1M2txaGdYUXFDeHBmTGhrbFR2bVJodGNiTDRGcEdValhXb0tGQkhVZzU1SF8yeE16ZmF3Z2pJMWtCNHgtbnFrbFVzRFZlMmNPMVJPbHd6XzRHb0RZaWRfWlc3b21DMG1jc0E3UDVuTzVjNzVSOThIbU85cjU4UmJBc0xzT2hsQThZeTRnclh6S21PemZaWVI?oc=5",
-      "fecha": "2026-11-20T14:15:08+00:00",
-      "puntaje": 8.78,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Pesca y acuicultura",
-      "titulo": "Magdalena busca fortalecer la pesca artesanal con nuevas herramientas de planificación",
-      "resumen": "Magdalena busca fortalecer la pesca artesanal con nuevas herramientas de planificación",
-      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
-      "fuente": "Seguimiento.co",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaGFQbEVnNnBxV25aZ1RhYWhaYnRNTTlobVZMNzA4X01rSnpRNDVCaDlIVXRLZFJ3ZUptcFVzaVB3OU1VTDRONlVwa0VpbEpsLW12aWwyR0gwUXZpZld6M1dVUVNQU0h4RkQ4TEVPajl3R3hzMWZRc3c4andZUjZ0OFl4cjl0cDloZS1rN3lQNDhUakZXVWlHcHlnS0ZWd2s3OWhoUkRGYzRQWmFoR1NaWDl3OWllSnVZZVlRdWtabjZmbWRsYTVkM2tpZE9tamJhSXdhMjVkMGtPUQ?oc=5",
-      "fecha": "2026-11-19T16:10:00+00:00",
-      "puntaje": 8.64,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Federación Nacional de Cafeteros renueva contrato con el Gobierno por diez años: ¿qué significa para los productores?",
-      "resumen": "Federación Nacional de Cafeteros renueva contrato con el Gobierno por diez años: ¿qué significa para los productores?",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "La FM",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZEZEQ1R6RHprZEt1YVhZQ0hpVXJXMGFIWkJVZXBVekU1TkdFeU8tc0JYMFd3Z2ZFQ0VrRlE1RzJLM3NRMDcxaWxPUC1xeWVzN1JiWTdZeVkxUS1YazNDOGdLOTFzSy1PUU1lUGNfSHgzS1dHS2FFQWRIZEVNYkp1aERMMnc0TnVxVUpBdU9YRmlGOUNESnFwZlh2T3ZRVDdqSkluUHV1djN0eGlWT0xwN1dzbUtFd0J6RXBQUkg4ZXdGNHlqckphTmZWVTJ6MW1y0gHQAUFVX3lxTE9kb3dXMWw5d1ZwRU1sZFdJdV9WUy0xUnU5RnJfUVFnVzlaQ29qVUNMZ3h2UThzOEZYdFEzYXRXT1Mzd2hYRTRzSFVCZ3pmZG5jWnpBbm8wMmpGYW9hTGphSlNGZVJhV1RFbDZtQm9qMGhQQWxtQzU2MVlQeC1EbXBFV2l5YU9jbGpSUFlhVDYzY1Y2U2xFeVlqU1J0MW9aSzJ6amNabHJ6U3lQZV91ZmRLWHZkVnNXUWF6N1RjdVc3VDlGdVZ0MEZyYWs0RHJVaDQ?oc=5",
-      "fecha": "2026-11-20T12:38:57+00:00",
-      "puntaje": 8.33,
+      "categoria": "Agro general",
+      "titulo": "Mercados campesinos en Colombia acercan el campo a la ciudad",
+      "resumen": "Mercados campesinos en Colombia acercan el campo a la ciudad",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Diario del Sur",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGtxN0VVTGJHeHRxYnhfQzduZWxrY3pobW55alZjX3ZZZGRzZUd4ZE03WnhFT3BwT21KVVRIcXJFTDRlTDlDMGVZTzEtdVBuQjlZT3Q3NE9xek1tSzVMMEtJZDdyX2E1Vkk5LXBPamN4ZDQybE5kS0o2NWtQbnF3Y0pQOUZkNzMwd2U1M1Z6UTUzX2RmazBUQXdxRy0?oc=5",
+      "fecha": "2026-11-20T17:33:55+00:00",
+      "puntaje": 9.31,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
