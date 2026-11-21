@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-21T01:25:24.798298+00:00",
-  "edicion": "2026-11-20",
+  "generado": "2026-11-21T09:39:31.258302+00:00",
+  "edicion": "2026-11-21",
   "noticias": [
+    {
+      "categoria": "Clima",
+      "titulo": "Último reporte del IDEAM: ¿Lloverá o hará sol? Clima y alertas fin de semana 21 y 22 de noviembre",
+      "resumen": "Último reporte del IDEAM: ¿Lloverá o hará sol? Clima y alertas fin de semana 21 y 22 de noviembre",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFFvM05jNFhWV0VVNEFUTjZNNXF0bWZCMHRQRkFhZlJQTGpuQUFMVnAyZ25xWVdTWWdMS1BhXzM0U29ENWhjRDFRSC1KdnBvMjhoOU5XcUdzQmJuUXZKU2x0dWZKRWJOQ0Y2MG1EUE9zSDVGaGh0VndDcU85QVZxUWtZVEtkVUlBNllpUVVFM1g2a1Q5em9QdWpPVENxZEpYY1JzSjZyMmxfZC14OUJBMno4d1dnUnNObHE0bkhFNzk4Q1VjdGRhZdIB3AFBVV95cUxPdDlEMVh1RUV6dFhtOXE1U3B6aFZLdXhZVk9uckFyZi1HdkdUYW1QUGZic1lqM254TkJLNklfcTZkZWI4UWFaeGxfcEpfeHRjdGF1dWNudUotekpaMzFqYkEyYVUtM2F6eGxlWklVbk8yNjFlSjVZNGMzUmZUSFdLMzhkNGszMExQNjVMenZkV1czZ1VFVTFwRGlnMk9QdjAzTy1NcXh3czFkRXdwVEphTGY1c1hYNktiQmpyLU9HU1FLVHFuSjNsWGUzSHpYb0hZeUZxdlZfSGNVRC16?oc=5",
+      "fecha": "2026-11-21T01:22:04+00:00",
+      "puntaje": 10.7,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Clima",
       "titulo": "Ideam entregó fecha clave antes del inicio y pico máximo del fenómeno de El Niño en Colombia",
@@ -11,7 +25,7 @@
       "fuente": "Revista Semana",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTm5vZjVxTWE0aXh5NUUzWHZsQ0RmcDJsU3JNRjFFRmcxUUJ6bzBlYUNQRWJrV0pPblgwSXFUbjhBU1NVUHRwRDZ5dmNjcUo2NVJUMGJnNjBVTkgxUW1kZDBjd3VjN3lkQWFJZ3lCckdpdXJfWmJFdEdWd0tSbEpHVWRjYUVEVVRWckhDWnp2eENDYXItVWJkel9iczV3VjhtanBNYXRMQWppQktteXBydTVrVzJVUGZkUHpfNVdYS3hRY3FDa2JTOHNpYUk5WmtQM0NXSmF3?oc=5",
       "fecha": "2026-11-20T23:52:06+00:00",
-      "puntaje": 12.57,
+      "puntaje": 10.28,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,23 +39,9 @@
       "fuente": "CAF -banco de desarrollo de América Latina",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlIeW11RDlZUjZJeVZsdi1mN0VzZURtWXZ3UUZwU2JxOVRUcjJMUTJZZHhsUzNIM1ZScHp3WkpjR2V5R1VqaXZUNEVCTlhBRTh0bm53cG9aU3BxS3dnb0ctMEJLLTVoNEJtQ01mT0VRc0NUUzNQM25KWHhMOGg5VEtNUTBFQzlvUmwyZnlvWjQ0eE9HR3pTaUc5Q0pYekdUNDZkOHR5YzRvMTQ3cXFNWE5VZ2dmVVdoVEpyYUtuSHJyM2doRWhR?oc=5",
       "fecha": "2026-11-20T21:05:59+00:00",
-      "puntaje": 11.8,
+      "puntaje": 9.51,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "El Ideam prevé lluvias fuertes en varias regiones del país durante este fin de semana: aliste el paraguas",
-      "resumen": "El Ideam prevé lluvias fuertes en varias regiones del país durante este fin de semana: aliste el paraguas",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdDNPWWsyTnV6V2dCbmw4SzNrOEp3TmZGUDN4bjM2UXZteS1ZdjFlbnJaTF9uN1oyX1pkVVpTRXRyMnVLbU1COWo1Vi1Fc2VZX2N0TVNsY2dORXRVc0swSExxZGNfREJ1SFZHSWxWa21SMDdTandzbkdtQjBTdEpqeDg1cVozczlQZjFpdnd3ZnFZT0NKRklKQnNiWWZMU3Z3VUVRdEtqRVdiUzBIVm5rTktuZ0ZRNWI0dWszdHplaHk0S1d1LXdET1BVem9Lek5CUmN5aVdfLXR6clEwbEw1VFZha9IB_gFBVV95cUxOZWFXOUlUTlVnZFMyakNVMDc1dHk4NW5JQlFwWks3aWNSeGFGT2w2M0FoNXh4cGhWS1dKOWlSbUNFMVk5R3hOcE42Z2kyWWJHOWduNHk5M1Z6Y2ItdTNEdW1iWVd1S0s5SXBBY3ROckRlYkc4WGo4NmdLZ3lMcTlGZ1dkTGhHa3ZLR2RBdXktaEE1YV9adUYzU1FWclpOdEVpbXp0djhIZGRieHNKQTJJMURfb19tZUpGODZ2U0p4bmVwWUxid1QteGFJUXBHeUNlN1lTV1RUMXZxLU9xaWJfSjBaeXRXYi1vTndUcWN1a1VqS3VuYjRTYWVpeVNadw?oc=5",
-      "fecha": "2026-11-20T23:25:00+00:00",
-      "puntaje": 11.44,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -53,21 +53,21 @@
       "fuente": "LaRepublica.co",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmt2WmZGTGxlUmM2TG5rNW5qdWcwNnNmeF9lWjA0YU5GQ3Z4NkNVWUE5VXctMmxlUDRqaDM3SWtyNHdVa0hDUWNIUDlST29FUEZvZUJWMkY1S2VIM0lmWjUwRV9SUkpYUy05SVVZMzhhR1VUT2ZId0lmYWVqZm5nNWY3MGZFWW5rbjF1STN2aFJoVV93eUZseW9XQkJnbXkwNjktaTZ6TnFReDJVNnVvZ3phaUxYNk1BRlU2eUYwWjZYUDM3NTRpM0VNN1RoYWF6QnZ30gHUAUFVX3lxTE1qbGI1UGxQLXZ3MGxSMEt1bHkxekV5UkdlalBsU05xSmw3Mm14cmlHQnFlVndXazNnQXp0R1NUdFlYQlY1d3pZOGFUMEthZ2hqaGtnR0h1dk03Unp5M0ZiRnNCUTdoM2p3d2xpVlpLbVgtV0tIVG9OOTZiSUlBbTlHdWQtODF2NE5MSE1vYV9rdVRodUE2QjlMY3lMUWdNblg0V3hXbEFISGNCRDVySDZZdU9VY1lkT0cxb1dBMUN1NlNPaV9jRmo2eFZwZ0JZd1VEUzRV?oc=5",
       "fecha": "2026-11-20T19:15:03+00:00",
-      "puntaje": 11.29,
+      "puntaje": 9.0,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
-      "categoria": "Pesca y acuicultura",
-      "titulo": "Magdalena presenta nuevas herramientas para planificar la pesca artesanal marítimo-costera",
-      "resumen": "Magdalena presenta nuevas herramientas para planificar la pesca artesanal marítimo-costera",
-      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
-      "fuente": "Diario La Libertad",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1pmVGU0UG9vVUV6b0dmc0VndXpOOUNheW1Oei1VTl9aVkZZampPc2trWGJDVWUtVXJkSVNVajllYTE1NTBacUl2cEdGejd4R1Z6dmxjdjN1U0VBRnFMZ3hNSXd5T3lrNmtfQy03RGgwY0FwcXlrUFlXTGpWbndnQXpHdFg5M2pBbUVndWtFdkFpT0o1SElIV3VPbW5ZSWpHNnpkNWdfbkFjT25IMGxSZ08zd3JZR3FLX3ZyQ3Eyd2dDUHE0OFdiSy1IVQ?oc=5",
-      "fecha": "2026-11-20T03:18:10+00:00",
-      "puntaje": 9.86,
+      "categoria": "Crédito y convocatorias",
+      "titulo": "La ANT destina $12.000 millones y dos tractores para campesinos afectados por incendios en el Tolima",
+      "resumen": "La ANT destina $12.000 millones y dos tractores para campesinos afectados por incendios en el Tolima",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "El Expreso",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUW0tX0lwclZ1aWdtcm5WRWJPbENuSmdFeXBTLWRLTG5IZE1UUkNDUnJ5R2tpdks1d1ZyTXFqZm1tQTFMZHdrSFZUZ0Z4MkpEZi1GdG12OGtobmtKVExhcldRVjE4YXlGajhVc05wcERxM0dKZDV6RTQwVjlJWTNKQ2YxdEpCbnE0blJEcnhpZEVmVXV5N0dEMGYyWDFmWkNNcndaeloxOWRqWjFfSU9iTVk1RGFpMGdTRlFBUzB6bFNZdlU?oc=5",
+      "fecha": "2026-11-20T22:30:00+00:00",
+      "puntaje": 6.9,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"

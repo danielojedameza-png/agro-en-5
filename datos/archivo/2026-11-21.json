@@ -1,0 +1,77 @@
+{
+  "servicio": "Agro en 5 · AGRODASIN",
+  "generado": "2026-11-21T09:39:31.258302+00:00",
+  "edicion": "2026-11-21",
+  "noticias": [
+    {
+      "categoria": "Clima",
+      "titulo": "Último reporte del IDEAM: ¿Lloverá o hará sol? Clima y alertas fin de semana 21 y 22 de noviembre",
+      "resumen": "Último reporte del IDEAM: ¿Lloverá o hará sol? Clima y alertas fin de semana 21 y 22 de noviembre",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFFvM05jNFhWV0VVNEFUTjZNNXF0bWZCMHRQRkFhZlJQTGpuQUFMVnAyZ25xWVdTWWdMS1BhXzM0U29ENWhjRDFRSC1KdnBvMjhoOU5XcUdzQmJuUXZKU2x0dWZKRWJOQ0Y2MG1EUE9zSDVGaGh0VndDcU85QVZxUWtZVEtkVUlBNllpUVVFM1g2a1Q5em9QdWpPVENxZEpYY1JzSjZyMmxfZC14OUJBMno4d1dnUnNObHE0bkhFNzk4Q1VjdGRhZdIB3AFBVV95cUxPdDlEMVh1RUV6dFhtOXE1U3B6aFZLdXhZVk9uckFyZi1HdkdUYW1QUGZic1lqM254TkJLNklfcTZkZWI4UWFaeGxfcEpfeHRjdGF1dWNudUotekpaMzFqYkEyYVUtM2F6eGxlWklVbk8yNjFlSjVZNGMzUmZUSFdLMzhkNGszMExQNjVMenZkV1czZ1VFVTFwRGlnMk9QdjAzTy1NcXh3czFkRXdwVEphTGY1c1hYNktiQmpyLU9HU1FLVHFuSjNsWGUzSHpYb0hZeUZxdlZfSGNVRC16?oc=5",
+      "fecha": "2026-11-21T01:22:04+00:00",
+      "puntaje": 10.7,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Ideam entregó fecha clave antes del inicio y pico máximo del fenómeno de El Niño en Colombia",
+      "resumen": "Ideam entregó fecha clave antes del inicio y pico máximo del fenómeno de El Niño en Colombia",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTm5vZjVxTWE0aXh5NUUzWHZsQ0RmcDJsU3JNRjFFRmcxUUJ6bzBlYUNQRWJrV0pPblgwSXFUbjhBU1NVUHRwRDZ5dmNjcUo2NVJUMGJnNjBVTkgxUW1kZDBjd3VjN3lkQWFJZ3lCckdpdXJfWmJFdEdWd0tSbEpHVWRjYUVEVVRWckhDWnp2eENDYXItVWJkel9iczV3VjhtanBNYXRMQWppQktteXBydTVrVzJVUGZkUHpfNVdYS3hRY3FDa2JTOHNpYUk5WmtQM0NXSmF3?oc=5",
+      "fecha": "2026-11-20T23:52:06+00:00",
+      "puntaje": 10.28,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Pesca y acuicultura",
+      "titulo": "CAF lanza estudio sobre las mujeres rurales en Colombia - CAF -banco de desarrollo de América Latina",
+      "resumen": "CAF lanza estudio sobre las mujeres rurales en Colombia - CAF -banco de desarrollo de América Latina",
+      "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
+      "fuente": "CAF -banco de desarrollo de América Latina",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlIeW11RDlZUjZJeVZsdi1mN0VzZURtWXZ3UUZwU2JxOVRUcjJMUTJZZHhsUzNIM1ZScHp3WkpjR2V5R1VqaXZUNEVCTlhBRTh0bm53cG9aU3BxS3dnb0ctMEJLLTVoNEJtQ01mT0VRc0NUUzNQM25KWHhMOGg5VEtNUTBFQzlvUmwyZnlvWjQ0eE9HR3pTaUc5Q0pYekdUNDZkOHR5YzRvMTQ3cXFNWE5VZ2dmVVdoVEpyYUtuSHJyM2doRWhR?oc=5",
+      "fecha": "2026-11-20T21:05:59+00:00",
+      "puntaje": 9.51,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "Universidad de Cundinamarca busca doble titulación internacional para su maestría del agro",
+      "resumen": "Universidad de Cundinamarca busca doble titulación internacional para su maestría del agro",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmt2WmZGTGxlUmM2TG5rNW5qdWcwNnNmeF9lWjA0YU5GQ3Z4NkNVWUE5VXctMmxlUDRqaDM3SWtyNHdVa0hDUWNIUDlST29FUEZvZUJWMkY1S2VIM0lmWjUwRV9SUkpYUy05SVVZMzhhR1VUT2ZId0lmYWVqZm5nNWY3MGZFWW5rbjF1STN2aFJoVV93eUZseW9XQkJnbXkwNjktaTZ6TnFReDJVNnVvZ3phaUxYNk1BRlU2eUYwWjZYUDM3NTRpM0VNN1RoYWF6QnZ30gHUAUFVX3lxTE1qbGI1UGxQLXZ3MGxSMEt1bHkxekV5UkdlalBsU05xSmw3Mm14cmlHQnFlVndXazNnQXp0R1NUdFlYQlY1d3pZOGFUMEthZ2hqaGtnR0h1dk03Unp5M0ZiRnNCUTdoM2p3d2xpVlpLbVgtV0tIVG9OOTZiSUlBbTlHdWQtODF2NE5MSE1vYV9rdVRodUE2QjlMY3lMUWdNblg0V3hXbEFISGNCRDVySDZZdU9VY1lkT0cxb1dBMUN1NlNPaV9jRmo2eFZwZ0JZd1VEUzRV?oc=5",
+      "fecha": "2026-11-20T19:15:03+00:00",
+      "puntaje": 9.0,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "La ANT destina $12.000 millones y dos tractores para campesinos afectados por incendios en el Tolima",
+      "resumen": "La ANT destina $12.000 millones y dos tractores para campesinos afectados por incendios en el Tolima",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "El Expreso",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUW0tX0lwclZ1aWdtcm5WRWJPbENuSmdFeXBTLWRLTG5IZE1UUkNDUnJ5R2tpdks1d1ZyTXFqZm1tQTFMZHdrSFZUZ0Z4MkpEZi1GdG12OGtobmtKVExhcldRVjE4YXlGajhVc05wcERxM0dKZDV6RTQwVjlJWTNKQ2YxdEpCbnE0blJEcnhpZEVmVXV5N0dEMGYyWDFmWkNNcndaeloxOWRqWjFfSU9iTVk1RGFpMGdTRlFBUzB6bFNZdlU?oc=5",
+      "fecha": "2026-11-20T22:30:00+00:00",
+      "puntaje": 6.9,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    }
+  ]
+}
