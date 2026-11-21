@@ -1,19 +1,19 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-20T20:02:18.789667+00:00",
+  "generado": "2026-11-21T01:25:24.798298+00:00",
   "edicion": "2026-11-20",
   "noticias": [
     {
-      "categoria": "Agro general",
-      "titulo": "Universidad de Cundinamarca busca doble titulación internacional para su maestría del agro",
-      "resumen": "Universidad de Cundinamarca busca doble titulación internacional para su maestría del agro",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmt2WmZGTGxlUmM2TG5rNW5qdWcwNnNmeF9lWjA0YU5GQ3Z4NkNVWUE5VXctMmxlUDRqaDM3SWtyNHdVa0hDUWNIUDlST29FUEZvZUJWMkY1S2VIM0lmWjUwRV9SUkpYUy05SVVZMzhhR1VUT2ZId0lmYWVqZm5nNWY3MGZFWW5rbjF1STN2aFJoVV93eUZseW9XQkJnbXkwNjktaTZ6TnFReDJVNnVvZ3phaUxYNk1BRlU2eUYwWjZYUDM3NTRpM0VNN1RoYWF6QnZ30gHUAUFVX3lxTE1qbGI1UGxQLXZ3MGxSMEt1bHkxekV5UkdlalBsU05xSmw3Mm14cmlHQnFlVndXazNnQXp0R1NUdFlYQlY1d3pZOGFUMEthZ2hqaGtnR0h1dk03Unp5M0ZiRnNCUTdoM2p3d2xpVlpLbVgtV0tIVG9OOTZiSUlBbTlHdWQtODF2NE5MSE1vYV9rdVRodUE2QjlMY3lMUWdNblg0V3hXbEFISGNCRDVySDZZdU9VY1lkT0cxb1dBMUN1NlNPaV9jRmo2eFZwZ0JZd1VEUzRV?oc=5",
-      "fecha": "2026-11-20T19:15:03+00:00",
-      "puntaje": 12.78,
+      "categoria": "Clima",
+      "titulo": "Ideam entregó fecha clave antes del inicio y pico máximo del fenómeno de El Niño en Colombia",
+      "resumen": "Ideam entregó fecha clave antes del inicio y pico máximo del fenómeno de El Niño en Colombia",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTm5vZjVxTWE0aXh5NUUzWHZsQ0RmcDJsU3JNRjFFRmcxUUJ6bzBlYUNQRWJrV0pPblgwSXFUbjhBU1NVUHRwRDZ5dmNjcUo2NVJUMGJnNjBVTkgxUW1kZDBjd3VjN3lkQWFJZ3lCckdpdXJfWmJFdEdWd0tSbEpHVWRjYUVEVVRWckhDWnp2eENDYXItVWJkel9iczV3VjhtanBNYXRMQWppQktteXBydTVrVzJVUGZkUHpfNVdYS3hRY3FDa2JTOHNpYUk5WmtQM0NXSmF3?oc=5",
+      "fecha": "2026-11-20T23:52:06+00:00",
+      "puntaje": 12.57,
       "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
@@ -24,8 +24,36 @@
       "por_que": "Afecta tu producción, tus vedas o tus ventas de pescado.",
       "fuente": "CAF -banco de desarrollo de América Latina",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzlIeW11RDlZUjZJeVZsdi1mN0VzZURtWXZ3UUZwU2JxOVRUcjJMUTJZZHhsUzNIM1ZScHp3WkpjR2V5R1VqaXZUNEVCTlhBRTh0bm53cG9aU3BxS3dnb0ctMEJLLTVoNEJtQ01mT0VRc0NUUzNQM25KWHhMOGg5VEtNUTBFQzlvUmwyZnlvWjQ0eE9HR3pTaUc5Q0pYekdUNDZkOHR5YzRvMTQ3cXFNWE5VZ2dmVVdoVEpyYUtuSHJyM2doRWhR?oc=5",
-      "fecha": "2026-11-20T19:02:54+00:00",
-      "puntaje": 12.72,
+      "fecha": "2026-11-20T21:05:59+00:00",
+      "puntaje": 11.8,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "El Ideam prevé lluvias fuertes en varias regiones del país durante este fin de semana: aliste el paraguas",
+      "resumen": "El Ideam prevé lluvias fuertes en varias regiones del país durante este fin de semana: aliste el paraguas",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Infobae",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdDNPWWsyTnV6V2dCbmw4SzNrOEp3TmZGUDN4bjM2UXZteS1ZdjFlbnJaTF9uN1oyX1pkVVpTRXRyMnVLbU1COWo1Vi1Fc2VZX2N0TVNsY2dORXRVc0swSExxZGNfREJ1SFZHSWxWa21SMDdTandzbkdtQjBTdEpqeDg1cVozczlQZjFpdnd3ZnFZT0NKRklKQnNiWWZMU3Z3VUVRdEtqRVdiUzBIVm5rTktuZ0ZRNWI0dWszdHplaHk0S1d1LXdET1BVem9Lek5CUmN5aVdfLXR6clEwbEw1VFZha9IB_gFBVV95cUxOZWFXOUlUTlVnZFMyakNVMDc1dHk4NW5JQlFwWks3aWNSeGFGT2w2M0FoNXh4cGhWS1dKOWlSbUNFMVk5R3hOcE42Z2kyWWJHOWduNHk5M1Z6Y2ItdTNEdW1iWVd1S0s5SXBBY3ROckRlYkc4WGo4NmdLZ3lMcTlGZ1dkTGhHa3ZLR2RBdXktaEE1YV9adUYzU1FWclpOdEVpbXp0djhIZGRieHNKQTJJMURfb19tZUpGODZ2U0p4bmVwWUxid1QteGFJUXBHeUNlN1lTV1RUMXZxLU9xaWJfSjBaeXRXYi1vTndUcWN1a1VqS3VuYjRTYWVpeVNadw?oc=5",
+      "fecha": "2026-11-20T23:25:00+00:00",
+      "puntaje": 11.44,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "Universidad de Cundinamarca busca doble titulación internacional para su maestría del agro",
+      "resumen": "Universidad de Cundinamarca busca doble titulación internacional para su maestría del agro",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMmt2WmZGTGxlUmM2TG5rNW5qdWcwNnNmeF9lWjA0YU5GQ3Z4NkNVWUE5VXctMmxlUDRqaDM3SWtyNHdVa0hDUWNIUDlST29FUEZvZUJWMkY1S2VIM0lmWjUwRV9SUkpYUy05SVVZMzhhR1VUT2ZId0lmYWVqZm5nNWY3MGZFWW5rbjF1STN2aFJoVV93eUZseW9XQkJnbXkwNjktaTZ6TnFReDJVNnVvZ3phaUxYNk1BRlU2eUYwWjZYUDM3NTRpM0VNN1RoYWF6QnZ30gHUAUFVX3lxTE1qbGI1UGxQLXZ3MGxSMEt1bHkxekV5UkdlalBsU05xSmw3Mm14cmlHQnFlVndXazNnQXp0R1NUdFlYQlY1d3pZOGFUMEthZ2hqaGtnR0h1dk03Unp5M0ZiRnNCUTdoM2p3d2xpVlpLbVgtV0tIVG9OOTZiSUlBbTlHdWQtODF2NE5MSE1vYV9rdVRodUE2QjlMY3lMUWdNblg0V3hXbEFISGNCRDVySDZZdU9VY1lkT0cxb1dBMUN1NlNPaV9jRmo2eFZwZ0JZd1VEUzRV?oc=5",
+      "fecha": "2026-11-20T19:15:03+00:00",
+      "puntaje": 11.29,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,35 +67,7 @@
       "fuente": "Diario La Libertad",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1pmVGU0UG9vVUV6b0dmc0VndXpOOUNheW1Oei1VTl9aVkZZampPc2trWGJDVWUtVXJkSVNVajllYTE1NTBacUl2cEdGejd4R1Z6dmxjdjN1U0VBRnFMZ3hNSXd5T3lrNmtfQy03RGgwY0FwcXlrUFlXTGpWbndnQXpHdFg5M2pBbUVndWtFdkFpT0o1SElIV3VPbW5ZSWpHNnpkNWdfbkFjT25IMGxSZ08zd3JZR3FLX3ZyQ3Eyd2dDUHE0OFdiSy1IVQ?oc=5",
       "fecha": "2026-11-20T03:18:10+00:00",
-      "puntaje": 11.35,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "FINAGRO y PNUD buscan transformar el crédito agropecuario de sostenibilidad",
-      "resumen": "FINAGRO y PNUD buscan transformar el crédito agropecuario de sostenibilidad",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNam1SX1NjRmVFSk9DMFhKMTVGUG9Zdl9qSnA2cmpNSk1fSklfU2VMY1d1RExtNzVTd3JZajFHOV9DdFdCcXBuLWtCT1F3Q1phNlh6TWZieXdlbFUxNVZNdURkMDNaamlFaXVIMGJtQThWTTRXNTVMc0dXQ2t6U1hIVC1meFJUS0trV2hHNWJmcGxBSXVwX21zYnVxUFNKeEJHN2x3RElYY3NrYTVPQmNhYWJPNzRuOTR1a25r0gG7AUFVX3lxTE1qbVJfU2NGZUVKT0MwWEoxNUZQb1l2X2pKcDZyak1KTV9KSV9TZUxjV3VETG03NVN3cllqMUc5X0N0V0JxcG4ta0JPUXdDWmE2WHpNZmJ5d2VsVTE1Vk11RGQwM1pqaUVpdUgwYm1BOFZNNFc1NUxzR1dDa3pTWEhULWZ4UlRLS2tXaEc1YmZwbEFJdXBfbXNidXFQU0p4Qkc3bHdESVhjc2thNU9CY2FhYk83NG45NHVrbms?oc=5",
-      "fecha": "2026-11-19T21:26:11+00:00",
-      "puntaje": 9.72,
-      "herramienta": {
-        "texto": "Haz el diagnóstico gratuito de tu proyecto",
-        "url": "https://www.agrodasin.org.co/diagnostico/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Mercados campesinos en Colombia acercan el campo a la ciudad",
-      "resumen": "Mercados campesinos en Colombia acercan el campo a la ciudad",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Diario del Sur",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGtxN0VVTGJHeHRxYnhfQzduZWxrY3pobW55alZjX3ZZZGRzZUd4ZE03WnhFT3BwT21KVVRIcXJFTDRlTDlDMGVZTzEtdVBuQjlZT3Q3NE9xek1tSzVMMEtJZDdyX2E1Vkk5LXBPamN4ZDQybE5kS0o2NWtQbnF3Y0pQOUZkNzMwd2U1M1Z6UTUzX2RmazBUQXdxRy0?oc=5",
-      "fecha": "2026-11-20T17:33:55+00:00",
-      "puntaje": 9.31,
+      "puntaje": 9.86,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
