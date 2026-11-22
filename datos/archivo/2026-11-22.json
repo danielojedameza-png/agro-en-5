@@ -1,0 +1,63 @@
+{
+  "servicio": "Agro en 5 · AGRODASIN",
+  "generado": "2026-11-22T11:15:19.438564+00:00",
+  "edicion": "2026-11-22",
+  "noticias": [
+    {
+      "categoria": "Clima",
+      "titulo": "Ideam alerta por lluvias fuertes este fin de semana en Colombia: estas son las regiones con mayor probabilidad",
+      "resumen": "Ideam alerta por lluvias fuertes este fin de semana en Colombia: estas son las regiones con mayor probabilidad",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Portafolio.co",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSGZWRmZENEJYVk5lMHlaRGRoeTRER0VNYW50TDRQX2JaYkg0YTI5YVhhYmFlNHR6b2prTnp1VXdfWUlaWjZGVDVOb3hKOHFUM2FLTnBpVll5c3pfTEV3UzVhc0M2Ri1JZVhiQmRQZEM3bS05NjdHZmxwdjA0dXhiX1dqN051YmtadUlha2s1X2d2Vy1ONkpfVXNuZ2VBdl9mSFQ1U3Vtdi1SZV94TWsybWxsaFRHb0lyUkFub1ZoV0tOTXpiaTEyeUZUZ2N6NnpxdVpsb2JVMXlsMzdKNVYxaEROWHZqLXJEcWs4Z3FPRDlFUdIB9wFBVV95cUxPR1N0SFBMTm5qUnlFZVVfT2RIS292NDM3aVBvSTRRUHlTVVJ1WW1sOXhuR1phVmE0RkFNbk1ITWQteGNpbkYzVm8yMllyVWtXdHJFbmFlTzIwTUdfTnRoWlNKdjFBZjdKVmxkeXhzNHRFVWJlbmJmOXBUMW10OVZiUl92SFlTOUtYOTN4VHlBeXRyUnRONUNWY1NlV3d3WWFkQVJkYjF5WVdYWEtBOTBVZjl2TmZ6VWg4R3RWNmZtdmN1VmxvSXA2NWFoZmFsQlVZWWtkaFNpeGJrLWJwMV8wWWlabEx0d0NzME0wRTdsOThMVjNYWVNv?oc=5",
+      "fecha": "2026-11-21T14:21:44+00:00",
+      "puntaje": 11.2,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "IDEAM advierte sobre lluvias fuertes y temperaturas elevadas en diferentes regiones",
+      "resumen": "IDEAM advierte sobre lluvias fuertes y temperaturas elevadas en diferentes regiones",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Diario del Sur",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN3pNZ2lKX0U1ZGJySkRzdEtQSTdhWU43Nk5CSUdicGJHUGxmS2xqM3pQam9vYWFIVjRwYlJiWDZZdnFLbDFPNHFYU3ZjRi0wZVF0MWpvdnZTSGdJZnZwWjJYTENZLUNqQUU3OHRCZm8xa185T0IyaS01d3drWEZTbEZmMGRIbnE3Q0JfckVpZGVWamtRUWdWamkyZWkxUWhOZDlONzdWb1dodkRTVzJvcVIwS2FxM2k4bHBJ?oc=5",
+      "fecha": "2026-11-21T13:32:40+00:00",
+      "puntaje": 5.97,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "Alianza estratégica en Colombia para impulsar el desarrollo rural a través de la ciencia y la innovación",
+      "resumen": "Alianza estratégica en Colombia para impulsar el desarrollo rural a través de la ciencia y la innovación",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Ecos del Combeima",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeFV2bmdVdTN6OGJHMmhmMmxHSW94LVQtOVAtYlFIaWNNd2Z6cnZPd1NXWExJZEptWTIzZHpyWHJrZm9wd0FNUlVPODRHZ0FXMzJ2NHdtZkxONHpseGpfejdROExDd0NjcmVRck5WVmRpWlRLOS1COEJJbWxxUVdXSmZ4TkVnVzNHWWw5TXdvZTRnbVZwcGptQllna3RycjY2b0c3Vkhac0I4MjFURC1NNVc0WjZRS3ZZT3RZTkRNbGtiNTBOel9YeEZZOA?oc=5",
+      "fecha": "2026-11-21T13:09:27+00:00",
+      "puntaje": 3.86,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "¿Cómo logró McCain trabajar en cerca de 2.200 hectáreas de cultivo de papa en Colombia? Esta es la estrategia detrás de su éxito",
+      "resumen": "¿Cómo logró McCain trabajar en cerca de 2.200 hectáreas de cultivo de papa en Colombia? Esta es la estrategia detrás de su éxito",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Revista Semana",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcWVRT2RueGx6YUkwajBxalZRYnI4QVlvRDl2RUQ1SnZBbzZTTzN4UERHUmVjdXRxQXhiSlh6Q0M4VmYxVUtpMVhjM0xqOHd6eDNRandnNWtDQ240Ynk2aVBHU1A5TFRJT0pWU0tBOE1SRFZqM0VXUW55eU1ad25WOHRUWHBqbG5SQ0kzMzhNU0hQNGJIQXdxQWJjOFN2bU01REJSM1BqOVhVcnNLNmhtTnJpeHotOVJRQkFJNUltbjhtMjR3bG14NXJNUWpxdmx0WXNmUFpvYlhpS1dTWHZUZnhzUUI3aFhpcW0xSXhxRFZjT1pNNGFBbHQzcTU0UUFRa1ZXcVc0a2J3R19XbDc0NdIBlgJBVV95cUxNNDhpck8yVVJWNkRHTU1TQ1F2R1N3bjFYY25pMEpHNFBpaG1mRS1JVFlkNVNFVWtOU3ZOOWNzM20tTTRDZ0MxTTI0ZFRPQVdHdXlMZUI4bVBzNkdRQTR4RllfTzZqb0h3bFd6WUdBUEdodWhCVVpyTG9WaU9Vcm9KVUpaYnUzZXEzTEg0VXdYYkxHWWMzY2ZHajkyc2JfUlU2SVZFWTg1U2E2TUVsRTJmaGRTLUF3UGdFTGhvSEprSXVCV3VwM3MwU0d5TTUtaU9FNDFtMlJZN0NfWmlhYUJYYUR1VmVkZ1IxMllvSkd4WVFPbTFMejlzSWItSlVxdkJubUdGRENJazEwdWxVY2dIZmZNV2w1UQ?oc=5",
+      "fecha": "2026-11-21T11:06:12+00:00",
+      "puntaje": 3.29,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    }
+  ]
+}
