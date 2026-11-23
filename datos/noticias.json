@@ -1,17 +1,45 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-23T08:56:28.933151+00:00",
+  "generado": "2026-11-23T21:15:00.089169+00:00",
   "edicion": "2026-11-23",
   "noticias": [
     {
       "categoria": "Mercados y precios",
-      "titulo": "El cacao colombiano se consolida en el mercado global con cifras récord y apuestas de valor",
-      "resumen": "El cacao colombiano se consolida en el mercado global con cifras récord y apuestas de valor",
+      "titulo": "Ganado bovino bajó de precio en el mercado nacional, pero Santander registró un alza de 12%",
+      "resumen": "Ganado bovino bajó de precio en el mercado nacional, pero Santander registró un alza de 12%",
       "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "IFM Noticias",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWZnVDc1ZkN2QUJpMTE2cjk1eDFtZkp4T3g5UDgxY2pzdFJrbERNMkhBT1poNXBlM0Iza0RVeUpONUNWMnd6VF9xMS1kNk85N09MVWQzLVNpbHBCb2RyTGV1LWhwaVlvV2dmQUZDcTZJUWxHcmtyNFgtUXBMejhtZ3F6SUtPSHk5WVF1N1BPYnJPVVU0clhtMm1Ld3lWekZNN0xfb3dqR3pPQ1Y0NnE0Wi13?oc=5",
-      "fecha": "2026-11-22T20:30:00+00:00",
-      "puntaje": 6.54,
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRU03cUR2bm1JVzNnWTlXRXFzd1hXdGtVX1ZQM3J4azdyZG1JOUQtQjNXdk5ZbGtIWHVFckVPdzVIajhlcE9NcE9PcGFBYTlIeUVDOFVWZGhoS25lb1NEeGQxc2FuSlRTS1RhdHh4eWd2Ym5DcnA0NjYxNFF3RldKUHhFZnMtSnlBOWZXOEdESVlvY2JVTFRqZkNBTEtqT1HSAZ8BQVVfeXFMUGwzc3NrMy05MUloSWk0YWtFdHloc2lTUVFKWURNd1huR1NiSnlzbmpzUFdiclNLTkh2aEdDbHdNQTZ2cFJjQXY1alFZZzFjdXlKSms2QUdIX1N3QlFZMDYxVWdvTjRKbkNjVTAxMlZkbXZobUoxMW1weV9KeHRZODRaOVlTSzhJcHJmNHAzRkt1ZWNTejFXc1B6bm8wNEpZ?oc=5",
+      "fecha": "2026-11-23T15:59:16+00:00",
+      "puntaje": 13.54,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Ideam prevé lluvias fuertes este lunes en departamentos como Chocó, Cauca y Nariño",
+      "resumen": "Ideam prevé lluvias fuertes este lunes en departamentos como Chocó, Cauca y Nariño",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejBfelNSaHFNWFNTRG1qQllsNnpUdjdsQXNzQkloMzJxYTY4VzhaNWlVYzlaYkdOZlEyUTZpRVZ5REttMElzeUpDXzRWUjdkeXg3WTVCTmJZZnE0aGIxOFRKekphTkNJWnFMRjNWMlRwMS1WOFQ2Vi1QWGhyT2UtVy1LUHJvYVhlNnpDWldCM3llRy16clpwNDRUZTlXSzgzbldoNmdFM0FWYkpZdWNOdkZVV01sdVQ2ckFmWDlZbETSAcABQVVfeXFMUHowX3pTUmhxTVhTU0RtakJZbDZ6VHY3bEFzc0JJaDMycWE2OFc4WjVpVWM5WmJHTmZRMlE2aUVWeURLbTBJc3lKQ180VlI3ZHl4N1k1Qk5iWWZxNGhiMThUSnpKYU5DSVpxTEYzVjJUcDEtVjhUNlYtUFhock9lLVctS1Byb2FYZTZ6Q1pXQjN5ZUctenJacDQ0VGU5V0s4M25XaDZnRTNBVmJKWXVjTnZGVVdNbHVUNnJBZlg5WWxE?oc=5",
+      "fecha": "2026-11-23T14:44:21+00:00",
+      "puntaje": 12.19,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Fedegan 5.0: así busca Lafaurie transformar la educación y el conocimiento del sector ganadero",
+      "resumen": "Fedegan 5.0: así busca Lafaurie transformar la educación y el conocimiento del sector ganadero",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcEpFdUpidWx0VWtNYUZyeHpTSWREd1pFanppdHpfNWV2dVlWYlIyY3hNdV8wYndKNGxMbDVRTkFQY2xGNlJTSDk4N3h5dUtxVzJpZk5OSjBWYm11RWVtTVE0S0JMcUk1RDJLQzFGS3ZLYTE4Q0VfaE1rOFo5am9LSWtFc09GcTVjb1FUcW95UzgzZ2htTFZVVERTNDQ3ZFpPaHhZektHY05ST2RqZjZhbElySWR2WHdKbGRmUUdSaHZJMU95YXpFT21sMUhMT0ZL0gHQAUFVX3lxTE1jR2NEaTNTUFpHUkljT1Z2eVNOQWZwTDBlaTdWYjR2T093QWNOeHRiWjZrVDNDV1pwV0FxUEp1c1Zjd0ptZHBUNHFwX0pZRkxYSmszZm1GSEUzZF9iMzhVa1U3akg2SWpURHRSemxfSzRxalQ4ZVczMXRGVlg2ZDNBNGRQeDM0Tm1Db2ZuX3VIUHdZY1VQQmktbFFaSmM5TTN4WFlmRjhmUEdDZTRwVGExOUVSd1BocEtfNWdSbVU1MWVfUllVajJaOC1hazJoLTk?oc=5",
+      "fecha": "2026-11-23T20:48:50+00:00",
+      "puntaje": 11.88,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -24,8 +52,8 @@
       "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
       "fuente": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFFvM05jNFhWV0VVNEFUTjZNNXF0bWZCMHRQRkFhZlJQTGpuQUFMVnAyZ25xWVdTWWdMS1BhXzM0U29ENWhjRDFRSC1KdnBvMjhoOU5XcUdzQmJuUXZKU2x0dWZKRWJOQ0Y2MG1EUE9zSDVGaGh0VndDcU85QVZxUWtZVEtkVUlBNllpUVVFM1g2a1Q5em9QdWpPVENxZEpYY1JzSjZyMmxfZC14OUJBMno4d1dnUnNObHE0bkhFNzk4Q1VjdGRhZdIB3AFBVV95cUxPdDlEMVh1RUV6dFhtOXE1U3B6aFZLdXhZVk9uckFyZi1HdkdUYW1QUGZic1lqM254TkJLNklfcTZkZWI4UWFaeGxfcEpfeHRjdGF1dWNudUotekpaMzFqYkEyYVUtM2F6eGxlWklVbk8yNjFlSjVZNGMzUmZUSFdLMzhkNGszMExQNjVMenZkV1czZ1VFVTFwRGlnMk9QdjAzTy1NcXh3czFkRXdwVEphTGY1c1hYNktiQmpyLU9HU1FLVHFuSjNsWGUzSHpYb0hZeUZxdlZfSGNVRC16?oc=5",
-      "fecha": "2026-11-22T03:20:45+00:00",
-      "puntaje": 4.78,
+      "fecha": "2026-11-23T08:54:47+00:00",
+      "puntaje": 9.57,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -33,27 +61,13 @@
     },
     {
       "categoria": "Agro general",
-      "titulo": "Compras públicas buscan abrir mercado a los campesinos de Risaralda",
-      "resumen": "Compras públicas buscan abrir mercado a los campesinos de Risaralda",
+      "titulo": "¿Cultiva papa, plátano o maíz en Cundinamarca? PepsiCo anuncia compras directas a campesinos colombianos",
+      "resumen": "¿Cultiva papa, plátano o maíz en Cundinamarca? PepsiCo anuncia compras directas a campesinos colombianos",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Eje21",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEZCNGprT1hhbm0wRnNHS0VCQ1VRYXR4SmFGT01qSzVPc0J4cEhZV0lJQ19JcmQyMFpLRkc3UGZTN3FCMFE5aXVPWjFLS3IzWEtJdXhyRW1ETTdCMGdXczdORVdFd210LV9mVkx4Q0ZFNER5SjFsZ3Nqd2wtUXhtOThISzloWjlfQzBHSFlBdmtuLTN2SmRia1ZuQmNESmNJclVz?oc=5",
-      "fecha": "2026-11-22T12:50:20+00:00",
-      "puntaje": 4.42,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Alianza estratégica en Colombia para impulsar el desarrollo rural a través de la ciencia y la innovación",
-      "resumen": "Alianza estratégica en Colombia para impulsar el desarrollo rural a través de la ciencia y la innovación",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Ecos del Combeima",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLUloVVctaW83SXNWTENuWFlSMUNzMzgwazgxMkxCQmVkVnZUdWVNN2gxTUE0Qm5sZ2I0QmQ4Z3JnbWlhR0pHcEdGcFdScjVjMVpfNVZNMkg5SzZycFpWaGVZZS1jSTZmMmRVTG15bXcwV0lyakNfU0ZSMG9RSWRncEM0MWtWUHotM3VNdmRxZjR4ckVRb2FrX1drbGw0d0lQVWQ2MjJFYXZLcDNEemczWTdzZUNHbktmTnh3YkhVb2E3OE5PQUVoZDNReHppRHdSNms4akJjUm4?oc=5",
-      "fecha": "2026-11-22T04:19:23+00:00",
-      "puntaje": 2.05,
+      "fuente": "PortalNews \"Noticias & Actualidad 7/24\"",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0lvbUh0MUdYMnhhNzlVSmg2WjEtalRNYlpRM24zTGVEeXpyZWF0LUVMVFYycWI3ZXdnTkVndTc0SzhVbFhUZ0pscVlUakItTF9mSkVDREJQd0Y5aFh3UkVGcmM2WE1HQlJLR255NlJhVUhXSndCTUUyaUd0UmlSWVlBWQ?oc=5",
+      "fecha": "2026-11-23T16:32:19+00:00",
+      "puntaje": 8.69,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
