@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-23T21:15:00.089169+00:00",
+  "generado": "2026-11-23T22:05:41.260516+00:00",
   "edicion": "2026-11-23",
   "noticias": [
+    {
+      "categoria": "Clima",
+      "titulo": "Ideam prevé lluvias en el Pacífico y el occidente de los Andes durante la semana, pese al déficit de precipitaciones por El Niño",
+      "resumen": "Ideam prevé lluvias en el Pacífico y el occidente de los Andes durante la semana, pese al déficit de precipitaciones por El Niño",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "IFM Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR080ekFMaGFrQjc2RzZGS1lYS3o1T0NGRmhxTG5oX3c3SjFNTFBuYXd4SVA5eVA2d3RDM0xLbVh0Z214SGhRVlFmVEFUMGhhV0VuUDZqSEJWTVRtVFJRREY1cVpDNE1TeGVHMElvb1VGd2RIZ3hrS2RlXzJCSTdvaHFHOHl6VHhsUGFqeWdzUF9oRkxPQUJrVExNNUs2Mzh5bzY1cFM4UHhDalE4NGF5NV82UXZUTFRrUDhGaVpwSHpjclJtaURXbmh4LWdtOTRjaW1oV3hFc1BKSzQtVVpqRkNMOEg0RlM0Y1V5a0c5eVRyOGMyWHF6UnZqbw?oc=5",
+      "fecha": "2026-11-23T21:39:04+00:00",
+      "puntaje": 14.88,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Mercados y precios",
       "titulo": "Ganado bovino bajó de precio en el mercado nacional, pero Santander registró un alza de 12%",
@@ -11,7 +25,7 @@
       "fuente": "Agronegocios",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRU03cUR2bm1JVzNnWTlXRXFzd1hXdGtVX1ZQM3J4azdyZG1JOUQtQjNXdk5ZbGtIWHVFckVPdzVIajhlcE9NcE9PcGFBYTlIeUVDOFVWZGhoS25lb1NEeGQxc2FuSlRTS1RhdHh4eWd2Ym5DcnA0NjYxNFF3RldKUHhFZnMtSnlBOWZXOEdESVlvY2JVTFRqZkNBTEtqT1HSAZ8BQVVfeXFMUGwzc3NrMy05MUloSWk0YWtFdHloc2lTUVFKWURNd1huR1NiSnlzbmpzUFdiclNLTkh2aEdDbHdNQTZ2cFJjQXY1alFZZzFjdXlKSms2QUdIX1N3QlFZMDYxVWdvTjRKbkNjVTAxMlZkbXZobUoxMW1weV9KeHRZODRaOVlTSzhJcHJmNHAzRkt1ZWNTejFXc1B6bm8wNEpZ?oc=5",
       "fecha": "2026-11-23T15:59:16+00:00",
-      "puntaje": 13.54,
+      "puntaje": 13.3,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,7 +39,7 @@
       "fuente": "Agronegocios",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejBfelNSaHFNWFNTRG1qQllsNnpUdjdsQXNzQkloMzJxYTY4VzhaNWlVYzlaYkdOZlEyUTZpRVZ5REttMElzeUpDXzRWUjdkeXg3WTVCTmJZZnE0aGIxOFRKekphTkNJWnFMRjNWMlRwMS1WOFQ2Vi1QWGhyT2UtVy1LUHJvYVhlNnpDWldCM3llRy16clpwNDRUZTlXSzgzbldoNmdFM0FWYkpZdWNOdkZVV01sdVQ2ckFmWDlZbETSAcABQVVfeXFMUHowX3pTUmhxTVhTU0RtakJZbDZ6VHY3bEFzc0JJaDMycWE2OFc4WjVpVWM5WmJHTmZRMlE2aUVWeURLbTBJc3lKQ180VlI3ZHl4N1k1Qk5iWWZxNGhiMThUSnpKYU5DSVpxTEYzVjJUcDEtVjhUNlYtUFhock9lLVctS1Byb2FYZTZ6Q1pXQjN5ZUctenJacDQ0VGU5V0s4M25XaDZnRTNBVmJKWXVjTnZGVVdNbHVUNnJBZlg5WWxE?oc=5",
       "fecha": "2026-11-23T14:44:21+00:00",
-      "puntaje": 12.19,
+      "puntaje": 11.96,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,21 +53,7 @@
       "fuente": "Agronegocios",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcEpFdUpidWx0VWtNYUZyeHpTSWREd1pFanppdHpfNWV2dVlWYlIyY3hNdV8wYndKNGxMbDVRTkFQY2xGNlJTSDk4N3h5dUtxVzJpZk5OSjBWYm11RWVtTVE0S0JMcUk1RDJLQzFGS3ZLYTE4Q0VfaE1rOFo5am9LSWtFc09GcTVjb1FUcW95UzgzZ2htTFZVVERTNDQ3ZFpPaHhZektHY05ST2RqZjZhbElySWR2WHdKbGRmUUdSaHZJMU95YXpFT21sMUhMT0ZL0gHQAUFVX3lxTE1jR2NEaTNTUFpHUkljT1Z2eVNOQWZwTDBlaTdWYjR2T093QWNOeHRiWjZrVDNDV1pwV0FxUEp1c1Zjd0ptZHBUNHFwX0pZRkxYSmszZm1GSEUzZF9iMzhVa1U3akg2SWpURHRSemxfSzRxalQ4ZVczMXRGVlg2ZDNBNGRQeDM0Tm1Db2ZuX3VIUHdZY1VQQmktbFFaSmM5TTN4WFlmRjhmUEdDZTRwVGExOUVSd1BocEtfNWdSbVU1MWVfUllVajJaOC1hazJoLTk?oc=5",
       "fecha": "2026-11-23T20:48:50+00:00",
-      "puntaje": 11.88,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "Último reporte del IDEAM: ¿Lloverá o hará sol? Clima y alertas fin de semana 21 y 22 de noviembre",
-      "resumen": "Último reporte del IDEAM: ¿Lloverá o hará sol? Clima y alertas fin de semana 21 y 22 de noviembre",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZFFvM05jNFhWV0VVNEFUTjZNNXF0bWZCMHRQRkFhZlJQTGpuQUFMVnAyZ25xWVdTWWdMS1BhXzM0U29ENWhjRDFRSC1KdnBvMjhoOU5XcUdzQmJuUXZKU2x0dWZKRWJOQ0Y2MG1EUE9zSDVGaGh0VndDcU85QVZxUWtZVEtkVUlBNllpUVVFM1g2a1Q5em9QdWpPVENxZEpYY1JzSjZyMmxfZC14OUJBMno4d1dnUnNObHE0bkhFNzk4Q1VjdGRhZdIB3AFBVV95cUxPdDlEMVh1RUV6dFhtOXE1U3B6aFZLdXhZVk9uckFyZi1HdkdUYW1QUGZic1lqM254TkJLNklfcTZkZWI4UWFaeGxfcEpfeHRjdGF1dWNudUotekpaMzFqYkEyYVUtM2F6eGxlWklVbk8yNjFlSjVZNGMzUmZUSFdLMzhkNGszMExQNjVMenZkV1czZ1VFVTFwRGlnMk9QdjAzTy1NcXh3czFkRXdwVEphTGY1c1hYNktiQmpyLU9HU1FLVHFuSjNsWGUzSHpYb0hZeUZxdlZfSGNVRC16?oc=5",
-      "fecha": "2026-11-23T08:54:47+00:00",
-      "puntaje": 9.57,
+      "puntaje": 11.64,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -67,7 +67,7 @@
       "fuente": "PortalNews \"Noticias & Actualidad 7/24\"",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0lvbUh0MUdYMnhhNzlVSmg2WjEtalRNYlpRM24zTGVEeXpyZWF0LUVMVFYycWI3ZXdnTkVndTc0SzhVbFhUZ0pscVlUakItTF9mSkVDREJQd0Y5aFh3UkVGcmM2WE1HQlJLR255NlJhVUhXSndCTUUyaUd0UmlSWVlBWQ?oc=5",
       "fecha": "2026-11-23T16:32:19+00:00",
-      "puntaje": 8.69,
+      "puntaje": 8.46,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
