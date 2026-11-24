@@ -1,17 +1,59 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-24T17:33:37.339887+00:00",
+  "generado": "2026-11-24T20:42:04.908799+00:00",
   "edicion": "2026-11-24",
   "noticias": [
+    {
+      "categoria": "Sanidad",
+      "titulo": "ICA alerta sobre insecto que amenaza cultivos de papa, tomate y otros productos agrícolas",
+      "resumen": "ICA alerta sobre insecto que amenaza cultivos de papa, tomate y otros productos agrícolas",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHhDdUtqZHFDSGM4UVE4RFlyay1zLWgxVVRaQjV6aTlnX3lNOWRKQVdoOUJIWnNjRndETUlOTlVXcjBwSEtUQW5vZFl6cXFPRGM3bFNOOVJ5VVRMc29OWWhlVkU2Z0F6cm44eEYxQkRMek5EbTdkMzM2U3l1VjJveVB6aGJLUnFmSlhlaFBvUkVsUzMyUlI0dUZ2VGNQR1o5VnVWZUNobmNtUE5lMWdtQUxCT1RJcDNSVWV5QXBfTVl3NDVoaDlPT1FaTjQ5bVhYYUHSAdIBQVVfeXFMTkxLV1drZzQyTWoyQXg4RXNpbHdmYVNlQzZVOVFPOUhEaS1BUTNyTGZkRGRkUFhXQ1hES21YTXQ0RzFqa1psMmNvbjlibGJwVExTME15c3BRWldCamlSazM0N2Vpb054eDdkTHB3eXBPZU5laE1teXluejZqQzBQVUtuZkY0VTZ4OXVITjRCTC1JVElOUmNWTGQ5cXQ3c2thX2JBTFZTSmZLT2ptUVVHY0F4ZWMtcFRyel9WT1pBcVc5QVR3ZkJuVWNSeTc3TlF0RnZB?oc=5",
+      "fecha": "2026-11-24T20:18:58+00:00",
+      "puntaje": 16.89,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Sanidad",
       "titulo": "¡Identifica, prevén y reporta! El ICA invita a proteger los cultivos de solanáceas frente al complejo Bactericera cockerelli - Punta Morada de la Papa y Zebra Chip - Instituto Colombiano Agropecuario",
       "resumen": "¡Identifica, prevén y reporta! El ICA invita a proteger los cultivos de solanáceas frente al complejo Bactericera cockerelli - Punta Morada de la Papa y Zebra Chip - Instituto Colo",
       "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
       "fuente": "Instituto Colombiano Agropecuario - ICA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckw3NWZhSVZRUnJERzg0dWRkUjd2dnoyQWVybExvOEpqV3Rka1N2QmhhNVJTTjJ0V29zSmpSeV8tdmZjdkxTaFhsTktYNnhRWnpRMXRrMnpYX0hUWFc2MVg1M3VNTDFva3lzWHlMR2tKUGFFZlJiaVl5a1pLNGxCMXhoWXVYVWRsbkE?oc=5",
-      "fecha": "2026-11-24T17:26:33+00:00",
-      "puntaje": 14.97,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWxZaWkydjBZaUVIWWNsVGdiWE1IOUk1QnJVbW8ybF9ja1RVWWhRYnBMVnlsOGVZVEd1YkswMlFoWERnSV91RGRDektBTjdoUmY1NHdiQUZvRHQ1TmExdUdSVWlFZzRJVlVfLVZLX0tyWm9HTERXVWFvUm5VMmhUV2JR?oc=5",
+      "fecha": "2026-11-24T17:31:46+00:00",
+      "puntaje": 14.12,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "El precio interno del café colombiano también depende de lo que sucede en la política brasilera",
+      "resumen": "El precio interno del café colombiano también depende de lo que sucede en la política brasilera",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Periódico UNAL",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnR1X3UzSmxHRkktcWNMSjAtSXE5dlVEeWJYYWxZVk8tN3NKcVo1azdNazNPTlhJRU4yb2ExdEIxUEF6dlZ4OXEyQ05SbndHTlBuX3VhcUVOM3dkdkJmVnJLNEtMT1JiV1czMkY1VWRPMVluN0lrcVd6bG93ald6ZGsxejJJQWdtWFVRQVNfTlQtTlh2QXJiWkt5ODFfYmxDRmlBWjRUWWFPdV96N2t2dlFwek5NR0pvWE9wcjV4UDFabjl2ZHNWbHFaUzN1TkE?oc=5",
+      "fecha": "2026-11-24T18:29:26+00:00",
+      "puntaje": 12.39,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "Ni prohibir ni dividir: La coexistencia agrícola que Colombia necesita",
+      "resumen": "Ni prohibir ni dividir: La coexistencia agrícola que Colombia necesita",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQajZUVURPVURES3daVmxDdWVrSnItYlVPOV9kMDFocDdYdG1XLVB4c3NGTEZXUXNWOGZTcU1rMG9RVHBjRklRdzdPMk1RbW0zR1hodGNpaTNfZ0lCYUVSTWF4Vlk5QUJtR3llU1FEdzNCTHJwdUQ0UFNFUEhNVHNvM2ozaXlXWlRoTzlKQ05nM2xJa3FrTmk2a2ZPSTRETFVkbUpDSDY5TmxVQ0NpMlY0dFV3bWxYM1hTOEN2M1NKUEtLaU15MDRjMC1EY0FzM3ZDZ0plWlY2UlFraWhYX05OakNR0gHiAUFVX3lxTE5WUGxzdHEwOTZpTlc2ZF9RcVNwa3N2b1J0TFhJVG9PTURFS091YlBlR0o2QndhY0ZGeTdSUi1tekU5WVhXUk9IQ1l6MDNNeEExNTNYMkVvQmVWdk5EUV9Tb192OVliQ0VoVS1uUzhZOVNjWHRUeDVlOVk1dWhlbmhiTDU4R2NJZ2VZNFlreTNMTE1BXzhqSXZTSlRwVm9lcGt2cllEcVFwOEZhSTM0djN1WlRaTDdwTTVjRXdSY3VHRExRZzFkVjJvRXlNUTBBXzNSNWEtbHYzdEdQcDhham80WGc?oc=5",
+      "fecha": "2026-11-24T20:31:00+00:00",
+      "puntaje": 11.95,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,49 +67,7 @@
       "fuente": "Mas Colombia",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sdEV3X0t3WENKYlIwbHRjUl9EdkR2T3dJeUJpZUxFZWVneWRFTGZCSVNnV0NkOWJFNHVOTGUyRVcyNkJ0VUg2STVhVV8tTXBtNFJCTkhRN1BJY21KQ2lWMlg1Rng1d9IBZkFVX3lxTE5sdEV3X0t3WENKYlIwbHRjUl9EdkR2T3dJeUJpZUxFZWVneWRFTGZCSVNnV0NkOWJFNHVOTGUyRVcyNkJ0VUg2STVhVV8tTXBtNFJCTkhRN1BJY21KQ2lWMlg1Rng1dw?oc=5",
       "fecha": "2026-11-24T11:34:46+00:00",
-      "puntaje": 10.34,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "¿Y por casa cómo andamos? Colombia consiguió financiamiento internacional por 50 millones de dólares para capacitar a 70 mil jóvenes rurales y promover el recambio generacional",
-      "resumen": "¿Y por casa cómo andamos? Colombia consiguió financiamiento internacional por 50 millones de dólares para capacitar a 70 mil jóvenes rurales y promover el recambio generacional",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Bichos de Campo",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQbDZ0SHFGVzdYV3dVc3I2dUxRUzM2TGZCcXdZaUxjMGU2RVU3MUJrTjJhS25XS1BGQ0YyMnloZThTUlpvbFZIaXFSZkhHNUpxVGdPQkpGc1pYR1UxR1hFNDRiOFdMTmZwZEZUTWpiajhLd1IwUjQ0SEFEWHY0UWh1MTlhRFFVaWZISGN3dmRtcFBYbFNSc0VOclBGZGtGT01kSmtwM1pzalBTOHpYc0I5RGY0VGNoMGxvNDVhT0o3a2F3R2lIRnRDNVM2ZWM5dGVxdWEtLTFES054ZWlYSW5NbGpNV1dPdUNteFhCM1lSTTJxY3FndExyMkkwblZzYk1WX3V3QjVpcFFvTUc2RDBzSUVXTG9uT2dpbFFiYVdzcXVGZmhBekpNXw?oc=5",
-      "fecha": "2026-11-24T16:34:40+00:00",
-      "puntaje": 9.73,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "Ideam prevé lluvias en el Pacífico y el occidente de los Andes durante la semana, pese al déficit de precipitaciones por El Niño",
-      "resumen": "Ideam prevé lluvias en el Pacífico y el occidente de los Andes durante la semana, pese al déficit de precipitaciones por El Niño",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "IFM Noticias",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR080ekFMaGFrQjc2RzZGS1lYS3o1T0NGRmhxTG5oX3c3SjFNTFBuYXd4SVA5eVA2d3RDM0xLbVh0Z214SGhRVlFmVEFUMGhhV0VuUDZqSEJWTVRtVFJRREY1cVpDNE1TeGVHMElvb1VGd2RIZ3hrS2RlXzJCSTdvaHFHOHl6VHhsUGFqeWdzUF9oRkxPQUJrVExNNUs2Mzh5bzY1cFM4UHhDalE4NGF5NV82UXZUTFRrUDhGaVpwSHpjclJtaURXbmh4LWdtOTRjaW1oV3hFc1BKSzQtVVpqRkNMOEg0RlM0Y1V5a0c5eVRyOGMyWHF6UnZqbw?oc=5",
-      "fecha": "2026-11-23T21:39:04+00:00",
       "puntaje": 9.47,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Café Colombia Hoy 24/11: Pierde Terreno y Dólar Gana Fuerza",
-      "resumen": "Café Colombia Hoy 24/11: Pierde Terreno y Dólar Gana Fuerza",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Daily Forex",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEZHNFhvb0J1V2x1RUt1RHpkSHlXZXN2NHNIbFVsSTVyVTVEUzY4TjhMZE9oRjhPSDdJMGhqSUdiQTlxeTdXUmsyQzJzRUoxQkd6WFB2N0N5QmNrMk5nY29sVG1wVzVhUFVJUjJFSC1ZcHJaNE80Q2xxWXU2WVFaVGVKYlRPVGxVcVBkYmFJcWNySVlYX3VzSVRFNUg3Q2xZTTA5WlNPLUQ2ay1aeUxsTDlMVUJETk1yS3luZWtaZk12cjhzd0JRTGkzSjZTUG1UakVv?oc=5",
-      "fecha": "2026-11-24T13:33:29+00:00",
-      "puntaje": 8.89,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
