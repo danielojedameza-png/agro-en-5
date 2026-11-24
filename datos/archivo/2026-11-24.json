@@ -1,8 +1,50 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-24T05:56:55.325750+00:00",
+  "generado": "2026-11-24T17:33:37.339887+00:00",
   "edicion": "2026-11-24",
   "noticias": [
+    {
+      "categoria": "Sanidad",
+      "titulo": "¡Identifica, prevén y reporta! El ICA invita a proteger los cultivos de solanáceas frente al complejo Bactericera cockerelli - Punta Morada de la Papa y Zebra Chip - Instituto Colombiano Agropecuario",
+      "resumen": "¡Identifica, prevén y reporta! El ICA invita a proteger los cultivos de solanáceas frente al complejo Bactericera cockerelli - Punta Morada de la Papa y Zebra Chip - Instituto Colo",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "Instituto Colombiano Agropecuario - ICA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOckw3NWZhSVZRUnJERzg0dWRkUjd2dnoyQWVybExvOEpqV3Rka1N2QmhhNVJTTjJ0V29zSmpSeV8tdmZjdkxTaFhsTktYNnhRWnpRMXRrMnpYX0hUWFc2MVg1M3VNTDFva3lzWHlMR2tKUGFFZlJiaVl5a1pLNGxCMXhoWXVYVWRsbkE?oc=5",
+      "fecha": "2026-11-24T17:26:33+00:00",
+      "puntaje": 14.97,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "El ICA tiene habilitados 223 predios productores de limón Tahití para la Unión Europea: 121 están en Nariño",
+      "resumen": "El ICA tiene habilitados 223 predios productores de limón Tahití para la Unión Europea: 121 están en Nariño",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Mas Colombia",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sdEV3X0t3WENKYlIwbHRjUl9EdkR2T3dJeUJpZUxFZWVneWRFTGZCSVNnV0NkOWJFNHVOTGUyRVcyNkJ0VUg2STVhVV8tTXBtNFJCTkhRN1BJY21KQ2lWMlg1Rng1d9IBZkFVX3lxTE5sdEV3X0t3WENKYlIwbHRjUl9EdkR2T3dJeUJpZUxFZWVneWRFTGZCSVNnV0NkOWJFNHVOTGUyRVcyNkJ0VUg2STVhVV8tTXBtNFJCTkhRN1BJY21KQ2lWMlg1Rng1dw?oc=5",
+      "fecha": "2026-11-24T11:34:46+00:00",
+      "puntaje": 10.34,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "¿Y por casa cómo andamos? Colombia consiguió financiamiento internacional por 50 millones de dólares para capacitar a 70 mil jóvenes rurales y promover el recambio generacional",
+      "resumen": "¿Y por casa cómo andamos? Colombia consiguió financiamiento internacional por 50 millones de dólares para capacitar a 70 mil jóvenes rurales y promover el recambio generacional",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Bichos de Campo",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQbDZ0SHFGVzdYV3dVc3I2dUxRUzM2TGZCcXdZaUxjMGU2RVU3MUJrTjJhS25XS1BGQ0YyMnloZThTUlpvbFZIaXFSZkhHNUpxVGdPQkpGc1pYR1UxR1hFNDRiOFdMTmZwZEZUTWpiajhLd1IwUjQ0SEFEWHY0UWh1MTlhRFFVaWZISGN3dmRtcFBYbFNSc0VOclBGZGtGT01kSmtwM1pzalBTOHpYc0I5RGY0VGNoMGxvNDVhT0o3a2F3R2lIRnRDNVM2ZWM5dGVxdWEtLTFES054ZWlYSW5NbGpNV1dPdUNteFhCM1lSTTJxY3FndExyMkkwblZzYk1WX3V3QjVpcFFvTUc2RDBzSUVXTG9uT2dpbFFiYVdzcXVGZmhBekpNXw?oc=5",
+      "fecha": "2026-11-24T16:34:40+00:00",
+      "puntaje": 9.73,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Clima",
       "titulo": "Ideam prevé lluvias en el Pacífico y el occidente de los Andes durante la semana, pese al déficit de precipitaciones por El Niño",
@@ -11,7 +53,7 @@
       "fuente": "IFM Noticias",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR080ekFMaGFrQjc2RzZGS1lYS3o1T0NGRmhxTG5oX3c3SjFNTFBuYXd4SVA5eVA2d3RDM0xLbVh0Z214SGhRVlFmVEFUMGhhV0VuUDZqSEJWTVRtVFJRREY1cVpDNE1TeGVHMElvb1VGd2RIZ3hrS2RlXzJCSTdvaHFHOHl6VHhsUGFqeWdzUF9oRkxPQUJrVExNNUs2Mzh5bzY1cFM4UHhDalE4NGF5NV82UXZUTFRrUDhGaVpwSHpjclJtaURXbmh4LWdtOTRjaW1oV3hFc1BKSzQtVVpqRkNMOEg0RlM0Y1V5a0c5eVRyOGMyWHF6UnZqbw?oc=5",
       "fecha": "2026-11-23T21:39:04+00:00",
-      "puntaje": 12.7,
+      "puntaje": 9.47,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -19,55 +61,13 @@
     },
     {
       "categoria": "Mercados y precios",
-      "titulo": "Ganado bovino bajó de precio en el mercado nacional, pero Santander registró un alza de 12%",
-      "resumen": "Ganado bovino bajó de precio en el mercado nacional, pero Santander registró un alza de 12%",
+      "titulo": "Café Colombia Hoy 24/11: Pierde Terreno y Dólar Gana Fuerza",
+      "resumen": "Café Colombia Hoy 24/11: Pierde Terreno y Dólar Gana Fuerza",
       "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Agronegocios",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRU03cUR2bm1JVzNnWTlXRXFzd1hXdGtVX1ZQM3J4azdyZG1JOUQtQjNXdk5ZbGtIWHVFckVPdzVIajhlcE9NcE9PcGFBYTlIeUVDOFVWZGhoS25lb1NEeGQxc2FuSlRTS1RhdHh4eWd2Ym5DcnA0NjYxNFF3RldKUHhFZnMtSnlBOWZXOEdESVlvY2JVTFRqZkNBTEtqT1HSAZ8BQVVfeXFMUGwzc3NrMy05MUloSWk0YWtFdHloc2lTUVFKWURNd1huR1NiSnlzbmpzUFdiclNLTkh2aEdDbHdNQTZ2cFJjQXY1alFZZzFjdXlKSms2QUdIX1N3QlFZMDYxVWdvTjRKbkNjVTAxMlZkbXZobUoxMW1weV9KeHRZODRaOVlTSzhJcHJmNHAzRkt1ZWNTejFXc1B6bm8wNEpZ?oc=5",
-      "fecha": "2026-11-23T15:59:16+00:00",
-      "puntaje": 11.12,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "FINAGRO y PNUD buscan transformar el crédito agropecuario para impulsar la producción sostenible",
-      "resumen": "FINAGRO y PNUD buscan transformar el crédito agropecuario para impulsar la producción sostenible",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "United Nations Development Programme",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2tkN1hGRjd4V0N3NE5IbHB2YWdxMUd3M0F5U2huUTJKWFV3Zm1ScTdTZzlNcjlZcDk4Mzl0NkhDMGhITUFtQWJSYVJGQ1FVZUczd1ZYMDJtNEl1dm5QQjRzNWFzU0VFMVJBcnJzZndEMmNQQXdfeXptYk5YcV9hN180aTMxWmFOUEM4VTBzaU50cEZrc281ZkI2N1F3Qmp1WEtuc0JmRXJUQXhYc2R2MUpUZTgtRzVUMkpQLWRjQ0tBSGM?oc=5",
-      "fecha": "2026-11-23T21:09:14+00:00",
-      "puntaje": 10.56,
-      "herramienta": {
-        "texto": "Haz el diagnóstico gratuito de tu proyecto",
-        "url": "https://www.agrodasin.org.co/diagnostico/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "Ideam prevé lluvias fuertes este lunes en departamentos como Chocó, Cauca y Nariño",
-      "resumen": "Ideam prevé lluvias fuertes este lunes en departamentos como Chocó, Cauca y Nariño",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "Agronegocios",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVRvX25OTE1aUmE4U0hFR3hDa1lBNzBtbV9yYmp0TENqVVRkLWRHR19WcWhncG00WElYcEpnUG9BaUxsUkZEYkFnV1F6NG1ETmlOMktHbDRQRGk1NG4yTkluNnJLSEVwSXQwU2JXUE0ybG5BVzRZNnBhTFZpT2R1eGVDNnJJNjVPY1hZRVU2TUJDcC1FaHhIN1J0Sl84OEFLQ0VpcHh1UjBhOGdxdXk3U2FyNjVwaWpZMnFST2VpQznSAcABQVVfeXFMUHowX3pTUmhxTVhTU0RtakJZbDZ6VHY3bEFzc0JJaDMycWE2OFc4WjVpVWM5WmJHTmZRMlE2aUVWeURLbTBJc3lKQ180VlI3ZHl4N1k1Qk5iWWZxNGhiMThUSnpKYU5DSVpxTEYzVjJUcDEtVjhUNlYtUFhock9lLVctS1Byb2FYZTZ6Q1pXQjN5ZUctenJacDQ0VGU5V0s4M25XaDZnRTNBVmJKWXVjTnZGVVdNbHVUNnJBZlg5WWxE?oc=5",
-      "fecha": "2026-11-23T14:44:21+00:00",
-      "puntaje": 9.78,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "Fedegan 5.0: así busca Lafaurie transformar la educación y el conocimiento del sector ganadero",
-      "resumen": "Fedegan 5.0: así busca Lafaurie transformar la educación y el conocimiento del sector ganadero",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Agronegocios",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcEpFdUpidWx0VWtNYUZyeHpTSWREd1pFanppdHpfNWV2dVlWYlIyY3hNdV8wYndKNGxMbDVRTkFQY2xGNlJTSDk4N3h5dUtxVzJpZk5OSjBWYm11RWVtTVE0S0JMcUk1RDJLQzFGS3ZLYTE4Q0VfaE1rOFo5am9LSWtFc09GcTVjb1FUcW95UzgzZ2htTFZVVERTNDQ3ZFpPaHhZektHY05ST2RqZjZhbElySWR2WHdKbGRmUUdSaHZJMU95YXpFT21sMUhMT0ZL0gHQAUFVX3lxTE1jR2NEaTNTUFpHUkljT1Z2eVNOQWZwTDBlaTdWYjR2T093QWNOeHRiWjZrVDNDV1pwV0FxUEp1c1Zjd0ptZHBUNHFwX0pZRkxYSmszZm1GSEUzZF9iMzhVa1U3akg2SWpURHRSemxfSzRxalQ4ZVczMXRGVlg2ZDNBNGRQeDM0Tm1Db2ZuX3VIUHdZY1VQQmktbFFaSmM5TTN4WFlmRjhmUEdDZTRwVGExOUVSd1BocEtfNWdSbVU1MWVfUllVajJaOC1hazJoLTk?oc=5",
-      "fecha": "2026-11-23T20:48:50+00:00",
-      "puntaje": 9.46,
+      "fuente": "Daily Forex",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEZHNFhvb0J1V2x1RUt1RHpkSHlXZXN2NHNIbFVsSTVyVTVEUzY4TjhMZE9oRjhPSDdJMGhqSUdiQTlxeTdXUmsyQzJzRUoxQkd6WFB2N0N5QmNrMk5nY29sVG1wVzVhUFVJUjJFSC1ZcHJaNE80Q2xxWXU2WVFaVGVKYlRPVGxVcVBkYmFJcWNySVlYX3VzSVRFNUg3Q2xZTTA5WlNPLUQ2ay1aeUxsTDlMVUJETk1yS3luZWtaZk12cjhzd0JRTGkzSjZTUG1UakVv?oc=5",
+      "fecha": "2026-11-24T13:33:29+00:00",
+      "puntaje": 8.89,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
