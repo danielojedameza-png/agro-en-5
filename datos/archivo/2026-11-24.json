@@ -1,0 +1,77 @@
+{
+  "servicio": "Agro en 5 · AGRODASIN",
+  "generado": "2026-11-24T05:56:55.325750+00:00",
+  "edicion": "2026-11-24",
+  "noticias": [
+    {
+      "categoria": "Clima",
+      "titulo": "Ideam prevé lluvias en el Pacífico y el occidente de los Andes durante la semana, pese al déficit de precipitaciones por El Niño",
+      "resumen": "Ideam prevé lluvias en el Pacífico y el occidente de los Andes durante la semana, pese al déficit de precipitaciones por El Niño",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "IFM Noticias",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPR080ekFMaGFrQjc2RzZGS1lYS3o1T0NGRmhxTG5oX3c3SjFNTFBuYXd4SVA5eVA2d3RDM0xLbVh0Z214SGhRVlFmVEFUMGhhV0VuUDZqSEJWTVRtVFJRREY1cVpDNE1TeGVHMElvb1VGd2RIZ3hrS2RlXzJCSTdvaHFHOHl6VHhsUGFqeWdzUF9oRkxPQUJrVExNNUs2Mzh5bzY1cFM4UHhDalE4NGF5NV82UXZUTFRrUDhGaVpwSHpjclJtaURXbmh4LWdtOTRjaW1oV3hFc1BKSzQtVVpqRkNMOEg0RlM0Y1V5a0c5eVRyOGMyWHF6UnZqbw?oc=5",
+      "fecha": "2026-11-23T21:39:04+00:00",
+      "puntaje": 12.7,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Ganado bovino bajó de precio en el mercado nacional, pero Santander registró un alza de 12%",
+      "resumen": "Ganado bovino bajó de precio en el mercado nacional, pero Santander registró un alza de 12%",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRU03cUR2bm1JVzNnWTlXRXFzd1hXdGtVX1ZQM3J4azdyZG1JOUQtQjNXdk5ZbGtIWHVFckVPdzVIajhlcE9NcE9PcGFBYTlIeUVDOFVWZGhoS25lb1NEeGQxc2FuSlRTS1RhdHh4eWd2Ym5DcnA0NjYxNFF3RldKUHhFZnMtSnlBOWZXOEdESVlvY2JVTFRqZkNBTEtqT1HSAZ8BQVVfeXFMUGwzc3NrMy05MUloSWk0YWtFdHloc2lTUVFKWURNd1huR1NiSnlzbmpzUFdiclNLTkh2aEdDbHdNQTZ2cFJjQXY1alFZZzFjdXlKSms2QUdIX1N3QlFZMDYxVWdvTjRKbkNjVTAxMlZkbXZobUoxMW1weV9KeHRZODRaOVlTSzhJcHJmNHAzRkt1ZWNTejFXc1B6bm8wNEpZ?oc=5",
+      "fecha": "2026-11-23T15:59:16+00:00",
+      "puntaje": 11.12,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "FINAGRO y PNUD buscan transformar el crédito agropecuario para impulsar la producción sostenible",
+      "resumen": "FINAGRO y PNUD buscan transformar el crédito agropecuario para impulsar la producción sostenible",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "United Nations Development Programme",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2tkN1hGRjd4V0N3NE5IbHB2YWdxMUd3M0F5U2huUTJKWFV3Zm1ScTdTZzlNcjlZcDk4Mzl0NkhDMGhITUFtQWJSYVJGQ1FVZUczd1ZYMDJtNEl1dm5QQjRzNWFzU0VFMVJBcnJzZndEMmNQQXdfeXptYk5YcV9hN180aTMxWmFOUEM4VTBzaU50cEZrc281ZkI2N1F3Qmp1WEtuc0JmRXJUQXhYc2R2MUpUZTgtRzVUMkpQLWRjQ0tBSGM?oc=5",
+      "fecha": "2026-11-23T21:09:14+00:00",
+      "puntaje": 10.56,
+      "herramienta": {
+        "texto": "Haz el diagnóstico gratuito de tu proyecto",
+        "url": "https://www.agrodasin.org.co/diagnostico/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Ideam prevé lluvias fuertes este lunes en departamentos como Chocó, Cauca y Nariño",
+      "resumen": "Ideam prevé lluvias fuertes este lunes en departamentos como Chocó, Cauca y Nariño",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUVRvX25OTE1aUmE4U0hFR3hDa1lBNzBtbV9yYmp0TENqVVRkLWRHR19WcWhncG00WElYcEpnUG9BaUxsUkZEYkFnV1F6NG1ETmlOMktHbDRQRGk1NG4yTkluNnJLSEVwSXQwU2JXUE0ybG5BVzRZNnBhTFZpT2R1eGVDNnJJNjVPY1hZRVU2TUJDcC1FaHhIN1J0Sl84OEFLQ0VpcHh1UjBhOGdxdXk3U2FyNjVwaWpZMnFST2VpQznSAcABQVVfeXFMUHowX3pTUmhxTVhTU0RtakJZbDZ6VHY3bEFzc0JJaDMycWE2OFc4WjVpVWM5WmJHTmZRMlE2aUVWeURLbTBJc3lKQ180VlI3ZHl4N1k1Qk5iWWZxNGhiMThUSnpKYU5DSVpxTEYzVjJUcDEtVjhUNlYtUFhock9lLVctS1Byb2FYZTZ6Q1pXQjN5ZUctenJacDQ0VGU5V0s4M25XaDZnRTNBVmJKWXVjTnZGVVdNbHVUNnJBZlg5WWxE?oc=5",
+      "fecha": "2026-11-23T14:44:21+00:00",
+      "puntaje": 9.78,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Fedegan 5.0: así busca Lafaurie transformar la educación y el conocimiento del sector ganadero",
+      "resumen": "Fedegan 5.0: así busca Lafaurie transformar la educación y el conocimiento del sector ganadero",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcEpFdUpidWx0VWtNYUZyeHpTSWREd1pFanppdHpfNWV2dVlWYlIyY3hNdV8wYndKNGxMbDVRTkFQY2xGNlJTSDk4N3h5dUtxVzJpZk5OSjBWYm11RWVtTVE0S0JMcUk1RDJLQzFGS3ZLYTE4Q0VfaE1rOFo5am9LSWtFc09GcTVjb1FUcW95UzgzZ2htTFZVVERTNDQ3ZFpPaHhZektHY05ST2RqZjZhbElySWR2WHdKbGRmUUdSaHZJMU95YXpFT21sMUhMT0ZL0gHQAUFVX3lxTE1jR2NEaTNTUFpHUkljT1Z2eVNOQWZwTDBlaTdWYjR2T093QWNOeHRiWjZrVDNDV1pwV0FxUEp1c1Zjd0ptZHBUNHFwX0pZRkxYSmszZm1GSEUzZF9iMzhVa1U3akg2SWpURHRSemxfSzRxalQ4ZVczMXRGVlg2ZDNBNGRQeDM0Tm1Db2ZuX3VIUHdZY1VQQmktbFFaSmM5TTN4WFlmRjhmUEdDZTRwVGExOUVSd1BocEtfNWdSbVU1MWVfUllVajJaOC1hazJoLTk?oc=5",
+      "fecha": "2026-11-23T20:48:50+00:00",
+      "puntaje": 9.46,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    }
+  ]
+}
