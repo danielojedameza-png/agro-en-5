@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-24T20:42:04.908799+00:00",
+  "generado": "2026-11-25T02:20:30.941567+00:00",
   "edicion": "2026-11-24",
   "noticias": [
     {
@@ -11,7 +11,7 @@
       "fuente": "Agronegocios",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHhDdUtqZHFDSGM4UVE4RFlyay1zLWgxVVRaQjV6aTlnX3lNOWRKQVdoOUJIWnNjRndETUlOTlVXcjBwSEtUQW5vZFl6cXFPRGM3bFNOOVJ5VVRMc29OWWhlVkU2Z0F6cm44eEYxQkRMek5EbTdkMzM2U3l1VjJveVB6aGJLUnFmSlhlaFBvUkVsUzMyUlI0dUZ2VGNQR1o5VnVWZUNobmNtUE5lMWdtQUxCT1RJcDNSVWV5QXBfTVl3NDVoaDlPT1FaTjQ5bVhYYUHSAdIBQVVfeXFMTkxLV1drZzQyTWoyQXg4RXNpbHdmYVNlQzZVOVFPOUhEaS1BUTNyTGZkRGRkUFhXQ1hES21YTXQ0RzFqa1psMmNvbjlibGJwVExTME15c3BRWldCamlSazM0N2Vpb054eDdkTHB3eXBPZU5laE1teXluejZqQzBQVUtuZkY0VTZ4OXVITjRCTC1JVElOUmNWTGQ5cXQ3c2thX2JBTFZTSmZLT2ptUVVHY0F4ZWMtcFRyel9WT1pBcVc5QVR3ZkJuVWNSeTc3TlF0RnZB?oc=5",
       "fecha": "2026-11-24T20:18:58+00:00",
-      "puntaje": 16.89,
+      "puntaje": 15.33,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -25,7 +25,21 @@
       "fuente": "Instituto Colombiano Agropecuario - ICA",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWxZaWkydjBZaUVIWWNsVGdiWE1IOUk1QnJVbW8ybF9ja1RVWWhRYnBMVnlsOGVZVEd1YkswMlFoWERnSV91RGRDektBTjdoUmY1NHdiQUZvRHQ1TmExdUdSVWlFZzRJVlVfLVZLX0tyWm9HTERXVWFvUm5VMmhUV2JR?oc=5",
       "fecha": "2026-11-24T17:31:46+00:00",
-      "puntaje": 14.12,
+      "puntaje": 12.55,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Ni prohibir ni dividir: La coexistencia agrícola que Colombia necesita",
+      "resumen": "Ni prohibir ni dividir: La coexistencia agrícola que Colombia necesita",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "LaRepublica.co",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ3FKV3BHQlY5T0l4YnpXTThJc0FRVGJ6aF84TmZJR0RJY3VqalRjZjJMTlFyOG9XMlNscHg1MkZ3Zl9FenJuc2p5MzRYNUl6QlhqblN3OXRud1RrbWJSb2QwOTRBUXhoSXZaNkFLLWhkS2ZrWmRXWjBHLW5KSlB2cXVjeUktYkNEb0pDc3Zvem00THlReV9sSnplRU5yVFlyUzlKNzBrUFBzNGNhTDdmUGhHZmFIcXlpUndNeXU5WUZFSTU1VW5ZQmVoR1lqQnRDMW9RMjF1VE9PdXhLdGZGSNIB4gFBVV95cUxOVlBsc3RxMDk2aU5XNmRfUXFTcGtzdm9SdExYSVRvT01ERUtPdWJQZUdKNkJ3YWNGRnk3UlItbXpFOVlYV1JPSENZejAzTXhBMTUzWDJFb0JlVnZORFFfU29fdjlZYkNFaFUtblM4WTlTY1h0VHg1ZTlZNXVoZW5oYkw1OEdjSWdlWTRZa3kzTExNQV84akl2U0pUcFZvZXBrdnJZRHFRcDhGYUkzNHYzdVpUWkw3cE01Y0V3UmN1R0RMUWcxZFYyb0V5TVEwQV8zUjVhLWx2M3RHUHA4YWpvNFhn?oc=5",
+      "fecha": "2026-11-24T20:31:00+00:00",
+      "puntaje": 11.38,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,7 +53,7 @@
       "fuente": "Periódico UNAL",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnR1X3UzSmxHRkktcWNMSjAtSXE5dlVEeWJYYWxZVk8tN3NKcVo1azdNazNPTlhJRU4yb2ExdEIxUEF6dlZ4OXEyQ05SbndHTlBuX3VhcUVOM3dkdkJmVnJLNEtMT1JiV1czMkY1VWRPMVluN0lrcVd6bG93ald6ZGsxejJJQWdtWFVRQVNfTlQtTlh2QXJiWkt5ODFfYmxDRmlBWjRUWWFPdV96N2t2dlFwek5NR0pvWE9wcjV4UDFabjl2ZHNWbHFaUzN1TkE?oc=5",
       "fecha": "2026-11-24T18:29:26+00:00",
-      "puntaje": 12.39,
+      "puntaje": 10.82,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -47,27 +61,13 @@
     },
     {
       "categoria": "Agro general",
-      "titulo": "Ni prohibir ni dividir: La coexistencia agrícola que Colombia necesita",
-      "resumen": "Ni prohibir ni dividir: La coexistencia agrícola que Colombia necesita",
+      "titulo": "MinAgricultura y Microsoft se alían para modernizar tecnológicamente el sector agro",
+      "resumen": "MinAgricultura y Microsoft se alían para modernizar tecnológicamente el sector agro",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
       "fuente": "Agronegocios",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQajZUVURPVURES3daVmxDdWVrSnItYlVPOV9kMDFocDdYdG1XLVB4c3NGTEZXUXNWOGZTcU1rMG9RVHBjRklRdzdPMk1RbW0zR1hodGNpaTNfZ0lCYUVSTWF4Vlk5QUJtR3llU1FEdzNCTHJwdUQ0UFNFUEhNVHNvM2ozaXlXWlRoTzlKQ05nM2xJa3FrTmk2a2ZPSTRETFVkbUpDSDY5TmxVQ0NpMlY0dFV3bWxYM1hTOEN2M1NKUEtLaU15MDRjMC1EY0FzM3ZDZ0plWlY2UlFraWhYX05OakNR0gHiAUFVX3lxTE5WUGxzdHEwOTZpTlc2ZF9RcVNwa3N2b1J0TFhJVG9PTURFS091YlBlR0o2QndhY0ZGeTdSUi1tekU5WVhXUk9IQ1l6MDNNeEExNTNYMkVvQmVWdk5EUV9Tb192OVliQ0VoVS1uUzhZOVNjWHRUeDVlOVk1dWhlbmhiTDU4R2NJZ2VZNFlreTNMTE1BXzhqSXZTSlRwVm9lcGt2cllEcVFwOEZhSTM0djN1WlRaTDdwTTVjRXdSY3VHRExRZzFkVjJvRXlNUTBBXzNSNWEtbHYzdEdQcDhham80WGc?oc=5",
-      "fecha": "2026-11-24T20:31:00+00:00",
-      "puntaje": 11.95,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "El ICA tiene habilitados 223 predios productores de limón Tahití para la Unión Europea: 121 están en Nariño",
-      "resumen": "El ICA tiene habilitados 223 predios productores de limón Tahití para la Unión Europea: 121 están en Nariño",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Mas Colombia",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sdEV3X0t3WENKYlIwbHRjUl9EdkR2T3dJeUJpZUxFZWVneWRFTGZCSVNnV0NkOWJFNHVOTGUyRVcyNkJ0VUg2STVhVV8tTXBtNFJCTkhRN1BJY21KQ2lWMlg1Rng1d9IBZkFVX3lxTE5sdEV3X0t3WENKYlIwbHRjUl9EdkR2T3dJeUJpZUxFZWVneWRFTGZCSVNnV0NkOWJFNHVOTGUyRVcyNkJ0VUg2STVhVV8tTXBtNFJCTkhRN1BJY21KQ2lWMlg1Rng1dw?oc=5",
-      "fecha": "2026-11-24T11:34:46+00:00",
-      "puntaje": 9.47,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV3Iyb3J5MDhkajdmNjMxZWZNZHJOWEk4dnZ1WE0zREFkMFRsZmdfSTd2SF80QUVwd2pYSXp4ekRiWWhxQWpwSXVRLWl5S0RJX1Q4QlE5TDgyNk11bmZDM3VLWElUZHZrajJvakU5M3FnYlBfbldZWUNjQ3VwX0NvZHR1dUZ3TElXcEM5Z0pSNUxkTHVneFNacXFjdEc1VXdIcXViYVMxUkk4VVp5OERFNHlEWjVMS2EzZGd0bF9wcW80X3lyX1RrZjB5Z2ZHRDR1TEZXQlRR0gHWAUFVX3lxTFBvajBpYWpXTmFOVVZONEpfLXJyd2p6SzdYMVluZVZmdlNyQkVFMEE0NWZUdDhzSXhrdXVXRWhUeU81ZDJkNXUyY2R2ZVMtZUFEczZQVkxhemIwVll6Wi12UV9LYWhBa29qV2ZydzZ2MFNPaXFUT202d1NvQXJ6RV9DMjl2Ymg4U3paVVlOdkVLNDBkMUlhaEladEZ0NnhlWGhBNklSMG5KVXB2Qk1TMHg4aTEwUzdkQzlPTW0xQ0FZQXh2MFpDaXhVMEExd2VfYmtsaG90S0E?oc=5",
+      "fecha": "2026-11-24T20:42:03+00:00",
+      "puntaje": 10.43,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
