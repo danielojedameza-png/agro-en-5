@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-25T19:58:40.002646+00:00",
+  "generado": "2026-11-25T22:27:22.771531+00:00",
   "edicion": "2026-11-25",
   "noticias": [
     {
@@ -10,8 +10,8 @@
       "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
       "fuente": "El Cronista",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp3alNTQUNxQVB2dVFQUGZpbGxQYUI5UWFxQ2pPNlFpblVrUGtrdHU4dEx2RGpINlJXTUhfSER4U3FnOGFoNUJ3aW5rUHdRNjF5WmlIYllNRkprSFpBcjJ0WHhwZG9JLUR3UzJ0ZGdhTWZxNVZzT1NCTS1mUkc4YUhfY0haVURXOGxYUm15NTVJYmNxUFlsZzZsbzJmXzZ2dkpyZ2FaTk8xN1JVNmNUUnlBSEdvWjQ?oc=5",
-      "fecha": "2026-11-25T17:20:04+00:00",
-      "puntaje": 15.27,
+      "fecha": "2026-11-25T20:03:45+00:00",
+      "puntaje": 15.34,
       "herramienta": {
         "texto": "Pon al día los documentos de tu asociación",
         "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
@@ -25,7 +25,7 @@
       "fuente": "HSB Noticias",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2otOFJIOUFvVG9RT0RnWHhoZGl1NTlRcW1MMlRkN28tUGw5RmN6ZmRTU1JJQU1KanJlMms5ck1Pb1dHQkI1OUtwVDk2R0FZZlpaQ0VMM1JnU05MclAwWXh3NVBmamlUcEg3bFJUdk9ETzM1WHpObVhWb1lkQndxcFdGMHlQRG9DTzM0SDN4VDg0N0hacFJCdm9MNDFwOVF4VTg2LWJPNHhxNjA?oc=5",
       "fecha": "2026-11-25T17:28:57+00:00",
-      "puntaje": 11.31,
+      "puntaje": 10.62,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -39,21 +39,7 @@
       "fuente": "Agronegocios",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHhDdUtqZHFDSGM4UVE4RFlyay1zLWgxVVRaQjV6aTlnX3lNOWRKQVdoOUJIWnNjRndETUlOTlVXcjBwSEtUQW5vZFl6cXFPRGM3bFNOOVJ5VVRMc29OWWhlVkU2Z0F6cm44eEYxQkRMek5EbTdkMzM2U3l1VjJveVB6aGJLUnFmSlhlaFBvUkVsUzMyUlI0dUZ2VGNQR1o5VnVWZUNobmNtUE5lMWdtQUxCT1RJcDNSVWV5QXBfTVl3NDVoaDlPT1FaTjQ5bVhYYUHSAdIBQVVfeXFMTkxLV1drZzQyTWoyQXg4RXNpbHdmYVNlQzZVOVFPOUhEaS1BUTNyTGZkRGRkUFhXQ1hES21YTXQ0RzFqa1psMmNvbjlibGJwVExTME15c3BRWldCamlSazM0N2Vpb054eDdkTHB3eXBPZU5laE1teXluejZqQzBQVUtuZkY0VTZ4OXVITjRCTC1JVElOUmNWTGQ5cXQ3c2thX2JBTFZTSmZLT2ptUVVHY0F4ZWMtcFRyel9WT1pBcVc5QVR3ZkJuVWNSeTc3TlF0RnZB?oc=5",
       "fecha": "2026-11-24T20:18:58+00:00",
-      "puntaje": 10.43,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
-      "resumen": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY21QeVgwVUhkeUhMbUNMQ3VBUmlDTUFJR2pRVTlEVUoxd3RLY0ExWUl0ekF4Y1c5alBFTFFKVEFzM2xsYXZhZWhnZ1pUS2xyeU1NaDVyV2UyYlA5SVM3ampfcm9nbjBqMTRpZmpjcHJZNWxHc2FWYU41UVJuNC16NkRvUUhVTF84V3p5NGkwcFZZOUhxeWUzaUF6b1BBNjlk0gGgAUFVX3lxTFBjbVB5WDBVSGR5SExtQ0xDdUFSaUNNQUlHalFVOURVSjF3dEtjQTFZSXR6QXhjVzlqUEVMUUpUQXMzbGxhdmFlaGdnWlRLbHJ5TU1oNXJXZTJiUDlJUzdqal9yb2duMGoxNGlmamNwclk1bEdzYVZhTjVRUm40LXo2RG9RSFVMXzhXenk0aTBwVlk5SHF5ZTNpQXpvUEE2OWQ?oc=5",
-      "fecha": "2026-11-25T17:13:41+00:00",
-      "puntaje": 9.24,
+      "puntaje": 9.74,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -61,13 +47,27 @@
     },
     {
       "categoria": "Agro general",
-      "titulo": "El agro colombiano ya está cambiando",
-      "resumen": "El agro colombiano ya está cambiando",
+      "titulo": "Microsoft y MinAgricultura se alían para modernizar el agro",
+      "resumen": "Microsoft y MinAgricultura se alían para modernizar el agro",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Agronegocios",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQckNJOFVva1BrcWtJVUxLZ2RGUWJJeWxPdHJha3hKdi1CTGswRVBxTFR6V3BLdjZ4bDA1X2JPd3ZZSy1VcE1WalNtcXZGeHZKODVPWk5YSWl5b3FUZTdaOGFXdjI2bEo2bTZITHg2eGs5MDI0TGlpWkF1eEc3dXpIUmhvZkhHaG1rUHozRzRZWTU4QkhtUERjZldYenFhaHQwdGhPYXVsZkVmd0pCcGIzNkxXeEdHYmJVMGw2VnRB0gG-AUFVX3lxTFBsTFhBVGdwN3oyUlVFTTV4SFNucXVhNGx5elg0YXVkWkFRUVVMaW5Pd1EwTjRjZmstd3otS2xUY2N1M294Q0U5VXltalhmREZoX0xWY1hiZlEwdXpOaDNNLXAybm4wX2lLYVlEWUNvWk9XTDR4VDBqOHhBcnR0cF9YMXcxblI3bGsyTC1wLTRlNDhYYS15VktaeXRaUDV4eWc4RWhQOEVvWWQweGNuMU5vcUVSckZiUTVtNlg1ZFE?oc=5",
-      "fecha": "2026-11-25T05:01:25+00:00",
-      "puntaje": 7.85,
+      "fuente": "Opanoticias",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDQzRHp5SEVLMFZDSDFxT1VBdTVzMVJUMUtTY2NlMm9pNEhoTXg5SjZLbVJjUUJsTV9xcjh0Y2tfb2xFc2lwT1lkX2tBVml1dGkwOGdjSVNoLUpVdHdQb0hVNmZmUXNRQ2poYm94OHNRLUNRYm5GVEVDY2I1ajJoMGxRLUJvN09ZaE1zcDRhdUxzaFBP?oc=5",
+      "fecha": "2026-11-25T19:22:08+00:00",
+      "puntaje": 9.14,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
+      "resumen": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSm9zZlJiSDBVd3NKZFJVQkhNVTRiaFBTVXZNRGc5QlRqNnpZdk5wRVBuZEg1VV9FMjRTdjJiTXBKSExBNE1wblZPOURJU19md2FSTUNHTlhWQW5BSG9LN3VFT1daUTZ1MjVhZmpPTWFaYzFrdzRkWlFOQWVJQVZ2VHBLZzBneWVrN0duYV9DTEM5MWM5NmdvRzRFQdIBoAFBVV95cUxQY21QeVgwVUhkeUhMbUNMQ3VBUmlDTUFJR2pRVTlEVUoxd3RLY0ExWUl0ekF4Y1c5alBFTFFKVEFzM2xsYXZhZWhnZ1pUS2xyeU1NaDVyV2UyYlA5SVM3ampfcm9nbjBqMTRpZmpjcHJZNWxHc2FWYU41UVJuNC16NkRvUUhVTF84V3p5NGkwcFZZOUhxeWUzaUF6b1BBNjlk?oc=5",
+      "fecha": "2026-11-25T17:22:40+00:00",
+      "puntaje": 8.59,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
