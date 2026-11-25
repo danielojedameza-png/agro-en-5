@@ -1,0 +1,77 @@
+{
+  "servicio": "Agro en 5 · AGRODASIN",
+  "generado": "2026-11-25T19:58:40.002646+00:00",
+  "edicion": "2026-11-25",
+  "noticias": [
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "ANT abre convocatoria de hasta $750 millones para asociaciones campesinas del Tolima",
+      "resumen": "ANT abre convocatoria de hasta $750 millones para asociaciones campesinas del Tolima",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp3alNTQUNxQVB2dVFQUGZpbGxQYUI5UWFxQ2pPNlFpblVrUGtrdHU4dEx2RGpINlJXTUhfSER4U3FnOGFoNUJ3aW5rUHdRNjF5WmlIYllNRkprSFpBcjJ0WHhwZG9JLUR3UzJ0ZGdhTWZxNVZzT1NCTS1mUkc4YUhfY0haVURXOGxYUm15NTVJYmNxUFlsZzZsbzJmXzZ2dkpyZ2FaTk8xN1JVNmNUUnlBSEdvWjQ?oc=5",
+      "fecha": "2026-11-25T17:20:04+00:00",
+      "puntaje": 15.27,
+      "herramienta": {
+        "texto": "Pon al día los documentos de tu asociación",
+        "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "IDEAM advierte sobre lluvias fuertes en Nariño, Cauca y otros departamentos",
+      "resumen": "IDEAM advierte sobre lluvias fuertes en Nariño, Cauca y otros departamentos",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "HSB Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2otOFJIOUFvVG9RT0RnWHhoZGl1NTlRcW1MMlRkN28tUGw5RmN6ZmRTU1JJQU1KanJlMms5ck1Pb1dHQkI1OUtwVDk2R0FZZlpaQ0VMM1JnU05MclAwWXh3NVBmamlUcEg3bFJUdk9ETzM1WHpObVhWb1lkQndxcFdGMHlQRG9DTzM0SDN4VDg0N0hacFJCdm9MNDFwOVF4VTg2LWJPNHhxNjA?oc=5",
+      "fecha": "2026-11-25T17:28:57+00:00",
+      "puntaje": 11.31,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Sanidad",
+      "titulo": "ICA alerta sobre insecto que amenaza cultivos de papa, tomate y otros productos agrícolas",
+      "resumen": "ICA alerta sobre insecto que amenaza cultivos de papa, tomate y otros productos agrícolas",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHhDdUtqZHFDSGM4UVE4RFlyay1zLWgxVVRaQjV6aTlnX3lNOWRKQVdoOUJIWnNjRndETUlOTlVXcjBwSEtUQW5vZFl6cXFPRGM3bFNOOVJ5VVRMc29OWWhlVkU2Z0F6cm44eEYxQkRMek5EbTdkMzM2U3l1VjJveVB6aGJLUnFmSlhlaFBvUkVsUzMyUlI0dUZ2VGNQR1o5VnVWZUNobmNtUE5lMWdtQUxCT1RJcDNSVWV5QXBfTVl3NDVoaDlPT1FaTjQ5bVhYYUHSAdIBQVVfeXFMTkxLV1drZzQyTWoyQXg4RXNpbHdmYVNlQzZVOVFPOUhEaS1BUTNyTGZkRGRkUFhXQ1hES21YTXQ0RzFqa1psMmNvbjlibGJwVExTME15c3BRWldCamlSazM0N2Vpb054eDdkTHB3eXBPZU5laE1teXluejZqQzBQVUtuZkY0VTZ4OXVITjRCTC1JVElOUmNWTGQ5cXQ3c2thX2JBTFZTSmZLT2ptUVVHY0F4ZWMtcFRyel9WT1pBcVc5QVR3ZkJuVWNSeTc3TlF0RnZB?oc=5",
+      "fecha": "2026-11-24T20:18:58+00:00",
+      "puntaje": 10.43,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
+      "resumen": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY21QeVgwVUhkeUhMbUNMQ3VBUmlDTUFJR2pRVTlEVUoxd3RLY0ExWUl0ekF4Y1c5alBFTFFKVEFzM2xsYXZhZWhnZ1pUS2xyeU1NaDVyV2UyYlA5SVM3ampfcm9nbjBqMTRpZmpjcHJZNWxHc2FWYU41UVJuNC16NkRvUUhVTF84V3p5NGkwcFZZOUhxeWUzaUF6b1BBNjlk0gGgAUFVX3lxTFBjbVB5WDBVSGR5SExtQ0xDdUFSaUNNQUlHalFVOURVSjF3dEtjQTFZSXR6QXhjVzlqUEVMUUpUQXMzbGxhdmFlaGdnWlRLbHJ5TU1oNXJXZTJiUDlJUzdqal9yb2duMGoxNGlmamNwclk1bEdzYVZhTjVRUm40LXo2RG9RSFVMXzhXenk0aTBwVlk5SHF5ZTNpQXpvUEE2OWQ?oc=5",
+      "fecha": "2026-11-25T17:13:41+00:00",
+      "puntaje": 9.24,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "El agro colombiano ya está cambiando",
+      "resumen": "El agro colombiano ya está cambiando",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQckNJOFVva1BrcWtJVUxLZ2RGUWJJeWxPdHJha3hKdi1CTGswRVBxTFR6V3BLdjZ4bDA1X2JPd3ZZSy1VcE1WalNtcXZGeHZKODVPWk5YSWl5b3FUZTdaOGFXdjI2bEo2bTZITHg2eGs5MDI0TGlpWkF1eEc3dXpIUmhvZkhHaG1rUHozRzRZWTU4QkhtUERjZldYenFhaHQwdGhPYXVsZkVmd0pCcGIzNkxXeEdHYmJVMGw2VnRB0gG-AUFVX3lxTFBsTFhBVGdwN3oyUlVFTTV4SFNucXVhNGx5elg0YXVkWkFRUVVMaW5Pd1EwTjRjZmstd3otS2xUY2N1M294Q0U5VXltalhmREZoX0xWY1hiZlEwdXpOaDNNLXAybm4wX2lLYVlEWUNvWk9XTDR4VDBqOHhBcnR0cF9YMXcxblI3bGsyTC1wLTRlNDhYYS15VktaeXRaUDV4eWc4RWhQOEVvWWQweGNuMU5vcUVSckZiUTVtNlg1ZFE?oc=5",
+      "fecha": "2026-11-25T05:01:25+00:00",
+      "puntaje": 7.85,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    }
+  ]
+}

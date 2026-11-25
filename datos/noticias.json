@@ -1,8 +1,36 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-25T02:20:30.941567+00:00",
-  "edicion": "2026-11-24",
+  "generado": "2026-11-25T19:58:40.002646+00:00",
+  "edicion": "2026-11-25",
   "noticias": [
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "ANT abre convocatoria de hasta $750 millones para asociaciones campesinas del Tolima",
+      "resumen": "ANT abre convocatoria de hasta $750 millones para asociaciones campesinas del Tolima",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp3alNTQUNxQVB2dVFQUGZpbGxQYUI5UWFxQ2pPNlFpblVrUGtrdHU4dEx2RGpINlJXTUhfSER4U3FnOGFoNUJ3aW5rUHdRNjF5WmlIYllNRkprSFpBcjJ0WHhwZG9JLUR3UzJ0ZGdhTWZxNVZzT1NCTS1mUkc4YUhfY0haVURXOGxYUm15NTVJYmNxUFlsZzZsbzJmXzZ2dkpyZ2FaTk8xN1JVNmNUUnlBSEdvWjQ?oc=5",
+      "fecha": "2026-11-25T17:20:04+00:00",
+      "puntaje": 15.27,
+      "herramienta": {
+        "texto": "Pon al día los documentos de tu asociación",
+        "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
+      }
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "IDEAM advierte sobre lluvias fuertes en Nariño, Cauca y otros departamentos",
+      "resumen": "IDEAM advierte sobre lluvias fuertes en Nariño, Cauca y otros departamentos",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "HSB Noticias",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2otOFJIOUFvVG9RT0RnWHhoZGl1NTlRcW1MMlRkN28tUGw5RmN6ZmRTU1JJQU1KanJlMms5ck1Pb1dHQkI1OUtwVDk2R0FZZlpaQ0VMM1JnU05MclAwWXh3NVBmamlUcEg3bFJUdk9ETzM1WHpObVhWb1lkQndxcFdGMHlQRG9DTzM0SDN4VDg0N0hacFJCdm9MNDFwOVF4VTg2LWJPNHhxNjA?oc=5",
+      "fecha": "2026-11-25T17:28:57+00:00",
+      "puntaje": 11.31,
+      "herramienta": {
+        "texto": "Guías gratis de cosecha de agua y El Niño",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Sanidad",
       "titulo": "ICA alerta sobre insecto que amenaza cultivos de papa, tomate y otros productos agrícolas",
@@ -11,21 +39,7 @@
       "fuente": "Agronegocios",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHhDdUtqZHFDSGM4UVE4RFlyay1zLWgxVVRaQjV6aTlnX3lNOWRKQVdoOUJIWnNjRndETUlOTlVXcjBwSEtUQW5vZFl6cXFPRGM3bFNOOVJ5VVRMc29OWWhlVkU2Z0F6cm44eEYxQkRMek5EbTdkMzM2U3l1VjJveVB6aGJLUnFmSlhlaFBvUkVsUzMyUlI0dUZ2VGNQR1o5VnVWZUNobmNtUE5lMWdtQUxCT1RJcDNSVWV5QXBfTVl3NDVoaDlPT1FaTjQ5bVhYYUHSAdIBQVVfeXFMTkxLV1drZzQyTWoyQXg4RXNpbHdmYVNlQzZVOVFPOUhEaS1BUTNyTGZkRGRkUFhXQ1hES21YTXQ0RzFqa1psMmNvbjlibGJwVExTME15c3BRWldCamlSazM0N2Vpb054eDdkTHB3eXBPZU5laE1teXluejZqQzBQVUtuZkY0VTZ4OXVITjRCTC1JVElOUmNWTGQ5cXQ3c2thX2JBTFZTSmZLT2ptUVVHY0F4ZWMtcFRyel9WT1pBcVc5QVR3ZkJuVWNSeTc3TlF0RnZB?oc=5",
       "fecha": "2026-11-24T20:18:58+00:00",
-      "puntaje": 15.33,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Sanidad",
-      "titulo": "¡Identifica, prevén y reporta! El ICA invita a proteger los cultivos de solanáceas frente al complejo Bactericera cockerelli - Punta Morada de la Papa y Zebra Chip - Instituto Colombiano Agropecuario",
-      "resumen": "¡Identifica, prevén y reporta! El ICA invita a proteger los cultivos de solanáceas frente al complejo Bactericera cockerelli - Punta Morada de la Papa y Zebra Chip - Instituto Colo",
-      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
-      "fuente": "Instituto Colombiano Agropecuario - ICA",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWxZaWkydjBZaUVIWWNsVGdiWE1IOUk1QnJVbW8ybF9ja1RVWWhRYnBMVnlsOGVZVEd1YkswMlFoWERnSV91RGRDektBTjdoUmY1NHdiQUZvRHQ1TmExdUdSVWlFZzRJVlVfLVZLX0tyWm9HTERXVWFvUm5VMmhUV2JR?oc=5",
-      "fecha": "2026-11-24T17:31:46+00:00",
-      "puntaje": 12.55,
+      "puntaje": 10.43,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -33,27 +47,13 @@
     },
     {
       "categoria": "Mercados y precios",
-      "titulo": "Ni prohibir ni dividir: La coexistencia agrícola que Colombia necesita",
-      "resumen": "Ni prohibir ni dividir: La coexistencia agrícola que Colombia necesita",
+      "titulo": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
+      "resumen": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
       "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "LaRepublica.co",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ3FKV3BHQlY5T0l4YnpXTThJc0FRVGJ6aF84TmZJR0RJY3VqalRjZjJMTlFyOG9XMlNscHg1MkZ3Zl9FenJuc2p5MzRYNUl6QlhqblN3OXRud1RrbWJSb2QwOTRBUXhoSXZaNkFLLWhkS2ZrWmRXWjBHLW5KSlB2cXVjeUktYkNEb0pDc3Zvem00THlReV9sSnplRU5yVFlyUzlKNzBrUFBzNGNhTDdmUGhHZmFIcXlpUndNeXU5WUZFSTU1VW5ZQmVoR1lqQnRDMW9RMjF1VE9PdXhLdGZGSNIB4gFBVV95cUxOVlBsc3RxMDk2aU5XNmRfUXFTcGtzdm9SdExYSVRvT01ERUtPdWJQZUdKNkJ3YWNGRnk3UlItbXpFOVlYV1JPSENZejAzTXhBMTUzWDJFb0JlVnZORFFfU29fdjlZYkNFaFUtblM4WTlTY1h0VHg1ZTlZNXVoZW5oYkw1OEdjSWdlWTRZa3kzTExNQV84akl2U0pUcFZvZXBrdnJZRHFRcDhGYUkzNHYzdVpUWkw3cE01Y0V3UmN1R0RMUWcxZFYyb0V5TVEwQV8zUjVhLWx2M3RHUHA4YWpvNFhn?oc=5",
-      "fecha": "2026-11-24T20:31:00+00:00",
-      "puntaje": 11.38,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Mercados y precios",
-      "titulo": "El precio interno del café colombiano también depende de lo que sucede en la política brasilera",
-      "resumen": "El precio interno del café colombiano también depende de lo que sucede en la política brasilera",
-      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
-      "fuente": "Periódico UNAL",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnR1X3UzSmxHRkktcWNMSjAtSXE5dlVEeWJYYWxZVk8tN3NKcVo1azdNazNPTlhJRU4yb2ExdEIxUEF6dlZ4OXEyQ05SbndHTlBuX3VhcUVOM3dkdkJmVnJLNEtMT1JiV1czMkY1VWRPMVluN0lrcVd6bG93ald6ZGsxejJJQWdtWFVRQVNfTlQtTlh2QXJiWkt5ODFfYmxDRmlBWjRUWWFPdV96N2t2dlFwek5NR0pvWE9wcjV4UDFabjl2ZHNWbHFaUzN1TkE?oc=5",
-      "fecha": "2026-11-24T18:29:26+00:00",
-      "puntaje": 10.82,
+      "fuente": "El Colombiano",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY21QeVgwVUhkeUhMbUNMQ3VBUmlDTUFJR2pRVTlEVUoxd3RLY0ExWUl0ekF4Y1c5alBFTFFKVEFzM2xsYXZhZWhnZ1pUS2xyeU1NaDVyV2UyYlA5SVM3ampfcm9nbjBqMTRpZmpjcHJZNWxHc2FWYU41UVJuNC16NkRvUUhVTF84V3p5NGkwcFZZOUhxeWUzaUF6b1BBNjlk0gGgAUFVX3lxTFBjbVB5WDBVSGR5SExtQ0xDdUFSaUNNQUlHalFVOURVSjF3dEtjQTFZSXR6QXhjVzlqUEVMUUpUQXMzbGxhdmFlaGdnWlRLbHJ5TU1oNXJXZTJiUDlJUzdqal9yb2duMGoxNGlmamNwclk1bEdzYVZhTjVRUm40LXo2RG9RSFVMXzhXenk0aTBwVlk5SHF5ZTNpQXpvUEE2OWQ?oc=5",
+      "fecha": "2026-11-25T17:13:41+00:00",
+      "puntaje": 9.24,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
@@ -61,13 +61,13 @@
     },
     {
       "categoria": "Agro general",
-      "titulo": "MinAgricultura y Microsoft se alían para modernizar tecnológicamente el sector agro",
-      "resumen": "MinAgricultura y Microsoft se alían para modernizar tecnológicamente el sector agro",
+      "titulo": "El agro colombiano ya está cambiando",
+      "resumen": "El agro colombiano ya está cambiando",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
       "fuente": "Agronegocios",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV3Iyb3J5MDhkajdmNjMxZWZNZHJOWEk4dnZ1WE0zREFkMFRsZmdfSTd2SF80QUVwd2pYSXp4ekRiWWhxQWpwSXVRLWl5S0RJX1Q4QlE5TDgyNk11bmZDM3VLWElUZHZrajJvakU5M3FnYlBfbldZWUNjQ3VwX0NvZHR1dUZ3TElXcEM5Z0pSNUxkTHVneFNacXFjdEc1VXdIcXViYVMxUkk4VVp5OERFNHlEWjVMS2EzZGd0bF9wcW80X3lyX1RrZjB5Z2ZHRDR1TEZXQlRR0gHWAUFVX3lxTFBvajBpYWpXTmFOVVZONEpfLXJyd2p6SzdYMVluZVZmdlNyQkVFMEE0NWZUdDhzSXhrdXVXRWhUeU81ZDJkNXUyY2R2ZVMtZUFEczZQVkxhemIwVll6Wi12UV9LYWhBa29qV2ZydzZ2MFNPaXFUT202d1NvQXJ6RV9DMjl2Ymg4U3paVVlOdkVLNDBkMUlhaEladEZ0NnhlWGhBNklSMG5KVXB2Qk1TMHg4aTEwUzdkQzlPTW0xQ0FZQXh2MFpDaXhVMEExd2VfYmtsaG90S0E?oc=5",
-      "fecha": "2026-11-24T20:42:03+00:00",
-      "puntaje": 10.43,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQckNJOFVva1BrcWtJVUxLZ2RGUWJJeWxPdHJha3hKdi1CTGswRVBxTFR6V3BLdjZ4bDA1X2JPd3ZZSy1VcE1WalNtcXZGeHZKODVPWk5YSWl5b3FUZTdaOGFXdjI2bEo2bTZITHg2eGs5MDI0TGlpWkF1eEc3dXpIUmhvZkhHaG1rUHozRzRZWTU4QkhtUERjZldYenFhaHQwdGhPYXVsZkVmd0pCcGIzNkxXeEdHYmJVMGw2VnRB0gG-AUFVX3lxTFBsTFhBVGdwN3oyUlVFTTV4SFNucXVhNGx5elg0YXVkWkFRUVVMaW5Pd1EwTjRjZmstd3otS2xUY2N1M294Q0U5VXltalhmREZoX0xWY1hiZlEwdXpOaDNNLXAybm4wX2lLYVlEWUNvWk9XTDR4VDBqOHhBcnR0cF9YMXcxblI3bGsyTC1wLTRlNDhYYS15VktaeXRaUDV4eWc4RWhQOEVvWWQweGNuMU5vcUVSckZiUTVtNlg1ZFE?oc=5",
+      "fecha": "2026-11-25T05:01:25+00:00",
+      "puntaje": 7.85,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
