@@ -1,8 +1,36 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-26T15:02:38.650000+00:00",
+  "generado": "2026-11-26T19:42:33.391184+00:00",
   "edicion": "2026-11-26",
   "noticias": [
+    {
+      "categoria": "Sanidad",
+      "titulo": "Ica: Contraloría alerta presunto nepotismo e irregularidad en concurso docente de la UNICA",
+      "resumen": "Ica: Contraloría alerta presunto nepotismo e irregularidad en concurso docente de la UNICA",
+      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
+      "fuente": "Diario Correo",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajA5SF96WjlMMDJlVkF1ZkZrU1dYUmhYSjNuc1dUbzUwa0s4bkhDODJRc1hHNEhTNU1zaVppU0VvNEozTDd2STNkc1dObm90MWloWVNDTDRRMXU1NzdxSVZzLUJMckVBV1VfTjE3eU90cjVsWkRLaDczMHIyRzNxVENsSzRuaVd3ZkJUQXNJY3FDdVFvZnhqb0d1VVVhTFFGSjV1bWVWU3QyN0EyZUJZcHU2WGhoRHNYNnhFNEpUR1RDN0cxeFVHR25xVUdkVzTSAeMBQVVfeXFMTXREN2pHNzZ6akhwQlFxZklvdnNvRHdOTmNhem9FTWVVQVd6WEhzQTNTOE9WNE5yTGtXcXJuRlVOVDNFUmF1SXZMbllyMHBZVmFPeU9EOE5PUnRzWmM3TW1NSWszTDdFelFWSEpCR0Znb09QbE1GYVc5azJlLTYtTkNQbUVacFlmRm92VF9od3o1Znc5Smh2bFBGcTY5SUtQS3R2cE4yZ3c0MTFRZlNRcXg4M0JUUE9xeGttUkJfVkJkYnBNcUtENXNtXzBPTzJmTndPNGlkbmk5VW0wUUF0UzR3Slk?oc=5",
+      "fecha": "2026-11-26T18:31:58+00:00",
+      "puntaje": 14.67,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "25 infantes de marina se certifican en bienestar animal con el ICA - Instituto Colombiano Agropecuario",
+      "resumen": "25 infantes de marina se certifican en bienestar animal con el ICA - Instituto Colombiano Agropecuario",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Instituto Colombiano Agropecuario - ICA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0dpaWxwMEhRSGppdWg2Z3FHNWhOOWVKSUh4U2poTE4yZ0dUb2h6emFUN19MZV9MeURjdmcxTFpSUzg4akpmbi11UEdHSHVLeXZGUDViWG41cDRwX0U3bGlqOC11cUI3em9PakIta0FwSE9wdUpXd0NIVU54cGFFSVdDRThqZlJOWHc?oc=5",
+      "fecha": "2026-11-26T17:18:52+00:00",
+      "puntaje": 14.33,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Crédito y convocatorias",
       "titulo": "Hasta el 30 de noviembre podrán inscribirse las asociaciones campesinas en Campo Milagro Tolima",
@@ -11,10 +39,24 @@
       "fuente": "Emisora Ondas de Ibagué",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG1OclE5d1pLNzd2TTZiQm5YTEFHQ1JvaHJIT3p0VmFtcnlJNUhid2dmZ0VHUGRRUEUxTU9vTDRUdmZhdDVqVXY4MkF3UWJqMWZzVUxIQmNWb2JwX25pYV9sRjhIMkI0TUNtZlhwZFpfMm5CMUdNbEsyamFWdFRjTjZQeTJBWWR5cEhUSkg5LWY0UkZhSzNyNWoySExJaUM1eVB4SkJRN3pmTTJNRWR6YXFkRHZtTmpGTzdnOEtVMzJTaEs5S3FTUTg2YTZkSDdTbVFPMTBfaUZLMWVob0xDYQ?oc=5",
       "fecha": "2026-11-26T06:13:45+00:00",
-      "puntaje": 12.55,
+      "puntaje": 11.26,
       "herramienta": {
         "texto": "Pon al día los documentos de tu asociación",
         "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
+      }
+    },
+    {
+      "categoria": "Agro general",
+      "titulo": "Colombia apuesta por 1,5 millones de hectáreas para recuperar la fuerza de su agro",
+      "resumen": "Colombia apuesta por 1,5 millones de hectáreas para recuperar la fuerza de su agro",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "AgroLatam",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdVZQZlh6cmJobWFQTU9iUHU3aXFCcHdPQzhYRmF6d2U1TkxneHZRVW1WakktVzlrMW5uUTZ2dWV5WF9RNUFnU3FIX2ZSblppZ1VUMmcwV2tjeTJFS0R5Uy1vU29Va3Q0WEhYUllRV3NQYzlQczQ1SThlS05JaUdYM0YtNkdnT3NJa0xTSG1VcjJ4Y3NHY0ZxOGR0alFRQ0VpWEphMTZkUEVWSmMxZGdHZkZCd2hxNlZId1ZFOHJ4SlptWWxLOVFOTEloeU84Zw?oc=5",
+      "fecha": "2026-11-26T18:29:03+00:00",
+      "puntaje": 9.66,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
@@ -25,52 +67,10 @@
       "fuente": "El Cronista",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp3alNTQUNxQVB2dVFQUGZpbGxQYUI5UWFxQ2pPNlFpblVrUGtrdHU4dEx2RGpINlJXTUhfSER4U3FnOGFoNUJ3aW5rUHdRNjF5WmlIYllNRkprSFpBcjJ0WHhwZG9JLUR3UzJ0ZGdhTWZxNVZzT1NCTS1mUkc4YUhfY0haVURXOGxYUm15NTVJYmNxUFlsZzZsbzJmXzZ2dkpyZ2FaTk8xN1JVNmNUUnlBSEdvWjQ?oc=5",
       "fecha": "2026-11-25T20:40:45+00:00",
-      "puntaje": 10.9,
+      "puntaje": 9.6,
       "herramienta": {
         "texto": "Pon al día los documentos de tu asociación",
         "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Diversificación, tecnología y nuevos mercados: las apuestas del agro colombiano para 2027",
-      "resumen": "Diversificación, tecnología y nuevos mercados: las apuestas del agro colombiano para 2027",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Agronegocios",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2c5QnNPdmRDbjVkekFoQzNpTmo2V3lRVFVJT01tQUViclBhMTBFeTJrNTF4Z0h1bFEzX2Q1UG9ld2xGeDZBcFdFY2dMVmtOcV9YdXplb3NIN1NnaW4wSFBxT05DRzJ6NE9JUzZOOWZKMzl3bTFSLXJMVGM1S0hFamRCRElvVTlsZWVqM1VHN21LVWx5STlydjdHLWFQbHprVnNydEp4ODJtNlYzb3BHMC1Rak13dl9VSGswUjU2RzZ0ZWY1a2hteGplNXZ1WXdi0gHQAUFVX3lxTE9jM0VCZ3dxT2ZsYTZhWXgtSndWQ3lwejBHbTZTSXlQZTN5UmVkX2VwSVBvTUVwT0tCRmswR1Z0Y2tKWkpidDh3XzBCSGZ3S2VNX0dUMFcxVXhjUnktMlczRkZEdnI4TlJkazB3dzhHY0xFb0FVLVpTQzFiRmlydmdibHNzaFRaQXNUR3QyZnZlZWZ3R01kY0ZheWhyVS1CWHEzejRVaUNOa3ZtVk5ZMXFpNzhvMHpteE01S3JGWjEzOUNXUGNtZnZEMDRZWmhSU0Y?oc=5",
-      "fecha": "2026-11-26T05:01:31+00:00",
-      "puntaje": 9.22,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Política y normas",
-      "titulo": "MinAgricultura propone quitar requisito de registro a productores con crédito de fomento: la norma vigente",
-      "resumen": "MinAgricultura propone quitar requisito de registro a productores con crédito de fomento: la norma vigente",
-      "por_que": "Puede cambiar requisitos, apoyos o reglas que aplican a tu actividad.",
-      "fuente": "Mas Colombia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDZkd1b3FoRExzVGEyN29kbUFxV1JMdXV1dHBjdWZVYWpBTHF0SmNHdGFvREZlM211aVNjQWEzb1FVNUlSTE84OW9OVzhmUDBtZGVsNjgtTEUzb1ZQV1ZtV0tETGJUM25OMXVocNIBbEFVX3lxTFBDZkd1b3FoRExzVGEyN29kbUFxV1JMdXV1dHBjdWZVYWpBTHF0SmNHdGFvREZlM211aVNjQWEzb1FVNUlSTE84OW9OVzhmUDBtZGVsNjgtTEUzb1ZQV1ZtV0tETGJUM25OMXVocA?oc=5",
-      "fecha": "2026-11-25T14:49:33+00:00",
-      "puntaje": 6.27,
-      "herramienta": {
-        "texto": "Haz el diagnóstico gratuito de tu proyecto",
-        "url": "https://www.agrodasin.org.co/diagnostico/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Campesinos de Molagavita y San José de Miranda rechazan delimitación de bosques secos en Santander",
-      "resumen": "Campesinos de Molagavita y San José de Miranda rechazan delimitación de bosques secos en Santander",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Caracol Radio",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXhfMWhMRHk3aDF0ZHl3cWhTTGk2RXUyZmJXNkpqb1gyYTNQa0UtNzAxMG5YVWU3MU1IWmM5bHpfSk5PY0NHU3VtSkNveHNNSmo0Zl9VX1hBOUdvZFJodkN4cEw5NlVycjd5ZXlzRmhYNE9tbERfRms0YXoyeUd3djdNTEM0ZzZ6M0p5V1hwaGQtZ3JPZktqdXhyNDc4eHNLUExFdEptM3dCdU9ld284TzJXNFE5NHZnQXg3QU10MXVBY2NGbWVFeXhvelpHZ9IB4gFBVV95cUxNR1lNRHRXcDFKajFUaGRXczZnMmpqQVNCdkZ1S3Nfcy1JYkRYWUZrMHBFdGZnd0c0dHRmNWpJNHZFMUIyRjk0X0ZaR3hHMHpLbUZMdUhWRFp6Y1VCX2VkZ1JYbzRzVTRtZXRaUEFJVUhGZlRGSDhHVmNSNDdXc2QxWnhWdzN1ZUxadXhZTUpFd2JoUV9jN01RQzFnN2J1T0JwSWhfYW1MTW9jSVMtVzRiS1VGNkVaUnVMS1Z5WHpreHFWa2g4Zmhhb3BvTEwwRTBFTXhIM0JUYmdQWmZKNHpaT2h3?oc=5",
-      "fecha": "2026-11-26T00:24:07+00:00",
-      "puntaje": 5.93,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     }
   ]
