@@ -1,6 +1,6 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-25T22:27:22.771531+00:00",
+  "generado": "2026-11-26T04:57:52.561932+00:00",
   "edicion": "2026-11-25",
   "noticias": [
     {
@@ -10,11 +10,39 @@
       "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
       "fuente": "El Cronista",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp3alNTQUNxQVB2dVFQUGZpbGxQYUI5UWFxQ2pPNlFpblVrUGtrdHU4dEx2RGpINlJXTUhfSER4U3FnOGFoNUJ3aW5rUHdRNjF5WmlIYllNRkprSFpBcjJ0WHhwZG9JLUR3UzJ0ZGdhTWZxNVZzT1NCTS1mUkc4YUhfY0haVURXOGxYUm15NTVJYmNxUFlsZzZsbzJmXzZ2dkpyZ2FaTk8xN1JVNmNUUnlBSEdvWjQ?oc=5",
-      "fecha": "2026-11-25T20:03:45+00:00",
-      "puntaje": 15.34,
+      "fecha": "2026-11-25T20:40:45+00:00",
+      "puntaje": 13.7,
       "herramienta": {
         "texto": "Pon al día los documentos de tu asociación",
         "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
+      }
+    },
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "ANT ofrece hasta $750 millones a asociaciones campesinas del Tolima, pero son pocas las inscritas",
+      "resumen": "ANT ofrece hasta $750 millones a asociaciones campesinas del Tolima, pero son pocas las inscritas",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "Blu Radio",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU3JNb2U5bklHVjRDSkQzbzRwRzB5eE13dTVmUTRsZ2FFNjI0ajRFZTQ3NXM2cl9oZHdXdFYtUUlIdVIxOWhCdFVKNi0tSTRXbzBZYWZqZlZRM0ttcHJkWGJhVk95YXdpZWU2R01LXzRONGVyS3lsRTlFcjczc2JNdW1Obnh5bGNMWk9JSEJscG1uazdDZ25lel9qa3IxTFhFOWNkU19vaEVWbnkwNElFbnZVWjBuSFI5NE4xU3pzOHZERnFqbWVnU05TNU_SAdoBQVVfeXFMTk5HSmVaN1lncUQ5TzY3ZGlYRjhKcHQxWHROaDlnV3F3Q2JWV0hNZWF1Zml6Um1veFUzcWpkWE8xODVROEZWX3hxaFZIUmdFV3djRXBGREw3anhuSUVEeWRvMzE0YXFjX3JSTGhBZnlDdVVoN2VYNUxBZExxNzNEREV1RG1RRWZSNFZ2cDRZSTJpNy1jNmdfRXF2dlBPMm9tNEszTkRBOGludDlIR3lKVmZFaUNTbnhySy16cTJWcXhQNGlSckUwN2NPVFpvSUppWXFCVkhzQjRBVnc?oc=5",
+      "fecha": "2026-11-26T00:16:48+00:00",
+      "puntaje": 10.7,
+      "herramienta": {
+        "texto": "Pon al día los documentos de tu asociación",
+        "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
+      }
+    },
+    {
+      "categoria": "Política y normas",
+      "titulo": "MinAgricultura propone quitar requisito de registro a productores con crédito de fomento: la norma vigente",
+      "resumen": "MinAgricultura propone quitar requisito de registro a productores con crédito de fomento: la norma vigente",
+      "por_que": "Puede cambiar requisitos, apoyos o reglas que aplican a tu actividad.",
+      "fuente": "Mas Colombia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDZkd1b3FoRExzVGEyN29kbUFxV1JMdXV1dHBjdWZVYWpBTHF0SmNHdGFvREZlM211aVNjQWEzb1FVNUlSTE84OW9OVzhmUDBtZGVsNjgtTEUzb1ZQV1ZtV0tETGJUM25OMXVocNIBbEFVX3lxTFBDZkd1b3FoRExzVGEyN29kbUFxV1JMdXV1dHBjdWZVYWpBTHF0SmNHdGFvREZlM211aVNjQWEzb1FVNUlSTE84OW9OVzhmUDBtZGVsNjgtTEUzb1ZQV1ZtV0tETGJUM25OMXVocA?oc=5",
+      "fecha": "2026-11-25T14:49:33+00:00",
+      "puntaje": 9.07,
+      "herramienta": {
+        "texto": "Haz el diagnóstico gratuito de tu proyecto",
+        "url": "https://www.agrodasin.org.co/diagnostico/"
       }
     },
     {
@@ -22,52 +50,24 @@
       "titulo": "IDEAM advierte sobre lluvias fuertes en Nariño, Cauca y otros departamentos",
       "resumen": "IDEAM advierte sobre lluvias fuertes en Nariño, Cauca y otros departamentos",
       "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "HSB Noticias",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ2otOFJIOUFvVG9RT0RnWHhoZGl1NTlRcW1MMlRkN28tUGw5RmN6ZmRTU1JJQU1KanJlMms5ck1Pb1dHQkI1OUtwVDk2R0FZZlpaQ0VMM1JnU05MclAwWXh3NVBmamlUcEg3bFJUdk9ETzM1WHpObVhWb1lkQndxcFdGMHlQRG9DTzM0SDN4VDg0N0hacFJCdm9MNDFwOVF4VTg2LWJPNHhxNjA?oc=5",
+      "fuente": "Diario del Sur",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUQxYkxQelFrRjVJWWJVaEJvUEVobWpUejVjTWM4Q1phYzQ4eDdaTWxJQjdiaURpRVQ0MTd4TFVxUTZiUTU2N3hUbXNZR1FPeU5MUnVfMi1tS1VYWlNuUUNQRWlZMHhka1FwQzY5MlROWUdsckwyMzU0bkJOemc1aHdYUmZmTmluTTViMmthNnNsUTFwMldZNUFfdUF3N2pGQmt1dXdYRUF5WE9KYU40?oc=5",
       "fecha": "2026-11-25T17:28:57+00:00",
-      "puntaje": 10.62,
+      "puntaje": 8.81,
       "herramienta": {
         "texto": "Guías gratis de cosecha de agua y El Niño",
         "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
-      "categoria": "Sanidad",
-      "titulo": "ICA alerta sobre insecto que amenaza cultivos de papa, tomate y otros productos agrícolas",
-      "resumen": "ICA alerta sobre insecto que amenaza cultivos de papa, tomate y otros productos agrícolas",
-      "por_que": "Revisa tus animales o cultivos y reporta casos sospechosos al ICA.",
-      "fuente": "Agronegocios",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHhDdUtqZHFDSGM4UVE4RFlyay1zLWgxVVRaQjV6aTlnX3lNOWRKQVdoOUJIWnNjRndETUlOTlVXcjBwSEtUQW5vZFl6cXFPRGM3bFNOOVJ5VVRMc29OWWhlVkU2Z0F6cm44eEYxQkRMek5EbTdkMzM2U3l1VjJveVB6aGJLUnFmSlhlaFBvUkVsUzMyUlI0dUZ2VGNQR1o5VnVWZUNobmNtUE5lMWdtQUxCT1RJcDNSVWV5QXBfTVl3NDVoaDlPT1FaTjQ5bVhYYUHSAdIBQVVfeXFMTkxLV1drZzQyTWoyQXg4RXNpbHdmYVNlQzZVOVFPOUhEaS1BUTNyTGZkRGRkUFhXQ1hES21YTXQ0RzFqa1psMmNvbjlibGJwVExTME15c3BRWldCamlSazM0N2Vpb054eDdkTHB3eXBPZU5laE1teXluejZqQzBQVUtuZkY0VTZ4OXVITjRCTC1JVElOUmNWTGQ5cXQ3c2thX2JBTFZTSmZLT2ptUVVHY0F4ZWMtcFRyel9WT1pBcVc5QVR3ZkJuVWNSeTc3TlF0RnZB?oc=5",
-      "fecha": "2026-11-24T20:18:58+00:00",
-      "puntaje": 9.74,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
       "categoria": "Agro general",
-      "titulo": "Microsoft y MinAgricultura se alían para modernizar el agro",
-      "resumen": "Microsoft y MinAgricultura se alían para modernizar el agro",
+      "titulo": "Campesinos de Molagavita y San José de Miranda rechazan delimitación de bosques secos en Santander",
+      "resumen": "Campesinos de Molagavita y San José de Miranda rechazan delimitación de bosques secos en Santander",
       "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "Opanoticias",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDQzRHp5SEVLMFZDSDFxT1VBdTVzMVJUMUtTY2NlMm9pNEhoTXg5SjZLbVJjUUJsTV9xcjh0Y2tfb2xFc2lwT1lkX2tBVml1dGkwOGdjSVNoLUpVdHdQb0hVNmZmUXNRQ2poYm94OHNRLUNRYm5GVEVDY2I1ajJoMGxRLUJvN09ZaE1zcDRhdUxzaFBP?oc=5",
-      "fecha": "2026-11-25T19:22:08+00:00",
-      "puntaje": 9.14,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
-      "resumen": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia | El Colombiano",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "El Colombiano",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSm9zZlJiSDBVd3NKZFJVQkhNVTRiaFBTVXZNRGc5QlRqNnpZdk5wRVBuZEg1VV9FMjRTdjJiTXBKSExBNE1wblZPOURJU19md2FSTUNHTlhWQW5BSG9LN3VFT1daUTZ1MjVhZmpPTWFaYzFrdzRkWlFOQWVJQVZ2VHBLZzBneWVrN0duYV9DTEM5MWM5NmdvRzRFQdIBoAFBVV95cUxQY21QeVgwVUhkeUhMbUNMQ3VBUmlDTUFJR2pRVTlEVUoxd3RLY0ExWUl0ekF4Y1c5alBFTFFKVEFzM2xsYXZhZWhnZ1pUS2xyeU1NaDVyV2UyYlA5SVM3ampfcm9nbjBqMTRpZmpjcHJZNWxHc2FWYU41UVJuNC16NkRvUUhVTF84V3p5NGkwcFZZOUhxeWUzaUF6b1BBNjlk?oc=5",
-      "fecha": "2026-11-25T17:22:40+00:00",
-      "puntaje": 8.59,
+      "fuente": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXhfMWhMRHk3aDF0ZHl3cWhTTGk2RXUyZmJXNkpqb1gyYTNQa0UtNzAxMG5YVWU3MU1IWmM5bHpfSk5PY0NHU3VtSkNveHNNSmo0Zl9VX1hBOUdvZFJodkN4cEw5NlVycjd5ZXlzRmhYNE9tbERfRms0YXoyeUd3djdNTEM0ZzZ6M0p5V1hwaGQtZ3JPZktqdXhyNDc4eHNLUExFdEptM3dCdU9ld284TzJXNFE5NHZnQXg3QU10MXVBY2NGbWVFeXhvelpHZ9IB4gFBVV95cUxNR1lNRHRXcDFKajFUaGRXczZnMmpqQVNCdkZ1S3Nfcy1JYkRYWUZrMHBFdGZnd0c0dHRmNWpJNHZFMUIyRjk0X0ZaR3hHMHpLbUZMdUhWRFp6Y1VCX2VkZ1JYbzRzVTRtZXRaUEFJVUhGZlRGSDhHVmNSNDdXc2QxWnhWdzN1ZUxadXhZTUpFd2JoUV9jN01RQzFnN2J1T0JwSWhfYW1MTW9jSVMtVzRiS1VGNkVaUnVMS1Z5WHpreHFWa2g4Zmhhb3BvTEwwRTBFTXhIM0JUYmdQWmZKNHpaT2h3?oc=5",
+      "fecha": "2026-11-26T00:24:07+00:00",
+      "puntaje": 8.73,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
