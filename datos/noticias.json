@@ -1,8 +1,22 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-26T04:57:52.561932+00:00",
-  "edicion": "2026-11-25",
+  "generado": "2026-11-26T15:02:38.650000+00:00",
+  "edicion": "2026-11-26",
   "noticias": [
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "Hasta el 30 de noviembre podrán inscribirse las asociaciones campesinas en Campo Milagro Tolima",
+      "resumen": "Hasta el 30 de noviembre podrán inscribirse las asociaciones campesinas en Campo Milagro Tolima",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "Emisora Ondas de Ibagué",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG1OclE5d1pLNzd2TTZiQm5YTEFHQ1JvaHJIT3p0VmFtcnlJNUhid2dmZ0VHUGRRUEUxTU9vTDRUdmZhdDVqVXY4MkF3UWJqMWZzVUxIQmNWb2JwX25pYV9sRjhIMkI0TUNtZlhwZFpfMm5CMUdNbEsyamFWdFRjTjZQeTJBWWR5cEhUSkg5LWY0UkZhSzNyNWoySExJaUM1eVB4SkJRN3pmTTJNRWR6YXFkRHZtTmpGTzdnOEtVMzJTaEs5S3FTUTg2YTZkSDdTbVFPMTBfaUZLMWVob0xDYQ?oc=5",
+      "fecha": "2026-11-26T06:13:45+00:00",
+      "puntaje": 12.55,
+      "herramienta": {
+        "texto": "Pon al día los documentos de tu asociación",
+        "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
+      }
+    },
     {
       "categoria": "Crédito y convocatorias",
       "titulo": "ANT abre convocatoria de hasta $750 millones para asociaciones campesinas del Tolima",
@@ -11,24 +25,24 @@
       "fuente": "El Cronista",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmp3alNTQUNxQVB2dVFQUGZpbGxQYUI5UWFxQ2pPNlFpblVrUGtrdHU4dEx2RGpINlJXTUhfSER4U3FnOGFoNUJ3aW5rUHdRNjF5WmlIYllNRkprSFpBcjJ0WHhwZG9JLUR3UzJ0ZGdhTWZxNVZzT1NCTS1mUkc4YUhfY0haVURXOGxYUm15NTVJYmNxUFlsZzZsbzJmXzZ2dkpyZ2FaTk8xN1JVNmNUUnlBSEdvWjQ?oc=5",
       "fecha": "2026-11-25T20:40:45+00:00",
-      "puntaje": 13.7,
+      "puntaje": 10.9,
       "herramienta": {
         "texto": "Pon al día los documentos de tu asociación",
         "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
       }
     },
     {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "ANT ofrece hasta $750 millones a asociaciones campesinas del Tolima, pero son pocas las inscritas",
-      "resumen": "ANT ofrece hasta $750 millones a asociaciones campesinas del Tolima, pero son pocas las inscritas",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "Blu Radio",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU3JNb2U5bklHVjRDSkQzbzRwRzB5eE13dTVmUTRsZ2FFNjI0ajRFZTQ3NXM2cl9oZHdXdFYtUUlIdVIxOWhCdFVKNi0tSTRXbzBZYWZqZlZRM0ttcHJkWGJhVk95YXdpZWU2R01LXzRONGVyS3lsRTlFcjczc2JNdW1Obnh5bGNMWk9JSEJscG1uazdDZ25lel9qa3IxTFhFOWNkU19vaEVWbnkwNElFbnZVWjBuSFI5NE4xU3pzOHZERnFqbWVnU05TNU_SAdoBQVVfeXFMTk5HSmVaN1lncUQ5TzY3ZGlYRjhKcHQxWHROaDlnV3F3Q2JWV0hNZWF1Zml6Um1veFUzcWpkWE8xODVROEZWX3hxaFZIUmdFV3djRXBGREw3anhuSUVEeWRvMzE0YXFjX3JSTGhBZnlDdVVoN2VYNUxBZExxNzNEREV1RG1RRWZSNFZ2cDRZSTJpNy1jNmdfRXF2dlBPMm9tNEszTkRBOGludDlIR3lKVmZFaUNTbnhySy16cTJWcXhQNGlSckUwN2NPVFpvSUppWXFCVkhzQjRBVnc?oc=5",
-      "fecha": "2026-11-26T00:16:48+00:00",
-      "puntaje": 10.7,
+      "categoria": "Agro general",
+      "titulo": "Diversificación, tecnología y nuevos mercados: las apuestas del agro colombiano para 2027",
+      "resumen": "Diversificación, tecnología y nuevos mercados: las apuestas del agro colombiano para 2027",
+      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
+      "fuente": "Agronegocios",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2c5QnNPdmRDbjVkekFoQzNpTmo2V3lRVFVJT01tQUViclBhMTBFeTJrNTF4Z0h1bFEzX2Q1UG9ld2xGeDZBcFdFY2dMVmtOcV9YdXplb3NIN1NnaW4wSFBxT05DRzJ6NE9JUzZOOWZKMzl3bTFSLXJMVGM1S0hFamRCRElvVTlsZWVqM1VHN21LVWx5STlydjdHLWFQbHprVnNydEp4ODJtNlYzb3BHMC1Rak13dl9VSGswUjU2RzZ0ZWY1a2hteGplNXZ1WXdi0gHQAUFVX3lxTE9jM0VCZ3dxT2ZsYTZhWXgtSndWQ3lwejBHbTZTSXlQZTN5UmVkX2VwSVBvTUVwT0tCRmswR1Z0Y2tKWkpidDh3XzBCSGZ3S2VNX0dUMFcxVXhjUnktMlczRkZEdnI4TlJkazB3dzhHY0xFb0FVLVpTQzFiRmlydmdibHNzaFRaQXNUR3QyZnZlZWZ3R01kY0ZheWhyVS1CWHEzejRVaUNOa3ZtVk5ZMXFpNzhvMHpteE01S3JGWjEzOUNXUGNtZnZEMDRZWmhSU0Y?oc=5",
+      "fecha": "2026-11-26T05:01:31+00:00",
+      "puntaje": 9.22,
       "herramienta": {
-        "texto": "Pon al día los documentos de tu asociación",
-        "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
@@ -39,24 +53,10 @@
       "fuente": "Mas Colombia",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDZkd1b3FoRExzVGEyN29kbUFxV1JMdXV1dHBjdWZVYWpBTHF0SmNHdGFvREZlM211aVNjQWEzb1FVNUlSTE84OW9OVzhmUDBtZGVsNjgtTEUzb1ZQV1ZtV0tETGJUM25OMXVocNIBbEFVX3lxTFBDZkd1b3FoRExzVGEyN29kbUFxV1JMdXV1dHBjdWZVYWpBTHF0SmNHdGFvREZlM211aVNjQWEzb1FVNUlSTE84OW9OVzhmUDBtZGVsNjgtTEUzb1ZQV1ZtV0tETGJUM25OMXVocA?oc=5",
       "fecha": "2026-11-25T14:49:33+00:00",
-      "puntaje": 9.07,
+      "puntaje": 6.27,
       "herramienta": {
         "texto": "Haz el diagnóstico gratuito de tu proyecto",
         "url": "https://www.agrodasin.org.co/diagnostico/"
-      }
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "IDEAM advierte sobre lluvias fuertes en Nariño, Cauca y otros departamentos",
-      "resumen": "IDEAM advierte sobre lluvias fuertes en Nariño, Cauca y otros departamentos",
-      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
-      "fuente": "Diario del Sur",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQUQxYkxQelFrRjVJWWJVaEJvUEVobWpUejVjTWM4Q1phYzQ4eDdaTWxJQjdiaURpRVQ0MTd4TFVxUTZiUTU2N3hUbXNZR1FPeU5MUnVfMi1tS1VYWlNuUUNQRWlZMHhka1FwQzY5MlROWUdsckwyMzU0bkJOemc1aHdYUmZmTmluTTViMmthNnNsUTFwMldZNUFfdUF3N2pGQmt1dXdYRUF5WE9KYU40?oc=5",
-      "fecha": "2026-11-25T17:28:57+00:00",
-      "puntaje": 8.81,
-      "herramienta": {
-        "texto": "Guías gratis de cosecha de agua y El Niño",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
       }
     },
     {
@@ -67,7 +67,7 @@
       "fuente": "Caracol Radio",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXhfMWhMRHk3aDF0ZHl3cWhTTGk2RXUyZmJXNkpqb1gyYTNQa0UtNzAxMG5YVWU3MU1IWmM5bHpfSk5PY0NHU3VtSkNveHNNSmo0Zl9VX1hBOUdvZFJodkN4cEw5NlVycjd5ZXlzRmhYNE9tbERfRms0YXoyeUd3djdNTEM0ZzZ6M0p5V1hwaGQtZ3JPZktqdXhyNDc4eHNLUExFdEptM3dCdU9ld284TzJXNFE5NHZnQXg3QU10MXVBY2NGbWVFeXhvelpHZ9IB4gFBVV95cUxNR1lNRHRXcDFKajFUaGRXczZnMmpqQVNCdkZ1S3Nfcy1JYkRYWUZrMHBFdGZnd0c0dHRmNWpJNHZFMUIyRjk0X0ZaR3hHMHpLbUZMdUhWRFp6Y1VCX2VkZ1JYbzRzVTRtZXRaUEFJVUhGZlRGSDhHVmNSNDdXc2QxWnhWdzN1ZUxadXhZTUpFd2JoUV9jN01RQzFnN2J1T0JwSWhfYW1MTW9jSVMtVzRiS1VGNkVaUnVMS1Z5WHpreHFWa2g4Zmhhb3BvTEwwRTBFTXhIM0JUYmdQWmZKNHpaT2h3?oc=5",
       "fecha": "2026-11-26T00:24:07+00:00",
-      "puntaje": 8.73,
+      "puntaje": 5.93,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
