@@ -1,8 +1,64 @@
 {
   "servicio": "Agro en 5 · AGRODASIN",
-  "generado": "2026-11-27T08:14:22.016316+00:00",
+  "generado": "2026-11-27T18:53:27.949781+00:00",
   "edicion": "2026-11-27",
   "noticias": [
+    {
+      "categoria": "Clima",
+      "titulo": "Ideam mantiene alerta naranja por fuertes vientos y oleaje en el mar Caribe colombiano",
+      "resumen": "Ideam mantiene alerta naranja por fuertes vientos y oleaje en el mar Caribe colombiano",
+      "por_que": "Anticipa riego, siembra y manejo de animales antes de que cambie el tiempo.",
+      "fuente": "Caracol Radio",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVUtXdHZPcmZXUUxkcFUtcWRkU0FENjRocXV6TFNYT1VTZVJ1cnUxWHVaZGpsbzZFLURtYUh0aTBkWHdBYlNVYVIxVUltY043bjc3VUlVdDhNcGdvNUpuRjNmbVdRejFjSWxRV1FQUHptN3l3SGFlZlpLT2pvOVc4RUQtUFM3c2hBRjhWZ1FlUjQ0LU9OR1lIV1c5NzAzekE4UEdtck5hcU5wMzRRb2RiWTBPRVN6QWFaaW10VEtR0gHSAUFVX3lxTE1RTXl3Q2RPNXFiU1NfaWZHdnRhMGdfYkxjUlhwbVNIaEtvSUxmT0JaaW1tNnN6SEpSOGw5MVFqNVg2N3UzWXpsWWNIZ0VQWDZSUGUwd2x3SjlpNmVDRC10YnR1aU5xdm1naDRDRnY2ekxDSjRNOGNzZktnNk1rVXhYQW5pZEkzdllFTHh3OHZkOUVmZWxMcUN0OU1wWm1zYXVESXNBV01xQTFIVDc1QWFGanFsRzlVdnpjRzJUWHNPLTVqSEZwdUtXWXVSb1pldzN0Zw?oc=5",
+      "fecha": "2026-11-27T12:30:52+00:00",
+      "puntaje": 15.23,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "Menos arroz en los campos colombianos: las cifras que encienden las alertas sobre el futuro del sector",
+      "resumen": "Menos arroz en los campos colombianos: las cifras que encienden las alertas sobre el futuro del sector",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "Ecos del Combeima",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbUJXVHZ3YTc4NEI0WVItQnlnTnBTc3BScEhRb25LSGdXakowckxRNUpfTDFCaUxFWXZYUThtWEc0RERrLVhkbTRJZ01xMDY5V1JQdlJEcktMYzJTMjM0d015c0E4ZVh2aUZZbEJ2dFRUWC1mWGhnRzVEa0lFZ2wxNGhxcm41TFNVbzMxM1RNRW1FOUFoaHIyTVJRLWVPdDJMZ1MySzF5cC1LTkphQTRpWjQ1czZDdjZJVWszWkIybUx2c1NiSkxXY054bw?oc=5",
+      "fecha": "2026-11-27T15:03:35+00:00",
+      "puntaje": 11.94,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
+    {
+      "categoria": "Crédito y convocatorias",
+      "titulo": "Productores de tara en Amazonas acceden a créditos directos del fondo Agroperú",
+      "resumen": "Productores de tara en Amazonas acceden a créditos directos del fondo Agroperú",
+      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
+      "fuente": "Agraria.pe",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmd2N3k2VzV3TjlQcTMyTjNmYVVqNWY4bG1DdnJpNVFWeGkyX1FGUS1QU3d1czNObUlLSUVfb0pwSHh2LUpfMzRwVDh3SFIwZHB2N0F3THljc0tpeVh0clNhcXh3bWhBd0NSMlY1d3RrYTNNQW5BdkVPZW1KMHU0WmhSdENod3lwQk1QcVEyRXNsZWVzblpfMld3?oc=5",
+      "fecha": "2026-11-27T14:04:00+00:00",
+      "puntaje": 11.66,
+      "herramienta": {
+        "texto": "Haz el diagnóstico gratuito de tu proyecto",
+        "url": "https://www.agrodasin.org.co/diagnostico/"
+      }
+    },
+    {
+      "categoria": "Mercados y precios",
+      "titulo": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia",
+      "resumen": "El agro completa un año en números rojos y registra su peor caída en 20 años en Colombia",
+      "por_que": "Úsalo para decidir cuándo vender o comprar y negociar mejor con el intermediario.",
+      "fuente": "El Productor (Ecuador)",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzFuYTR0WXdTd3BkNmRRVGFRLXRaU29MNXlNODZfYjN0b2xtc3B5UEZnWF9ZbHhJQ0RCc1JJUkJPU3dXTHF0UzZGVkRaQ0dNcUhjd0JNRjI1N3VLd0RlS0VFRmxiNzZnSTlQV2ZETkkxSE5lRWZuT2xMMnZydVdIMXlqNnZjaTM5cTRWSzJJSk9pWTBCRTFSYkUwVmZySTJ0Wmg2cjdKYTZ4MjFkQlJVVDBueVNNOWxMU1FMMEJWR3dfbVU?oc=5",
+      "fecha": "2026-11-27T13:43:11+00:00",
+      "puntaje": 8.56,
+      "herramienta": {
+        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
+        "url": "https://www.agrodasin.org.co/biblioteca/"
+      }
+    },
     {
       "categoria": "Sanidad",
       "titulo": "Ica: Contraloría alerta presunto nepotismo e irregularidad en concurso docente de la UNICA",
@@ -11,63 +67,7 @@
       "fuente": "Diario Correo",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajA5SF96WjlMMDJlVkF1ZkZrU1dYUmhYSjNuc1dUbzUwa0s4bkhDODJRc1hHNEhTNU1zaVppU0VvNEozTDd2STNkc1dObm90MWloWVNDTDRRMXU1NzdxSVZzLUJMckVBV1VfTjE3eU90cjVsWkRLaDczMHIyRzNxVENsSzRuaVd3ZkJUQXNJY3FDdVFvZnhqb0d1VVVhTFFGSjV1bWVWU3QyN0EyZUJZcHU2WGhoRHNYNnhFNEpUR1RDN0cxeFVHR25xVUdkVzTSAeMBQVVfeXFMTXREN2pHNzZ6akhwQlFxZklvdnNvRHdOTmNhem9FTWVVQVd6WEhzQTNTOE9WNE5yTGtXcXJuRlVOVDNFUmF1SXZMbllyMHBZVmFPeU9EOE5PUnRzWmM3TW1NSWszTDdFelFWSEpCR0Znb09QbE1GYVc5azJlLTYtTkNQbUVacFlmRm92VF9od3o1Znc5Smh2bFBGcTY5SUtQS3R2cE4yZ3c0MTFRZlNRcXg4M0JUUE9xeGttUkJfVkJkYnBNcUtENXNtXzBPTzJmTndPNGlkbmk5VW0wUUF0UzR3Slk?oc=5",
       "fecha": "2026-11-26T18:31:58+00:00",
-      "puntaje": 11.19,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "Hasta el 30 de noviembre podrán inscribirse las asociaciones campesinas en Campo Milagro Tolima",
-      "resumen": "Hasta el 30 de noviembre podrán inscribirse las asociaciones campesinas en Campo Milagro Tolima",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "Emisora Ondas de Ibagué",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdG1OclE5d1pLNzd2TTZiQm5YTEFHQ1JvaHJIT3p0VmFtcnlJNUhid2dmZ0VHUGRRUEUxTU9vTDRUdmZhdDVqVXY4MkF3UWJqMWZzVUxIQmNWb2JwX25pYV9sRjhIMkI0TUNtZlhwZFpfMm5CMUdNbEsyamFWdFRjTjZQeTJBWWR5cEhUSkg5LWY0UkZhSzNyNWoySExJaUM1eVB4SkJRN3pmTTJNRWR6YXFkRHZtTmpGTzdnOEtVMzJTaEs5S3FTUTg2YTZkSDdTbVFPMTBfaUZLMWVob0xDYQ?oc=5",
-      "fecha": "2026-11-26T06:13:45+00:00",
-      "puntaje": 7.77,
-      "herramienta": {
-        "texto": "Pon al día los documentos de tu asociación",
-        "url": "https://www.agrodasin.org.co/asociacion-al-dia/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Fedegán rindió homenaje a líderes de la ganadería colombiana",
-      "resumen": "Fedegán rindió homenaje a líderes de la ganadería colombiana",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "CONtexto ganadero",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZGRuQVR1SUFSdGk5OHNHWUlSZk9NclpqMk1mZ2kyTExPZWZDNnFVMHVOWWJlblZOZ2tPMERvd0psVmxJQ3lDcjRhLXRjRjkzdlBoLXQ2VHhfekpaQlcyZmJycEttR1BKaTRrZzlaZ2dOT1pjYmtHWGMzNktxX3pJcC1NbEY2RG9xbHdkdjNZaDJKT05xeXJwbnFmdjczTVB3c3ZXakxDU1dOTkJIa2J4TmJhalViZEFvZHJNakc0TXluNDBWb1RIaW1qSEdKTmhfb0VveA?oc=5",
-      "fecha": "2026-11-26T16:10:09+00:00",
-      "puntaje": 7.54,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Crédito y convocatorias",
-      "titulo": "Empresa de Cundinamarca recibió reconocimiento por innovación avícola en foro nacional del agro",
-      "resumen": "Empresa de Cundinamarca recibió reconocimiento por innovación avícola en foro nacional del agro",
-      "por_que": "Revisa requisitos y plazos a tiempo. Pregunta en tu UMATA o secretaría de agricultura.",
-      "fuente": "Gobernación de Cundinamarca",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTUJMcHlWeG5zTGRCSVV4U1ZFUVZFaXA0RU5ZQWU2OVdzYzNuYUhLVnNhMFNGdWc0dUpYX2xOb195bUJyS0pmRkpOdDJyeW9GRFZVc3NCejhzLUNySnNXVU8ySVhWS213Umd2SmxDcHBXWDQyUjgzMnJfanhDSDJ6cEJrR1o2dU5aejdQOFlad2tNbDlYbTUxMTZ6d2ZtNzh0c24yRXRoS2RUXzItc0tuRVhVUE5NcFRHbUktaU4xNUpYNVRsUEIxVXFHdFppbjl6MGc?oc=5",
-      "fecha": "2026-11-26T20:50:18+00:00",
-      "puntaje": 6.83,
-      "herramienta": {
-        "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
-        "url": "https://www.agrodasin.org.co/biblioteca/"
-      }
-    },
-    {
-      "categoria": "Agro general",
-      "titulo": "Colombia apuesta por 1,5 millones de hectáreas para recuperar la fuerza de su agro",
-      "resumen": "Colombia apuesta por 1,5 millones de hectáreas para recuperar la fuerza de su agro",
-      "por_que": "Te ayuda a entender hacia dónde va el sector este año.",
-      "fuente": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdVZQZlh6cmJobWFQTU9iUHU3aXFCcHdPQzhYRmF6d2U1TkxneHZRVW1WakktVzlrMW5uUTZ2dWV5WF9RNUFnU3FIX2ZSblppZ1VUMmcwV2tjeTJFS0R5Uy1vU29Va3Q0WEhYUllRV3NQYzlQczQ1SThlS05JaUdYM0YtNkdnT3NJa0xTSG1VcjJ4Y3NHY0ZxOGR0alFRQ0VpWEphMTZkUEVWSmMxZGdHZkZCd2hxNlZId1ZFOHJ4SlptWWxLOVFOTEloeU84Zw?oc=5",
-      "fecha": "2026-11-26T18:29:03+00:00",
-      "puntaje": 6.18,
+      "puntaje": 8.23,
       "herramienta": {
         "texto": "Recursos gratuitos en la Biblioteca AGRODASIN",
         "url": "https://www.agrodasin.org.co/biblioteca/"
